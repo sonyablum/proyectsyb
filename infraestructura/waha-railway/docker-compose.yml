@@ -1,0 +1,19 @@
+# docker-compose para test LOCAL antes de subir a Railway.
+# En Railway no se usa este archivo (usa el Dockerfile + railway.json).
+
+version: "3.9"
+
+services:
+  waha:
+    build: .
+    container_name: waha-local
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes:
+      - waha-sessions:/app/.sessions
+
+volumes:
+  waha-sessions:

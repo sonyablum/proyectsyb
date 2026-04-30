@@ -1,0 +1,26 @@
+# Secretos
+.env
+*.env
+!.env.example
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Entregables internos con datos cliente
+artefactos/entregables/
+
+# Builds
+node_modules/
+dist/
+build/
+
+# Docs locales (subir a /marco-aca/ solo versiones limpias)
+marco-aca/*.docx
+marco-aca/*.pdf
+!marco-aca/README.md
