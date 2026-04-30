@@ -109,6 +109,15 @@
 
 ---
 
+## 📅 Reunión Hase 28-abr-2026 (40 min) — debrief
+
+**Resultado**: feedback favorable.
+- Hase calificó el tema como "una gran meta por alcanzar".
+- **Pidió enviar resumen por email** para asignar revisión a **2 profesores de su departamento**.
+- Preguntó por horas disponibles → Sonia mencionó el curso data-driven → Hase aprobó: "muy bien que hagas eso".
+- **Email enviado por Sonia el 30-abr-2026** ✅ con Research Programme Statement adjunto.
+- **Próximo paso formal**: esperar respuesta tras revisión de los 2 profesores asignados.
+
 ## 🤝 Conexión académica con Hase / WEAVE
 
 **Proyecto WEAVE de Hase**: diversidad de representaciones digitales en noticias.

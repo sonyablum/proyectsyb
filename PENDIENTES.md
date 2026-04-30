@@ -9,9 +9,11 @@
 | # | Tarea | Estado | Acción inmediata |
 |---|---|---|---|
 | H1 | **Pago inscripción AIEthics 2026 (Madrid)** | 🔴 Vencido | Transferir BBVA `ES5301826101850201610161` o PayPal `activa19comunicaciones@gmail.com` |
-| H2 | **Debrief reunión Hase (28-abr-2026)** | ⚠️ ¿qué pasó? | Necesito tus notas para actualizar dossier académico y siguientes pasos |
-| H3 | **Verificar P3 Sondeo 1** (22-25 abr) | ⚠️ ¿completo? | Si no está al 100%, terminar antes del 5-may para no romper la ventana de 10 días |
-| H4 | **Verificar Delphi R2** (cierre 29-abr) | ⚠️ ¿cerró? | Sin esto no se puede integrar en paper Congreso H + MEDIAETHICS |
+| H2 | **Verificar P3 Sondeo 1** (22-25 abr) | ⚠️ ¿completo? | Si no está al 100%, terminar antes del 5-may para no romper la ventana de 10 días |
+| H3 | **Verificar Delphi R2** (cierre 29-abr) | ⚠️ ¿cerró? | Sin esto no se puede integrar en paper Congreso H + MEDIAETHICS |
+
+> ✅ **Reunión Hase 28-abr** — completada (40 min). Feedback favorable. Tema = "una gran meta por alcanzar". Curso data-driven aprobado por Hase.
+> ✅ **Email a Hase con resumen** — enviado por Sonia el 30-abr-2026. Hase asignará revisión a 2 profesores de su departamento. Esperar respuesta.
 
 ---
 
@@ -72,6 +74,8 @@
 
 ## ✅ Resueltos
 
+- [x] 28-abr: Reunión Hase (40 min) — feedback favorable + curso data-driven aprobado
+- [x] 30-abr: Email a Hase con Research Programme Statement enviado (asignará 2 revisores)
 - [x] 30-abr: Scaffolding repositorio agencia (28 archivos, 6 subagentes, 3 skills, blueprint WAHA, rutinas)
 - [x] 30-abr: Dossier académico canónico integrado (`artefactos/academico/`)
 - [x] 30-abr: Cronología 2024-2028 archivada en repo
