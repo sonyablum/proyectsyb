@@ -1,12 +1,15 @@
 # 📚 Dossier académico — Sonia Yánez Blum
 
-> Fuente canónica para `agente-congresos-academicos`. Toda referencia a publicaciones, DOIs, congresos y pipeline doctoral debe leer de aquí.
+> 🔒 **DOCUMENTO INTERNO. NO COMPARTIR fuera de Sonia + Jefe de Despacho.** Para comunicación externa usar las reglas públicas de la sección 1.
+>
+> Fuente canónica para `agente-congresos-academicos`. Toda referencia a publicaciones, DOIs, congresos y pipeline académico debe leer de aquí.
 
 **ORCID**: [0000-0002-6695-8129](https://orcid.org/0000-0002-6695-8129)
-**Programa doctoral**: HDA — Humans in the Digital Age (AAU Klagenfurt)
-**Supervisora**: Dra. Valerie Hase
+**Programa académico de referencia**: HDA — Humans in the Digital Age (AAU Klagenfurt)
+**Supervisora académica**: Dra. Valerie Hase
 **Sede**: Klagenfurt, Austria → trabajo de campo LATAM
-**Defensa proyectada**: Q3 2028
+**Borrador tesis (interno)**: Q1–Q2 2028 · **Defensa proyectada**: Q3 2028
+**Formato tesis (decisión abierta)**: monográfica o compendio de artículos
 
 ---
 
@@ -41,8 +44,29 @@
 | **RICFE® v2.4** | Framework de prompting estratégico — 5 componentes · n=123 | Abr 2026 | [10.5281/zenodo.19388591](https://doi.org/10.5281/zenodo.19388591) | Yánez Blum, 2026c |
 
 ### Documentos en preparación (sin DOI todavía)
-- **ACA-Score™ v3** — Marco Matemático Bidimensional (borrador 26-abr-2026). ⚠️ NO citar públicamente. Pendiente depositar en Zenodo.
-- **CINCOMA 2025 ponencia** — pendiente depositar en Zenodo para DOI (citar como Yánez Blum, 2025a hasta entonces).
+- **ACA-Score™ v3** — Marco Matemático Bidimensional (borrador 26-abr-2026). ⚠️ NO citar públicamente. Pendiente depositar en Zenodo. (Detalle estructural en §"ACA-Score™ v3" abajo).
+- **CINCOMA 2025 ponencia** — *"Del poder algorítmico a la legitimidad digital: el Marco ACA, el Modelo IAPRMIL y la métrica ACA-Score™ en la Era de las RR.PP. 6.0"*. Presentada **24–26 sep 2025, VI CINCOMA, Alicante (España)**. Pendiente depositar en Zenodo para DOI (citar como Yánez Blum, 2025a hasta entonces).
+
+---
+
+## 🧮 ACA-Score™ v3 — Arquitectura bidimensional (resumen interno)
+
+> ⚠️ Borrador de trabajo (26-abr-2026). Para uso interno y supervisión Hase. NO citar públicamente hasta depositar DOI.
+
+**Estructura de orden superior**:
+
+| Componente | Naturaleza | Composición |
+|---|---|---|
+| **ACA-C** — Credibilidad Algorítmica | Propiedad **interna y controlable** | 4 pilares + 12 KPIs heredados del v2 |
+| **ACA-A** — Autoridad Algorítmica | Propiedad **emergente y relacional** | 4 indicadores nuevos: **FC** (Frecuencia de Citación), **PM** (Posición de Mención), **CA** (Contexto de Atribución), **RE** (Reconocimiento de Expertise) |
+
+**Fórmula de reputación algorítmica**:
+
+> ACA-R = √(ACA-C × ACA-A)   *(media geométrica, no aritmética)*
+
+**Por qué media geométrica**: 5 axiomas demostrados formalmente. El **Axioma 4 (necesidad mutua)** excluye la media aritmética: si ACA-C = 0 y ACA-A = 100, la aritmética da 50, la geométrica da 0. **Sin credibilidad o sin autoridad no hay reputación.**
+
+**Validación**: 6 estudios E1–E6 (ver §Plan de validación) · pre-registro OSF antes de cada recolección.
 
 ---
 
@@ -69,9 +93,10 @@
 
 ## 🧪 P3 Protocol — Fase empírica en curso
 
-**Diseño**: 50 queries × 4 LLMs × 3 iteraciones × 2 idiomas = 600 datos por sondeo.
+**Diseño**: 50 queries (bilingüe ES + EN) × 4 LLMs × 3 iteraciones = **600 datos por sondeo**.
 **LLMs**: ChatGPT · Gemini · Perplexity · Claude.
-**Distribución**: por los 4 pilares ACA™.
+**Distribución de queries**: por los 4 pilares ACA™.
+**Herramienta**: planilla Excel ya generada.
 
 | Sondeo | Fechas | Estado |
 |---|---|---|
@@ -88,11 +113,13 @@
 | Exploratoria (R0) | 130 | Ago–Sep 2025 ✓ | 7 países LATAM. Riesgos: errores/falsedades, falta verificación → **Pilar Trazabilidad** |
 | Piloto estructurado | 5 | Ene–Feb 2026 ✓ | Todos usan IA, mayoría sin política formal |
 | **R1 modificado** | 18 | Abr 2026 ✓ | 61.1% +15 años exp · 77.8% maestría/doctorado · brecha auditabilidad: importancia 88.9% (M=4.50) vs factibilidad 55.6% (M=3.78) |
-| **R2** | 18 | 🔴 **Cierre 29-abr-2026 — verificar** | Integrar en paper Congreso H + MEDIAETHICS |
+| **R2** | panel R1 *(n por confirmar al cierre)* | 🔴 **Cierre 29-abr-2026 — verificar** | Integrar en paper Congreso H + MEDIAETHICS |
 
 ---
 
 ## 🗓 Plan de validación 2026–2028 (6 estudios — ACA-Score™ v3)
+
+> El plan v3 reemplaza al plan v2 anterior (AFC N≥200, ICC(2,1)≥0.65, α-Krippendorff ≥0.90/≥0.75, AVE + fiabilidad compuesta), con metas más exigentes y arquitectura bidimensional ACA-C / ACA-A.
 
 | ID | Estudio | Cuándo | Output objetivo |
 |---|---|---|---|
@@ -111,12 +138,18 @@
 
 ## 📅 Reunión Hase 28-abr-2026 (40 min) — debrief
 
+**Lugar**: oficina V.1.44, AAU Klagenfurt · 13:00h
 **Resultado**: feedback favorable.
 - Hase calificó el tema como "una gran meta por alcanzar".
 - **Pidió enviar resumen por email** para asignar revisión a **2 profesores de su departamento**.
 - Preguntó por horas disponibles → Sonia mencionó el curso data-driven → Hase aprobó: "muy bien que hagas eso".
 - **Email enviado por Sonia el 30-abr-2026** ✅ con Research Programme Statement adjunto.
 - **Próximo paso formal**: esperar respuesta tras revisión de los 2 profesores asignados.
+
+### 3 preguntas abiertas planteadas a Hase (sin respuesta aún)
+1. ¿La distinción **ACA-C / ACA-A** necesita más fundamentación teórica antes del AFC?
+2. ¿Cómo construir **gold standard** para validar el P3 Protocol? (paper Hase 2024 con TeBlunthuis & Chan es referencia directa)
+3. ¿Conviene **stagear** el diseño de 4 plataformas (ChatGPT/Gemini/Perplexity/Claude) por restricciones de recursos?
 
 ## 🤝 Conexión académica con Hase / WEAVE
 
@@ -133,6 +166,15 @@
 | `cronologia-syab-2024-2028.html` | este directorio | Versión visual entregada el 30-abr-2026 |
 | `dossier-academico.md` | este archivo | Fuente canónica editable |
 | `marco-aca/` | repo raíz | Documentos conceptuales (pendientes subir v3 + IA-Ethics) |
+
+---
+
+## 🟡 TODOs internos pendientes de confirmar con Sonia
+
+- [ ] **Sofía** mencionada como apoyo en ensayo de guion EN para Hase — ¿quién es? ¿formalizar como colaboradora?
+- [ ] Confirmar **n final del Delphi R2** una vez cerrada la ronda (provisionalmente: panel R1 de 18).
+- [ ] Confirmar formato de tesis: monográfica o compendio (decisión a tomar antes de Q4 2027).
+- [ ] Verificar dirección oficial de email de Hase (`valerie.hase@aau.at`?) si vuelve a usarse.
 
 ---
 
