@@ -23,8 +23,33 @@ Posicionamiento académico y de pensamiento de Sonia: papers, abstracts, confere
 - Idioma según sede del congreso (ES/EN/PT). Default: español académico.
 - Plazos de envío con buffer de 3 días antes del deadline real.
 
-## Estado pipeline académico
-- **Abstract Congreso H** — listo, esperando revisión final de Sonia. Destinatario y deadline: por confirmar. Ver `PENDIENTES.md`.
+## Fuente canónica
+**Antes de cualquier entregable, leer**: `artefactos/academico/dossier-academico.md`.
+Allí están: DOIs vigentes, RQ canónica (ES/EN), pipeline de congresos, P3 Protocol, Delphi, plan 6 estudios.
+
+## Reglas de oro académicas (NO romper)
+1. **"Investigadora independiente en reputación algorítmica"** — NUNCA "doctoranda", "candidata doctoral", "mi doctorado".
+2. **Solo citar DOIs públicos**: TAA (10.5281/zenodo.18802347), ACA-Score™ v2 (10.5281/zenodo.19035939), RICFE® v2.4 (10.5281/zenodo.19388591).
+3. **ACA-Score™ v3 es borrador interno** sin DOI — no citar públicamente hasta depositar en Zenodo.
+4. **Amcham y campañas políticas** NO son casos académicos.
+5. **CINCOMA 2025** se cita como Yánez Blum, 2025a (pendiente Zenodo).
+
+## Estado pipeline académico (resumen)
+
+| Congreso | Fecha | Estado | Acción |
+|---|---|---|---|
+| AIEthics 2026 (Madrid) | 16-mar-2026 | Presentado ✓ | 🔴 Pago BBVA pendiente |
+| Congreso H 2026 (online) | 27–30 may 2026 | Abstract aprobado | Ponencia antes 27-may |
+| MEDIAETHICS 2026 (Valladolid) | 29-jun a 3-jul 2026 | Abstract aprobado | Ponencia + 🔴 Pago BBVA |
+
+## Pipeline empírico activo
+- **P3 Sondeo 1** (22-25 abr 2026) — verificar completitud.
+- **P3 Sondeo 2** (~5 may 2026, +10 días exactos) — próximo.
+- **Delphi R2** (cierre 29-abr-2026) — verificar.
+- **6 estudios validación** (E1-E6) Q4 2026 → Q4 2027.
+
+## Reunión Hase (28-abr-2026)
+**Pendiente**: debrief con Sonia. Próxima reunión TBD. Documento entregado: Research Programme Statement (EN, 1 pág).
 
 ## Formato abstract estándar
 ```
