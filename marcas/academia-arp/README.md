@@ -1,12 +1,12 @@
-# 🎓 Academia ARP
+# 🎓 Academia ARP — Academia de Relaciones Públicas
 
-> Status: 🟡 Conceptualizada · sin operativa todavía · roadmap por construir.
+> Status: 🟢 Tienda activa con 3 productos sin promoción · catálogo de cursos por construir.
 
 ## Identidad
 
 **Qué es**: la academia digital del grupo. Educación masiva B2C en RRPP 6.0, IA aplicada a comunicación y reputación algorítmica. Productiza el Marco ACA™ y los frameworks (RICFE®, IAPRMIL, IA-Ethics) para profesionales y estudiantes.
 
-**ARP**: *[CONFIRMAR sigla exacta]*. Hipótesis: **Algorithmic Reputation Program** o **Auditoría · Reputación · PR**.
+**ARP** = **Academia de Relaciones Públicas** ✅ (sigla oficial confirmada).
 
 **Target**:
 - Profesionales de PR, comunicación corporativa, marketing digital LATAM y España.
@@ -32,10 +32,11 @@
 - Templates de auditoría ACA™ self-service (versión simplificada).
 - Bibliotecas de prompts.
 
-### 3. Tienda / shop de merch
-- Camisetas, gorras, artículos personalizados.
+### 3. Tienda / shop — 🟢 ACTIVA (3 productos, cero promoción)
+- 3 productos vivos en este momento *(detalle por catalogar en `marcas/academia-arp/tienda.md`)*.
+- Sin promoción → palanca obvia: activar plan de difusión.
 - Posicionamiento: extensión cultural de la marca, no centro de ingresos.
-- *[CONFIRMAR]*: plataforma fulfillment (Printful · Printify · proveedor LATAM).
+- *[CONFIRMAR]*: plataforma de la tienda + fulfillment (Printful · Printify · proveedor LATAM).
 
 ---
 
@@ -88,14 +89,17 @@
 
 ---
 
-## Estado actual (30-abr-2026)
+## Estado actual (1-may-2026)
 
-🟡 Marca planteada conceptualmente. Sin:
-- Plataforma e-commerce / cursos seleccionada.
-- Catálogo formal de productos.
-- Lanzamiento previo.
-- Identidad visual definida.
-- Web propia.
+🟢 **Tienda activa con 3 productos** — sin promoción todavía (palanca de crecimiento inmediata).
+🟡 **Catálogo de cursos**: sin productos lanzados; pipeline editorial por construir.
+
+Falta:
+- Catalogar los 3 productos activos en la tienda (nombres, precios, fotos, URLs).
+- Plataforma de cursos seleccionada y configurada.
+- Identidad visual unificada.
+- Web propia consolidada (si la tienda tiene URL, puede ser punto de entrada inicial).
+- Plan de promoción Q2 2026 para los 3 productos vivos.
 
 ---
 
@@ -103,14 +107,14 @@
 
 | # | Tarea | Prioridad |
 |---|---|---|
-| AC1 | Confirmar sigla exacta "ARP" | 🔴 Antes de cualquier comunicación pública |
-| AC2 | Definir plataforma de cursos (Hotmart · Teachable · Kajabi · LATAM) | 🟡 |
-| AC3 | Definir plataforma e-commerce merch (Shopify + Printful?) | 🟡 |
-| AC4 | Identidad visual (logo, paleta, tipografías) | 🟡 |
-| AC5 | Catálogo MVP: 1 curso + 1 bundle plantillas para lanzamiento beta | 🟡 |
-| AC6 | Web propia (dominio, landing) | 🟡 |
-| AC7 | Política de licencia: cómo ARP usa el Marco ACA™ de Sonia personal | 🟡 |
-| AC8 | Separación fiscal: ¿ARP es marca operativa de qué entidad? | 🟢 *[CONFIRMAR]* |
+| AC1 | Catalogar los 3 productos activos (nombres, precios, fotos, URLs, fulfillment) en `marcas/academia-arp/tienda.md` | 🔴 |
+| AC2 | **Activar plan de promoción** de los 3 productos (mínimo viable: 4 piezas LinkedIn + 1 secuencia email + 1 colaboración) | 🔴 |
+| AC3 | Definir plataforma de cursos (Hotmart · Teachable · Kajabi · LATAM) | 🟡 |
+| AC4 | Confirmar plataforma de tienda actual + fulfillment | 🟡 |
+| AC5 | Identidad visual (logo, paleta, tipografías) | 🟡 |
+| AC6 | Catálogo MVP de cursos: 1 curso + 1 bundle plantillas para beta | 🟡 |
+| AC7 | Web propia consolidada (dominio, landing) | 🟡 |
+| AC8 | Política de licencia: cómo ARP usa el Marco ACA™ de Sonia personal | 🟡 |
 
 ---
 

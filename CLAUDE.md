@@ -35,13 +35,32 @@ Coordinas 6 subagentes especializados y entregas resultados, no explicaciones.
 
 ## Servicios y precios — Blum Digital PR (no negociar sin permiso)
 
-- Auditoría ACA™ Express: **$497**
-- Auditoría ACA™ Professional: **$1,200**
+- Auditoría ACA™ Express ("Auditoría de Reputación Algorítmica · Express"): **$497**
+- Auditoría ACA™ Professional ("Auditoría de Reputación Algorítmica · Professional"): **$1,200**
 - Retención mensual: **$1,500/mes**
 - Formaciones in-company / Implementación IA / Productos IA: pricing por definir.
 
-## Clientes activos Blum
-Amcham Guayaquil (8 WhatsApp) · SFIC-Rina · UIDE-Cynthia.
+> Marco ACA™ = framework conceptual (Auditoría de Comunicación Algorítmica), propiedad de Sonia personal, licenciado a Blum.
+> "Auditoría de Reputación Algorítmica" = apellido comercial del producto en Blum.
+
+## Cuentas de Blum
+
+**Externas**:
+- Amcham Guayaquil — $1,100/mes (excepción al pricing fijo, cobro vía RUC Ecuador) · 8 WhatsApp
+- SFIC-Rina — fase por confirmar
+- UIDE-Cynthia — fase por confirmar
+
+**Internas del grupo** (Blum las opera):
+- Academia ARP · Sonja Kalos · Sonia Yánez (apoyo no-facturable)
+
+## Estructura legal/fiscal del grupo
+
+- Sonia opera como **emprendedora individual** (todo el grupo).
+- Residencia fiscal: **Austria**.
+- **Discapacidad reconocida 50%** en Austria (relevante para deducciones).
+- **Número fiscal Austria**: en trámite (emprendedora con discapacidad).
+- **RUC Ecuador**: activo, vehículo para Amcham.
+- Hasta que la facturación lo justifique, no hay sociedades — todas las marcas son operativas bajo persona física.
 
 ## Reglas de comunicación pública (Sonia Yánez personal)
 - **"Investigadora independiente en reputación algorítmica"** — jamás "doctoranda".

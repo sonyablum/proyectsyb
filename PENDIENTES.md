@@ -1,19 +1,22 @@
 # 📋 Pendientes — Grupo Sonia Yánez Blum
 
-> Actualizado: 30-abr-2026. Organizado por marca + transversal. Hoy es **jueves**, mañana viernes 1-may → infra técnica Blum.
+> Actualizado: 1-may-2026. Organizado por marca + transversal. Hoy es **viernes** → infra técnica Blum.
 
 ---
 
-## 🚨 URGENTE HOY (30-abr-2026)
+## 🚨 URGENTE HOY (vie 1-may-2026)
 
 | # | Marca | Tarea | Acción inmediata |
 |---|---|---|---|
-| H1 | Sonia Yánez | **Pago AIEthics 2026 (Madrid)** | BBVA `ES5301826101850201610161` o PayPal `activa19comunicaciones@gmail.com` |
-| H2 | Sonia Yánez | **Verificar P3 Sondeo 1** completo (22-25 abr) | Si no, terminar antes 5-may para no romper ventana 10 días |
-| H3 | Sonia Yánez | **Verificar Delphi R2** cerró 29-abr | Sin esto no se integra en paper Congreso H + MEDIAETHICS |
-| H4 | Holding | **Confirmar las 8 preguntas de arquitectura** abiertas en `ORQUESTA.md` | Para cerrar la arquitectura del grupo |
+| H1 | Blum | **WAHA en Railway desplegado** | 09:30 — paso a paso en `infraestructura/waha-railway/README.md` |
+| H2 | Blum | **3 escenarios Make conectados** | 10:30 — WhatsApp→CRM · Email→ACA→Drive · Menciones→Reputación |
+| H3 | Sonia Yánez | **Pago AIEthics 2026 (Madrid)** | BBVA `ES5301826101850201610161` (cuenta vencida) |
+| H4 | Sonia Yánez | **Verificar P3 Sondeo 1** completo (22-25 abr) | Si no, terminar antes 5-may para no romper ventana 10 días |
+| H5 | Sonia Yánez | **Verificar Delphi R2** cerró 29-abr | Sin esto no se integra en paper Congreso H + MEDIAETHICS |
+| H6 | Sonja Kalos | **OK de Sonia a la recomendación**: "AI persona declarada bajo personaje aislado" | Desbloquea diseño operativo Sonja Kalos |
 
 > ✅ **Hase 28-abr** → reunión ok · email enviado 30-abr · esperando respuesta de los 2 revisores asignados.
+> ✅ **Arquitectura del grupo** → 8 preguntas críticas cerradas (1-may). Solo queda OK a recomendación Sonja Kalos.
 
 ---
 
@@ -60,18 +63,26 @@
 ### Academia ARP
 | # | Tarea | Deadline |
 |---|---|---|
-| AC1 | Confirmar sigla "ARP" | Antes de cualquier comunicación pública |
-| AC2 | MVP catálogo: 1 curso + 1 bundle plantillas | Roadmap |
-| AC3 | Plataforma cursos + plataforma e-commerce merch | Roadmap |
-| AC4 | Identidad visual Academia ARP | Roadmap |
-| AC5 | Política de licencia Marco ACA™ desde Sonia personal | Antes lanzamiento |
+| AC1 | **Catalogar los 3 productos activos** (nombre, precio, foto, URL, fulfillment) en `marcas/academia-arp/tienda.md` | Esta semana |
+| AC2 | **Plan de promoción** mínimo viable: 4 piezas LinkedIn + 1 secuencia email + 1 colaboración | Próximas 2 semanas |
+| AC3 | Plataforma cursos seleccionada | Roadmap |
+| AC4 | Identidad visual unificada | Roadmap |
+| AC5 | Política de licencia Marco ACA™ (Sonia → Academia ARP) | Antes próximo lanzamiento |
 
 ### Sonja Kalos (silo)
 | # | Tarea | Deadline |
 |---|---|---|
-| SK1 | Confirmar grafía Kalos / Kallos | Antes de cualquier comunicación |
-| SK2 | Definir naturaleza pública (humana / AI persona / personaje) | Antes de comunicación |
-| SK3 | Política transparencia AI + datos sensibles | Antes de operativa |
+| SK1 | OK Sonia a recomendación "AI persona declarada bajo personaje aislado" | Esta semana |
+| SK2 | Dominio web propio + identidad visual aislada | Tras OK |
+| SK3 | Catálogo MVP de 3 productos esotéricos AI | Tras OK |
+| SK4 | Disclaimer transparencia AI + política datos sensibles | 🔴 antes de cualquier venta |
+
+### Capa transversal — fiscal/legal
+| # | Tarea | Deadline |
+|---|---|---|
+| FX1 | Sacar **número fiscal Austria** como emprendedora con discapacidad 50% | En trámite |
+| FX2 | Confirmar libros contables separados por marca (etiqueta interna, no entidades distintas) | Esta semana |
+| FX3 | Decisión pricing Amcham al renove ($1,100 actual vs $1,500 estándar) | Antes próximo renove |
 
 ---
 
@@ -112,8 +123,9 @@
 - [x] 30-abr: Scaffolding repositorio agencia (28 archivos iniciales)
 - [x] 30-abr: Dossier académico canónico integrado + auditoría R1+R3 corregida
 - [x] 30-abr: ORQUESTA.md reescrito como mapa maestro de holding (4 marcas + capa transversal)
-- [x] 30-abr: Brief operativo por marca creado (`marcas/blum-digital-pr/`, `marcas/academia-arp/`, `marcas/sonia-yanez/`, `marcas/sonja-kalos/`)
+- [x] 30-abr: Brief operativo por marca creado (`marcas/`)
 - [x] 30-abr: CLAUDE.md actualizado con arquitectura de 4 marcas + reglas
+- [x] 1-may: 8 preguntas críticas de arquitectura cerradas. ARP = Academia de Relaciones Públicas. Auditoría = "Auditoría de Reputación Algorítmica" (Blum). Tienda activa 3 productos. Estructura fiscal: persona física Austria + RUC Ecuador. Sonja Kalos = grafía con una L
 
 ---
 

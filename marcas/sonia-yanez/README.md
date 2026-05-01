@@ -11,6 +11,14 @@
 
 **Rol en el holding**: cabeza intelectual y creadora. Las otras marcas (Blum, Academia ARP, Sonja Kalos) operan, pero los **activos intelectuales son suyos**.
 
+## Estructura legal/fiscal (interna)
+
+- **Residencia fiscal**: Austria.
+- **Estatus**: emprendedora individual (todo el grupo opera bajo persona física hasta que la facturación justifique sociedades).
+- **Discapacidad reconocida**: 50% en Austria — relevante para deducciones y subsidios al emprendimiento.
+- **Próximo trámite**: número fiscal Austria como emprendedora con discapacidad (en marcha).
+- **RUC Ecuador**: activo. Vehículo para cobrar a Amcham Guayaquil ($1,100/mes).
+
 ---
 
 ## Activos intelectuales (propiedad personal)

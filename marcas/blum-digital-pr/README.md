@@ -18,11 +18,13 @@
 
 ## Líneas de servicio
 
+> **Nota de naming**: el framework conceptual **Marco ACA™** = Auditoría de **Comunicación** Algorítmica (propiedad de Sonia personal, licenciado a Blum). El producto comercial de Blum se vende públicamente como **"Auditoría de Reputación Algorítmica"** por claridad de mercado.
+
 ### Auditorías y diagnóstico
-| Producto | Precio | Duración | Entregable |
-|---|---|---|---|
-| Auditoría ACA™ Express | **$497** | 5 días | Reporte + 1 sesión 60 min |
-| Auditoría ACA™ Professional | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan 90 días |
+| Producto | Apellido comercial | Precio | Duración | Entregable |
+|---|---|---|---|---|
+| ACA™ Express | "Auditoría de Reputación Algorítmica · Express" | **$497** | 5 días | Reporte + 1 sesión 60 min |
+| ACA™ Professional | "Auditoría de Reputación Algorítmica · Professional" | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan 90 días |
 
 ### Acompañamiento continuo
 | Producto | Precio | Mecanismo |
@@ -35,23 +37,27 @@
 - **Implementación de procesos IA** — diseño + adopción + gobernanza ética.
 - **Desarrollo de productos IA enfocados en RRPP** — prompts, asistentes, dashboards, automatizaciones a medida.
 
-> 🟡 *[CONFIRMAR]*: pricing y duración de los 4 servicios premium pendiente de definir.
+> 🟡 Pricing y duración de los 4 servicios premium pendiente de definir.
 
 ---
 
 ## Cartera de cuentas
 
 ### Externas (clientes pagantes)
-| Cliente | Sector | Estado | Responsable | Servicio activo |
+| Cliente | País | Estado | Pricing real | Notas |
 |---|---|---|---|---|
-| **Amcham Guayaquil** | Cámara binacional | 🟢 Activo · 8 chats WhatsApp | TBD | TBD *[CONFIRMAR]* |
-| **SFIC-Rina** | TBD | 🟡 Estado por confirmar | Rina | TBD *[CONFIRMAR]* |
-| **UIDE-Cynthia** | Universidad (Ecuador) | 🟡 Estado por confirmar | Cynthia | TBD *[CONFIRMAR]* |
+| **Amcham Guayaquil** | Ecuador | 🟢 Activo · 8 chats WhatsApp | **$1,100/mes** *(excepción al pricing fijo)* | Cobro vía RUC Ecuador |
+| **SFIC-Rina** | TBD | 🟡 Por confirmar | TBD | |
+| **UIDE-Cynthia** | Ecuador | 🟡 Por confirmar | TBD | Universidad |
 
-### Internas del grupo (servicios cruzados, libro contable separado)
-- Academia ARP (estrategia digital, lanzamientos, reputación algorítmica).
-- Sonja Kalos (operación de marketing en silo · firewall).
-- Sonia Yánez personal (gestión de speaker positioning, prensa académica).
+> Amcham factura **$1,100/mes** (no $1,500 estándar). Es una excepción contractual heredada — al renovarse, decidir si subir a tarifa actual.
+
+### Internas del grupo (Blum las opera · libro contable etiquetado)
+| Cliente interno | Servicio típico |
+|---|---|
+| **Academia ARP** | Estrategia digital, lanzamientos, reputación algorítmica de la marca, marketing de la tienda activa |
+| **Sonja Kalos** | Operación de marketing en silo · firewall narrativo absoluto |
+| **Sonia Yánez personal** | Speaker positioning, prensa académica (apoyo no-facturable) |
 
 ---
 
@@ -113,13 +119,13 @@
 
 | # | Tarea | Prioridad |
 |---|---|---|
-| B1 | Confirmar qué servicio activo tiene cada cliente externo | 🔴 |
+| B1 | Confirmar fase y servicio activo de SFIC-Rina y UIDE-Cynthia | 🔴 |
 | B2 | Pricing y duración formaciones in-company / implementación / productos IA | 🟡 |
 | B3 | Plantillas Professional + Retención + propuesta comercial | 🟡 |
 | B4 | Catálogo de casos de éxito anonimizados (1 por cliente) | 🟢 |
 | B5 | Contrato tipo de retención mensual | 🟡 |
-| B6 | Página web y handles oficiales de Blum Digital PR | 🟢 *[CONFIRMAR]* |
-| B7 | Separación legal/fiscal: ¿Blum opera bajo qué entidad? | 🟢 *[CONFIRMAR]* |
+| B6 | Página web y handles oficiales de Blum Digital PR | 🟢 |
+| B7 | Decisión sobre pricing Amcham al próximo renove (subir a $1,500 o mantener $1,100) | 🟡 |
 
 ---
 

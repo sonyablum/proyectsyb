@@ -229,19 +229,18 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 
 ---
 
-## ❓ Preguntas críticas para que confirmes (necesito tu OK para cerrar la arquitectura)
+## ✅ Arquitectura confirmada (1-may-2026)
 
-| # | Pregunta | Por qué importa |
-|---|---|---|
-| Q1 | **¿Amcham, SFIC-Rina, UIDE-Cynthia son clientes de Blum Digital PR?** ¿O alguno está bajo otra marca? | Determina dónde se factura y bajo qué cuenta se reporta |
-| Q2 | **Qué significa "ARP"** en Academia ARP (sigla exacta) | Para citar correctamente y diseñar la marca |
-| Q3 | **Las Auditorías ACA™ Express/Professional/Retención** ¿son productos de Blum Digital PR, de Sonia Yánez personal, o de las dos? | Si es Blum, pricing y cobro van por Blum; si es marca personal, va por tu factura como persona |
-| Q4 | **Sonja Kalos** ¿es una persona física, un alias tuyo, o un personaje/AI persona? Y ¿en el público se presenta como humana o se reconoce como AI? | Define los riesgos de comunicación y la separación legal/ética |
-| Q5 | **¿Hay separación fiscal/legal** entre las 4 marcas? ¿Cuál opera bajo Sonia Yánez Blum persona física, cuál bajo empresa, cuál bajo marca registrada? | Para que el CFO consolide bien y para los disclaimers públicos |
-| Q6 | **Tienda de Academia ARP** (camisetas, gorras): ¿está activa, en proyecto, o solo idea? ¿qué fulfillment usas? | Para roadmap de plataforma e-commerce |
-| Q7 | **¿"Agencia AI PR" / "Sonia Yánez AI HQ"** del primer encuadre era el nombre interno de Blum Digital PR, o era el nombre del holding completo? | Para no duplicar nombres |
-| Q8 | **¿Sonja Kallos o Sonja Kalos?** Aparecen las dos grafías en tu mensaje | Para registrar correctamente |
+| Punto | Decisión |
+|---|---|
+| **"Agencia AI PR" / "Sonia Yánez AI HQ"** | Era el nombre interno de **Blum Digital PR**. Queda como un alias histórico. |
+| **Cuentas de Blum Digital PR** | Externa: **Amcham Guayaquil** ($1,100/mes vía RUC Ecuador). Internas del grupo: **Academia ARP**, **Sonja Kalos**. *(SFIC-Rina y UIDE-Cynthia: estado por confirmar)*. |
+| **Auditorías ACA™** | Producto comercial de **Blum Digital PR**. Apellido público para mercado: "Auditoría de Reputación Algorítmica". El framework conceptual (Marco ACA™ = Auditoría de Comunicación Algorítmica) sigue siendo propiedad de Sonia personal y se licencia. |
+| **ARP** | **Academia de Relaciones Públicas**. |
+| **Tienda Academia ARP** | 🟢 Activa con **3 productos**, sin promoción. Próximo paso: activar plan de difusión. |
+| **Sonja Kalos** | Grafía oficial: **Kalos** (una L). Recomendación de naturaleza pública: ver `marcas/sonja-kalos/README.md` (propuesta: **AI persona declarada bajo personaje aislado**). |
+| **Estructura legal/fiscal** | Sonia opera como **emprendedora individual** (no hay sociedades por baja facturación). Residencia fiscal: **Austria**. RUC Ecuador para Amcham. **Pendiente sacar número fiscal Austria como emprendedora con discapacidad 50%**. |
+
+> Las preguntas Q1, Q2, Q3, Q5, Q6, Q7, Q8 están **cerradas**. Q4 (naturaleza pública de Sonja Kalos) tiene **recomendación abierta para tu OK**.
 
 ---
-
-Cuando me respondas estas 8, cierro la arquitectura y la dejo lista. Mientras tanto, este `ORQUESTA.md` queda como versión 0.5 — completa en estructura, abierta en los puntos arriba.
