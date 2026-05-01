@@ -62,7 +62,7 @@ R2 NO es independiente de R1: cada ítem de R2 muestra el resultado de R1 como *
 |---|---|
 | "Delphi del FACE n=17" en FACE Working Paper v0.6 | Era el panel anterior. El panel actual del Delphi GEAC R2 es n=18 según el Research Programme Statement enviado a Hase |
 | "Delphi R2 cierre 29-abr" en PENDIENTES | Es **el Delphi GEAC R2** (no del FACE) — incluye el Bloque B del FACE como uno de sus 4 bloques |
-| "Sub-estudio estabilidad temporal 7 días" en FACE WP vs "P3 Sondeo 2 +10 días" en dossier | **Son instrumentos distintos**: el sub-estudio del FACE WP a 7 días mide solo estabilidad de la variable criterio (citación LLM); el P3 Protocol +10 días es el diseño completo de Sonia. Mantener ambos como separados hasta confirmar |
+| "Sub-estudio estabilidad temporal 7 días" en FACE WP vs "P3 Sondeo 2 +10 días" en dossier | **Son instrumentos distintos** ✅ confirmado por Sonia 1-may-2026: el sub-estudio del FACE WP a 7 días mide solo estabilidad de la variable criterio (citación LLM); el P3 Protocol +10 días es el diseño completo de Sonia |
 
 ## Pendientes
 

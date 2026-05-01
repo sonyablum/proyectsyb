@@ -48,7 +48,7 @@ Ambos son parte del **Sistema ACA** pero se usan por separado.
 | **Delphi** | n=17 expertos, 3 rondas, Kappa Fleiss ≥0.70. R1 completada feb 2026. R2 en curso Q2 2026. *(Conciliar con `dossier-academico.md` que dice n=18 — verificar fuente correcta)* |
 | **Estudio empírico** | N≥100 organizaciones, 24 meses, 50 queries × 4 LLMs (GPT-4o, Gemini 1.5 Pro, Claude 3.5 Sonnet, Perplexity), ≥60% LATAM |
 | **Fase piloto** | N=20, 6 meses, 20 queries × 2 LLMs (GPT-4o + Perplexity) |
-| **Sub-estudio estabilidad temporal** | 3 mediciones a **7 días** mismo LLM. *(Conciliar con P3 Sondeo 1↔2 que el dossier marca a 10 días)* |
+| **Sub-estudio estabilidad temporal** | 3 mediciones a **7 días** mismo LLM. **Independiente del P3 Protocol** (que opera a +10 días con diseño completo de Sonia). Confirmado por Sonia 1-may-2026. |
 | **Validación psicométrica** | CVR Lawshe (N=12), CFA (CFI≥0.95, RMSEA≤0.06), α≥0.70, ω≥0.75, ICC(2,1)≥0.75 |
 
 ## Reglas de uso del modelo

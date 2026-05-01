@@ -229,6 +229,22 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 
 ---
 
+## 🏛 Arquitectura de 3 capas (confirmada 1-may-2026)
+
+```
+   CEO (Sonia, humana)               decide y envía al exterior
+        ▲
+   JEFE DE DESPACHO (Claude)         orquesta · reporta · coherencia · A2A · SLA
+        ▲
+   4 PRESIDENTES IA (asesores)       recomiendan por marca · NUNCA deciden
+   (Sonia · Blum · ARP · Sonja Kalos)
+        ▲
+   6 SUBAGENTES FUNCIONALES          mkt · ventas · pr-medios · cfo
+   (compartidos entre marcas)        automatizaciones · congresos-académicos
+```
+
+Detalle en `gobernanza/README.md`. Mandatos en `gobernanza/presidentes/`.
+
 ## ✅ Arquitectura confirmada (1-may-2026)
 
 | Punto | Decisión |
