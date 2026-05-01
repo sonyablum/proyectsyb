@@ -1,0 +1,132 @@
+# 🏢 Blum Digital PR
+
+> Status: 🟢 Operando · 3 cuentas externas activas · infra técnica en montaje (vie 1-may).
+
+## Identidad
+
+**Tagline interno**: "La consultora de las consultoras y agencias de PR".
+
+**Posicionamiento**: consultoría premium B2B que ayuda a otras consultoras, agencias de PR y direcciones de comunicación a **integrar IA y reputación algorítmica** en sus procesos. Aplica el Marco ACA™ (licenciado de Sonia Yánez personal).
+
+**Diferenciadores**:
+- Marco ACA™ propietario (vía Sonia Yánez).
+- Foco en **reputación algorítmica** (cómo las marcas aparecen en LLMs).
+- Operación 100% remota desde Klagenfurt para LATAM y España.
+- Ética IA como columna (Protocolo IA-Ethics).
+
+---
+
+## Líneas de servicio
+
+### Auditorías y diagnóstico
+| Producto | Precio | Duración | Entregable |
+|---|---|---|---|
+| Auditoría ACA™ Express | **$497** | 5 días | Reporte + 1 sesión 60 min |
+| Auditoría ACA™ Professional | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan 90 días |
+
+### Acompañamiento continuo
+| Producto | Precio | Mecanismo |
+|---|---|---|
+| Retención mensual | **$1,500/mes** | 4 entregables/mes + monitoreo + sesión estratégica |
+
+### Servicios premium B2B (por catalogar)
+- **Formaciones ejecutivas in-company** — talleres a medida para C-suite y direcciones de comunicación.
+- **Formaciones de alto nivel** — programas modulares para equipos de PR/comms.
+- **Implementación de procesos IA** — diseño + adopción + gobernanza ética.
+- **Desarrollo de productos IA enfocados en RRPP** — prompts, asistentes, dashboards, automatizaciones a medida.
+
+> 🟡 *[CONFIRMAR]*: pricing y duración de los 4 servicios premium pendiente de definir.
+
+---
+
+## Cartera de cuentas
+
+### Externas (clientes pagantes)
+| Cliente | Sector | Estado | Responsable | Servicio activo |
+|---|---|---|---|---|
+| **Amcham Guayaquil** | Cámara binacional | 🟢 Activo · 8 chats WhatsApp | TBD | TBD *[CONFIRMAR]* |
+| **SFIC-Rina** | TBD | 🟡 Estado por confirmar | Rina | TBD *[CONFIRMAR]* |
+| **UIDE-Cynthia** | Universidad (Ecuador) | 🟡 Estado por confirmar | Cynthia | TBD *[CONFIRMAR]* |
+
+### Internas del grupo (servicios cruzados, libro contable separado)
+- Academia ARP (estrategia digital, lanzamientos, reputación algorítmica).
+- Sonja Kalos (operación de marketing en silo · firewall).
+- Sonia Yánez personal (gestión de speaker positioning, prensa académica).
+
+---
+
+## Subagentes que la operan
+
+| Subagente | Función en Blum |
+|---|---|
+| `agente-ventas` | Pipeline comercial, propuestas, cierres |
+| `agente-marketing` | LinkedIn corporativo, casos anonimizados, nurturing |
+| `agente-pr-medios` | Prensa especializada, monitoreo, crisis, reputación algorítmica de clientes |
+| `agente-cfo` | Facturación, P&L, MRR, cobranza, márgenes |
+| `agente-automatizaciones` | WAHA, Make, Notion CRM, Drive |
+
+---
+
+## Mi papel (Jefe de Despacho)
+
+- Pipeline comercial vivo: lead → diagnóstico (20 min gratis) → propuesta → cierre → onboarding.
+- Borradores de propuestas (Express, Professional, Retención, Formaciones, Implementación).
+- Plantillas de auditoría listas (`artefactos/plantilla-auditoria-aca-express.md`; resto pendiente).
+- Reporting mensual a clientes con métricas ACA™ y monitoreo algorítmico.
+- Coordinación de crisis (protocolo 4h con Sonia).
+- **Nunca** envío al cliente sin tu OK explícito.
+
+---
+
+## Indicadores que vigilo
+
+- MRR (retenciones activas)
+- Conversión Express → Professional → Retención
+- Margen bruto por cliente
+- Días promedio de cobro
+- NPS de clientes
+- Costo de adquisición (CAC) estimado
+
+---
+
+## Estado actual (30-abr-2026)
+
+**Operativa**:
+- 3 clientes externos activos con interacción en marcha.
+- WAHA + 3 escenarios Make programados para vie 1-may 9:30 (`routines/rutina-semanal-viernes.md`).
+- 8 chats WhatsApp Amcham por triagear.
+
+**Producto**:
+- Plantilla Auditoría Express ✅ lista.
+- Plantilla Auditoría Professional 🟡 pendiente.
+- Plantilla Retención 🟡 pendiente.
+- Plantillas Formación in-company / Implementación IA 🟡 pendientes.
+
+**Comercial**:
+- Propuestas estandarizadas 🟡 pendientes.
+- Contratos tipo 🟡 pendientes.
+- Casos de éxito anonimizados 🟡 pendientes (catálogo).
+
+---
+
+## Pendientes específicos de Blum
+
+| # | Tarea | Prioridad |
+|---|---|---|
+| B1 | Confirmar qué servicio activo tiene cada cliente externo | 🔴 |
+| B2 | Pricing y duración formaciones in-company / implementación / productos IA | 🟡 |
+| B3 | Plantillas Professional + Retención + propuesta comercial | 🟡 |
+| B4 | Catálogo de casos de éxito anonimizados (1 por cliente) | 🟢 |
+| B5 | Contrato tipo de retención mensual | 🟡 |
+| B6 | Página web y handles oficiales de Blum Digital PR | 🟢 *[CONFIRMAR]* |
+| B7 | Separación legal/fiscal: ¿Blum opera bajo qué entidad? | 🟢 *[CONFIRMAR]* |
+
+---
+
+## Reglas Blum
+
+1. Precios fijos: $497 / $1,200 / $1,500 — no se negocian sin permiso de Sonia.
+2. Toda propuesta lleva 1 caso anonimizado y 1 atributo ACA™ destacado.
+3. Express se cierra con plantilla + link de pago. Professional y Retención requieren OK de Sonia.
+4. Reporting mensual a cliente sin recordatorios.
+5. Confidencialidad: ningún cliente se nombra como caso académico (eso pertenece a Sonia Yánez personal y respeta sus reglas).

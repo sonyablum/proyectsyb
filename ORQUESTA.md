@@ -1,166 +1,209 @@
-# 🎼 Sonia Yánez AI HQ — Mapa maestro
+# 🏛 Grupo Sonia Yánez Blum — Mapa del holding
 
-> Documento único de orientación. Si llegas nuevo aquí o necesitas re-centrarte, **empieza por este archivo**.
+> Documento maestro. Si llegas nuevo o necesitas re-centrarte, **empieza aquí**.
+> Reemplaza la versión previa "Sonia Yánez AI HQ" — que era un encuadre incompleto.
 
-## Quién es Sonia
+## Cabeza del grupo
 
-Investigadora independiente en RRPP 6.0, IA y Reputación Algorítmica · autora del **Marco ACA™** · opera desde Klagenfurt (Austria) hacia LATAM y España · ORCID [0000-0002-6695-8129](https://orcid.org/0000-0002-6695-8129).
+**Sonia Yánez Blum** — investigadora independiente en RRPP 6.0, IA y Reputación Algorítmica · autora del **Marco ACA™** · Klagenfurt (Austria) → LATAM y España · ORCID [0000-0002-6695-8129](https://orcid.org/0000-0002-6695-8129).
 
-Trabaja con fibromialgia → ritmo en bloques cortos, entregables listos, sin párrafos.
-
----
-
-## Las 3 líneas de negocio + 1 capa transversal
-
-```
-                        ┌────────────────────────┐
-                        │   SONIA (Directora)    │
-                        └───────────┬────────────┘
-                                    │
-                        ┌───────────▼────────────┐
-                        │   JEFE DE DESPACHO     │
-                        │   (Claude — coordina)  │
-                        └───────────┬────────────┘
-                                    │
-        ┌───────────────────────────┼────────────────────────────┐
-        ▼                           ▼                            ▼
-    COMERCIAL                  ACADÉMICA                MARCA / PENSAMIENTO
-   (ingresos hoy)         (autoridad + tesis)         (puente entre ambas)
-
-                                    │
-                        ┌───────────▼────────────┐
-                        │  CAPA TRANSVERSAL      │
-                        │  Operación · Infra ·   │
-                        │  Finanzas · Salud      │
-                        └────────────────────────┘
-```
-
-Las tres líneas se alimentan: la **marca** trae leads a la **comercial**; la **comercial** financia la **académica**; la **académica** legitima la **marca**.
+Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos largos.
 
 ---
 
-## Línea 1 — Comercial (Agencia AI PR)
+## Las 4 marcas + 1 capa transversal
 
-**Objetivo**: ingresos sostenibles que financien las otras líneas y consoliden la operación.
-**Meta del mes**: agencia con automatizaciones funcionando.
+```
+                        ┌──────────────────────────┐
+                        │  SONIA YÁNEZ BLUM        │
+                        │  (cabeza del grupo)      │
+                        └────────────┬─────────────┘
+                                     │
+                        ┌────────────▼─────────────┐
+                        │  JEFE DE DESPACHO        │
+                        │  (Claude — coordina)     │
+                        └────────────┬─────────────┘
+                                     │
+       ┌─────────────┬───────────────┼───────────────┬─────────────┐
+       ▼             ▼               ▼               ▼             ▼
+  BLUM DIGITAL  ACADEMIA ARP   SONIA YÁNEZ      SONJA KALOS    (capa
+   PR (B2B)     (B2C edu +     (marca personal  (esotérico AI · transversal:
+                 shop merch)    académica /     FIREWALL —     operación
+                                speaker)         aislada)       infra
+                                                                finanzas
+                                                                salud)
 
-**Servicios y precios** (no negociar sin permiso):
+                         Activos intelectuales del grupo:
+                         Marco ACA™ · ACA-Score™ · RICFE®
+                         IAPRMIL · IA-Ethics · ORCID
+                         (propiedad de Sonia Yánez personal,
+                          licenciados a Blum y a Academia ARP)
+```
 
+**Lógica de retroalimentación**:
+> **Sonia Yánez** (autoridad académica) legitima → **Blum Digital PR** (servicios premium) factura → **Academia ARP** (escala B2C) populariza → todo refuerza la marca personal. **Sonja Kalos** vive aparte: ni se menciona ni se cruza.
+
+---
+
+## Marca 1 — Blum Digital PR (consultoría premium B2B)
+
+**Tagline interno**: "La consultora de las consultoras y agencias de PR".
+
+**Qué hace**:
+- Formaciones ejecutivas in-company
+- Formaciones de alto nivel
+- Implementación de procesos IA
+- Desarrollo de productos IA enfocados en RRPP
+- Auditorías ACA™ y retenciones premium
+
+**Productos/servicios actuales** (heredados del primer encuadre — *confirmar si son de Blum o de otra marca*):
 | Producto | Precio | Promesa |
 |---|---|---|
-| Auditoría ACA™ Express | $497 | 5 días · 1 reporte + 1 sesión 60 min |
+| Auditoría ACA™ Express | $497 | 5 días · 1 reporte + 1 sesión |
 | Auditoría ACA™ Professional | $1,200 | 15 días · plan 90 días + 3 sesiones |
-| Retención mensual | $1,500 / mes | 4 entregables + monitoreo continuo |
+| Retención mensual | $1,500 / mes | 4 entregables + monitoreo |
 
-**Clientes activos**: Amcham Guayaquil · SFIC-Rina · UIDE-Cynthia.
+**Cartera de cuentas** (4 ámbitos):
+- **Externos**: Amcham Guayaquil · SFIC-Rina · UIDE-Cynthia
+- **Internos del grupo**: Academia ARP · Sonja Kalos · marca personal Sonia Yánez
 
-**Subagentes que intervienen**: `ventas` (pipeline) · `marketing` (calendario) · `pr-medios` (prensa, monitoreo, crisis) · `cfo` (cobros, P&L).
+**Subagentes**: `ventas` · `marketing` · `pr-medios` · `cfo` · `automatizaciones` (CRM y WAHA).
 
-**Mi papel** como Jefe de Despacho:
-- Preparo propuestas, calendarios y reportes en formato listo. Nada se envía al cliente sin tu OK.
-- Mantengo el CRM (Notion) y la cola de tareas por cliente.
-- Alerto crisis (>30 min) con plan inicial en 2h.
-- Entrego artefactos plantillados (`/artefactos/`).
+**Mi papel** (Jefe de Despacho):
+- Pipeline comercial vivo (lead → diagnóstico → propuesta → cierre).
+- Plantillas y propuestas listas para tu aprobación. Nada se envía sin tu OK.
+- Reporting mensual a clientes con métricas ACA™.
+- Coordinación de crisis y monitoreo de menciones.
 
 **Indicadores que vigilo**: MRR · conversión Express→Professional · margen por cliente · cobranza · NPS.
 
-**Estado actual**: 3 clientes activos. Infraestructura WAHA + 3 escenarios Make pendientes para mañana viernes 9:30. Plantilla Express lista; faltan plantillas Professional, Retención, propuesta y monitoreo semanal.
+**Estado actual**: 3 clientes externos activos · WAHA + 3 escenarios Make pendientes (vie 1-may 9:30) · plantilla Express lista · faltan plantillas Professional, Retención, propuestas.
 
 ---
 
-## Línea 2 — Académica (Programa de investigación HDA / AAU Klagenfurt)
+## Marca 2 — Academia ARP (educación + shop)
 
-**Objetivo**: defensa Q3 2028 + posicionamiento como autoridad académica internacional en reputación algorítmica.
+**Qué hace**:
+- Cursos pregrabados (formaciones técnicas)
+- Plantillas y herramientas de PR pregrabadas
+- **Tienda / shop** de artículos personalizados (camisetas, gorras, merch)
 
-**Pipeline central**:
-- 3 DOIs Zenodo publicados: TAA · ACA-Score™ v2 · RICFE® v2.4
-- ACA-Score™ v3 en preparación (arquitectura bidimensional ACA-C + ACA-A)
-- P3 Protocol: Sondeo 1 (22-25 abr) → Sondeo 2 (~5 may, +10 días)
-- Delphi modificado R2 cierra 29 abr
-- 6 estudios E1-E6 entre Q4 2026 y Q4 2027
-- Borrador tesis Q1-Q2 2028
+**Target**: B2C — profesionales y estudiantes de RRPP/comunicación en LATAM y España.
 
-**Pipeline de congresos 2026**:
-- AIEthics Madrid — presentado 16 mar (falta pago BBVA)
-- Congreso H — 27-30 may online (ponencia pendiente)
-- MEDIAETHICS Valladolid — 29 jun a 3 jul (ponencia + pago)
+**Mecanismo**: producto digital escalable + merch como extensión de marca.
 
-**Supervisión**: Dra. Valerie Hase (AAU) + 2 profesores asignados, revisión en curso tras email del 30-abr.
+**Subagentes**: `marketing` (catálogo + lanzamientos) · `ventas` (e-commerce) · `automatizaciones` (plataforma de cursos + tienda) · `cfo` (royalties, márgenes, fulfillment) · `pr-medios` (PR de lanzamientos).
 
-**Subagentes que intervienen**: `congresos-academicos` (papers, abstracts, agenda académica).
+**Mi papel** (Jefe de Despacho):
+- Catálogo vivo de cursos y plantillas con su estado (idea / en producción / lanzado).
+- Roadmap de lanzamientos editorializado.
+- Mantener separación clara entre contenido gratuito (lead magnet) y de pago.
+- Plantillas de página de venta, secuencias de email, copys.
 
-**Mi papel**:
-- Mantengo el **dossier canónico** (`artefactos/academico/dossier-academico.md`) como única fuente de verdad.
-- Preparo borradores de papers, abstracts, ponencias y emails académicos. Nada se envía sin tu OK.
-- Valido reglas de comunicación pública: nunca "doctoranda", solo DOIs públicos, sin casos comerciales.
-- Vigilo deadlines, ventanas Delphi/P3, respuesta de revisores Hase.
-- Propago cambios cuando subes docs nuevos al `/marco-aca/`.
+**Indicadores que vigilo**: ingresos por curso · tasa de finalización · LTV alumno · ticket medio shop · refunds.
 
-**Indicadores que vigilo**: deadlines de congresos · cierre de rondas Delphi · ventana P3 (S1↔S2 a 10 días exactos) · respuesta de los 2 revisores asignados por Hase · DOIs nuevos.
-
-**Estado actual**: email Hase enviado, esperando respuesta. P3 Sondeo 1 y Delphi R2 a verificar. Falta depositar ACA-Score v3 y CINCOMA 2025 en Zenodo.
+**Estado actual**: 🟡 marca planteada conceptualmente, falta levantar catálogo, plataforma e-commerce, primeros productos.
 
 ---
 
-## Línea 3 — Marca / Pensamiento (Marco ACA™ y presencia pública)
+## Marca 3 — Sonia Yánez Blum (marca personal académica/intelectual)
 
-**Objetivo**: que el Marco ACA™ sea reconocido externamente como referencia y atraiga leads de calidad. Es el puente entre lo académico y lo comercial.
+**Qué es**: la persona. Autora del Marco ACA™. Investigadora independiente en programa HDA / AAU Klagenfurt bajo supervisión Dra. Valerie Hase.
 
-**Activos centrales**: Marco ACA™ · Modelo IAPRMIL · ACA-Score™ · RICFE® · IA-Ethics · ORCID.
+**Activos intelectuales (propiedad personal)**: Marco ACA™ · ACA-Score™ · RICFE® · IAPRMIL · IA-Ethics · ORCID · 3 DOIs Zenodo · cuerpo de papers, abstracts y libros futuros.
 
-**Canales**:
-- LinkedIn (Sonia voz pública)
-- Conferencias y congresos
-- Prensa especializada (RRPP, comunicación, IA)
-- Reputación algorítmica de la propia Sonia en ChatGPT/Claude/Gemini/Perplexity
+**Goals declarados**:
+1. **Doctorado** — defensa Q3 2028 (borrador Q1-Q2 2028).
+2. **Producción científica** — papers indexados, monografías, capítulos.
+3. **Libros** — divulgación y manuales del Marco ACA™.
+4. **Speaker de alto nivel** en IA ética + habilidades digitales/algorítmicas en profesionales.
+5. **Diseñadora y asesora** de programas académicos universitarios.
+6. **Posible directora de maestría** / consultora académica / docente de módulos en maestrías.
+7. **Analista IA** y columnista de medios; fuente oficial.
+8. **Contratación** como speaker o formadora alto nivel.
 
-**Subagentes que intervienen**: `marketing` (contenidos) · `pr-medios` (prensa, monitoreo, reputación algorítmica).
+**Pipeline activo 2026**:
+- 3 DOIs Zenodo publicados · ACA-Score™ v3 en preparación.
+- 3 congresos aprobados: AIEthics Madrid (presentado, falta pago) · Congreso H mayo · MEDIAETHICS Valladolid jun-jul.
+- P3 Protocol (Sondeo 1 → Sondeo 2 + 10 días) · Delphi R2 cierre 29-abr.
+- 6 estudios E1-E6 hasta Q4 2027.
+
+**Subagentes**: `congresos-academicos` (papers, ponencias, agenda académica) · `pr-medios` (prensa, columnas, speaker positioning) · `marketing` (LinkedIn, autoridad pública).
+
+**Mi papel** (Jefe de Despacho):
+- Dossier académico canónico (`artefactos/academico/dossier-academico.md`).
+- Borradores de papers, abstracts, ponencias, columnas, propuestas a universidades, brief de speaker.
+- Reglas estrictas de comunicación pública: nunca "doctoranda", solo DOIs públicos, sin casos comerciales.
+- Pipeline de oportunidades (calls for papers, calls for speakers, búsqueda de cátedras y maestrías).
+- Monitoreo trimestral de tu propia reputación algorítmica en 4 LLMs.
+
+**Indicadores que vigilo**: deadlines congresos · respuesta de los 2 revisores Hase · DOIs nuevos · cupos como speaker confirmados · invitaciones académicas · menciones nuevas en prensa especializada · citas externas a tus DOIs.
+
+**Estado actual**: email Hase enviado el 30-abr (esperando respuesta) · 3 DOIs activos · pago AIEthics y MEDIAETHICS pendientes · ponencias pendientes · catálogo de speaker no formalizado todavía.
+
+---
+
+## Marca 4 — SONJA KALOS (esotérico AI · 🛑 FIREWALL)
+
+**Qué es**: proyecto independiente de servicios esotéricos personalizados, **100% elaborado con IA**.
+
+**Reglas de firewall** (críticas):
+- ❌ **No se menciona** en ninguna comunicación de las otras 3 marcas.
+- ❌ **No se cruza** con activos de Blum, Academia ARP o Sonia Yánez personal.
+- ❌ **No comparte** el Marco ACA™, ni los DOIs, ni el ORCID.
+- ❌ **No aparece** en CV académico ni en propuestas comerciales.
+- ✅ Tiene su propio dominio web, su propia identidad, sus propios canales.
+- ✅ Puede compartir herramientas técnicas (proveedores de IA, hosting) sin compartir narrativa.
+
+**Subagentes**: `marketing` y `automatizaciones` operan **en silos separados** para esta marca. `pr-medios` y `congresos-academicos` no la tocan.
 
 **Mi papel**:
-- Calendario editorial quincenal con piezas listas para tu aprobación.
-- Monitoreo trimestral de menciones en medios y respuestas LLM (los mismos prompts que aplicamos a clientes, aplicados a ti).
-- Asegurar que cada pieza pública cita el Marco ACA™ y los DOIs correctos.
-- Filtro estricto de las reglas de comunicación pública.
+- Mantener carpeta separada `marcas/sonja-kalos/` (futuro) sin referencias cruzadas.
+- Plantillas, copys, prompts y flujos de IA aislados.
+- Ningún reporte combinado de finanzas con las otras marcas a nivel público (a nivel CFO interno sí, pero etiquetado).
 
-**Indicadores que vigilo**: alcance LinkedIn · menciones en prensa · reputación algorítmica trimestral · citas externas a los 3 DOIs Zenodo.
-
-**Estado actual**: arquitectura conceptual lista. Falta calendario editorial vivo, primera medición de reputación algorítmica de Sonia, plantillas de pieza pública.
+**Estado actual**: 🟡 estructura conceptualizada · sin operativa todavía en el repo.
 
 ---
 
 ## Capa transversal — Operación personal
 
-**Objetivo**: que Sonia opere de forma sostenida con fibromialgia + curso data-driven + 3 líneas en paralelo, sin colapsar.
+**Para qué**: que Sonia opere de forma sostenida con fibromialgia + curso data-driven + 4 marcas en paralelo, sin colapsar.
 
-**Subagentes que intervienen**: `automatizaciones` (WAHA, Make, Notion, Drive) · `cfo` (presupuesto, gasto SaaS) · Jefe de Despacho (coordinación).
+**Subagentes**: `automatizaciones` (WAHA, Make, Notion, Drive, e-commerce) · `cfo` (consolidado financiero del grupo, con vista por marca) · Jefe de Despacho.
 
 **Mi papel**:
 - Rutinas adaptadas: día normal vs día bajo (`routines/`).
-- Agendas con bloques cortos (máx 90 min profundo) y descansos obligatorios.
-- Aviso cuando detecto sobrecarga (3+ hitos en una semana).
-- Automatizo lo automatizable; tú decides, yo ejecuto.
-- Backup permanente en `PENDIENTES.md`.
+- Agenda con bloques cortos (máx 90 min profundo).
+- Aviso de sobrecarga (>3 hitos críticos en una semana).
+- `PENDIENTES.md` como memoria externa única.
+- Aviso cuando una marca empieza a comer recursos de otra.
 
-**Indicadores que vigilo**: número de hitos abiertos por semana · costos infra · días desde último descanso largo · estado del curso data-driven.
-
----
-
-## Mapa subagentes × líneas
-
-| Subagente | Comercial | Académica | Marca | Transversal |
-|---|:---:|:---:|:---:|:---:|
-| `agente-marketing` | ● | | ● | |
-| `agente-ventas` | ● | | | |
-| `agente-pr-medios` | ● | | ● | |
-| `agente-cfo` | ● | | | ● |
-| `agente-automatizaciones` | ● (CRM) | ● (datos P3) | ● (monitoreo) | ● |
-| `agente-congresos-academicos` | | ● | ● (vínculo Marco) | |
+**Indicadores que vigilo**: hitos abiertos por semana · costos infra · días desde último descanso largo · estado del curso data-driven.
 
 ---
 
-## Mi función como Jefe de Despacho — en un párrafo
+## Mapa subagentes × marcas
 
-Recibo lo que llega (mensajes, tareas, ideas), decido qué subagente lo trabaja, preparo el borrador y te lo entrego listo para tu OK. **Nunca envío nada al exterior sin tu aprobación.** Mantengo este repo como única fuente de verdad para las 3 líneas. Cuando los documentos base del Marco ACA™ o IA-Ethics cambian, propago la actualización a plantillas, skills y rutinas. Vigilo los deadlines de cada línea y te aviso con anticipación. Adapto el ritmo a tu energía: en días bajos, el modo "WhatsApp Amcham + cierre" es suficiente. Cuando hay duda sobre prioridad, **comercial paga las cuentas, académica construye el legado, marca conecta ambas**.
+| Subagente | Blum Digital PR | Academia ARP | Sonia Yánez | Sonja Kalos | Transversal |
+|---|:---:|:---:|:---:|:---:|:---:|
+| `agente-marketing` | ● | ● | ● | ● *(silo)* | |
+| `agente-ventas` | ● | ● | | | |
+| `agente-pr-medios` | ● | ● | ● | | |
+| `agente-cfo` | ● | ● | ● | ● *(libro separado)* | ● |
+| `agente-automatizaciones` | ● | ● | ● | ● *(silo)* | ● |
+| `agente-congresos-academicos` | | | ● | | |
+
+---
+
+## Reglas inquebrantables del grupo
+
+1. **Sonia decide y envía.** Yo dejo borradores listos. No envío al exterior nunca sin tu OK.
+2. **Comunicación pública**: jamás "doctoranda" · solo DOIs públicos · sin casos comerciales en lo académico.
+3. **SONJA KALOS firewall absoluto**: no se menciona, no se cruza, no aparece en CV.
+4. **Marco ACA™ + IA-Ethics** son propiedad de Sonia Yánez personal, no de las marcas operativas. Blum y Academia ARP los **licencian**, no los poseen.
+5. **Precios fijos** Blum: $497 / $1,200 / $1,500. No se negocian sin permiso.
+6. **Día bajo** = operación mínima viable (WhatsApp Amcham + cierre del día), no se cancela.
 
 ---
 
@@ -169,21 +212,36 @@ Recibo lo que llega (mensajes, tareas, ideas), decido qué subagente lo trabaja,
 | Para qué | Archivo |
 |---|---|
 | Reglas de cómo trabajo contigo | `CLAUDE.md` |
-| Backlog vivo (lo urgente y lo próximo) | `PENDIENTES.md` |
-| Subagentes y su system-prompt | `agentes/` |
-| Skills (procedimientos paso a paso) | `skills/` |
+| Backlog vivo | `PENDIENTES.md` |
+| Subagentes y system-prompts | `agentes/` |
+| Skills (procedimientos) | `skills/` |
 | Plantillas de entregables | `artefactos/` |
 | Dossier académico canónico | `artefactos/academico/dossier-academico.md` |
 | Marco conceptual ACA™ + IA-Ethics | `marco-aca/` |
 | Rutinas calendarizadas | `routines/` |
-| Infra técnica (WAHA, Make) | `infraestructura/` |
+| Infra técnica | `infraestructura/` |
+
+> Pendiente de crear (cuando confirmes la arquitectura):
+> - `marcas/blum-digital-pr/`
+> - `marcas/academia-arp/`
+> - `marcas/sonia-yanez/`
+> - `marcas/sonja-kalos/` *(silo aislado)*
 
 ---
 
-## Reglas que no se rompen
+## ❓ Preguntas críticas para que confirmes (necesito tu OK para cerrar la arquitectura)
 
-1. Sonia es la única que decide y la única que envía al exterior.
-2. Toda comunicación pública sigue las **reglas del dossier** (no "doctoranda", solo DOIs públicos, sin casos comerciales en académico).
-3. Precios fijos: $497 / $1,200 / $1,500 — no se negocian sin permiso.
-4. Marco ACA™ + IA-Ethics son la columna vertebral conceptual de **todo** entregable.
-5. Si un día Sonia no puede, la operación se reduce al mínimo viable, no se cancela.
+| # | Pregunta | Por qué importa |
+|---|---|---|
+| Q1 | **¿Amcham, SFIC-Rina, UIDE-Cynthia son clientes de Blum Digital PR?** ¿O alguno está bajo otra marca? | Determina dónde se factura y bajo qué cuenta se reporta |
+| Q2 | **Qué significa "ARP"** en Academia ARP (sigla exacta) | Para citar correctamente y diseñar la marca |
+| Q3 | **Las Auditorías ACA™ Express/Professional/Retención** ¿son productos de Blum Digital PR, de Sonia Yánez personal, o de las dos? | Si es Blum, pricing y cobro van por Blum; si es marca personal, va por tu factura como persona |
+| Q4 | **Sonja Kalos** ¿es una persona física, un alias tuyo, o un personaje/AI persona? Y ¿en el público se presenta como humana o se reconoce como AI? | Define los riesgos de comunicación y la separación legal/ética |
+| Q5 | **¿Hay separación fiscal/legal** entre las 4 marcas? ¿Cuál opera bajo Sonia Yánez Blum persona física, cuál bajo empresa, cuál bajo marca registrada? | Para que el CFO consolide bien y para los disclaimers públicos |
+| Q6 | **Tienda de Academia ARP** (camisetas, gorras): ¿está activa, en proyecto, o solo idea? ¿qué fulfillment usas? | Para roadmap de plataforma e-commerce |
+| Q7 | **¿"Agencia AI PR" / "Sonia Yánez AI HQ"** del primer encuadre era el nombre interno de Blum Digital PR, o era el nombre del holding completo? | Para no duplicar nombres |
+| Q8 | **¿Sonja Kallos o Sonja Kalos?** Aparecen las dos grafías en tu mensaje | Para registrar correctamente |
+
+---
+
+Cuando me respondas estas 8, cierro la arquitectura y la dejo lista. Mientras tanto, este `ORQUESTA.md` queda como versión 0.5 — completa en estructura, abierta en los puntos arriba.
