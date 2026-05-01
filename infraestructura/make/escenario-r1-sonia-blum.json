@@ -1,0 +1,213 @@
+{
+  "name": "R1 — Sonia → Blum · Lead Consultoría",
+  "version": "1.0",
+  "scheduling": "{\"type\":\"immediately\"}",
+  "flow": [
+    {
+      "id": 1,
+      "module": "gateway:CustomWebHook",
+      "version": 1,
+      "metadata": {"designer": {"x": 0, "y": 0}},
+      "parameters": {
+        "hook": "REPLACE_WITH_HOOK_ID",
+        "maxResults": 1
+      },
+      "mapper": {},
+      "notes": "Trigger: webhook recibe lead desde landing/podcast/LinkedIn de Sonia. Espera JSON con: nombre, email, empresa, mensaje, origen, urgencia (caliente/tibio)."
+    },
+    {
+      "id": 2,
+      "module": "util:SetVariables",
+      "version": 1,
+      "metadata": {"designer": {"x": 300, "y": 0}},
+      "parameters": {},
+      "mapper": {
+        "variables": [
+          {"name": "handoff_id", "value": "R1-{{formatDate(now;'YYYYMMDD-HHmmss')}}-{{1.email}}"},
+          {"name": "ruta", "value": "R1"},
+          {"name": "origen_marca", "value": "Sonia Yanez"},
+          {"name": "destino_marca", "value": "Blum Digital PR"},
+          {"name": "tipo", "value": "Comercial - lead consultoria"},
+          {"name": "sla_horas", "value": "{{if(1.urgencia = 'caliente'; 4; 24)}}"},
+          {"name": "deadline_n1", "value": "{{addHours(now; if(1.urgencia = 'caliente'; 4; 24))}}"},
+          {"name": "owner_n1_email", "value": "owner-blum@dominio.com"},
+          {"name": "ceo_email", "value": "soniayanezblum@gmail.com"}
+        ]
+      },
+      "notes": "Calcula handoff_id, SLA, deadline N1, owners."
+    },
+    {
+      "id": 3,
+      "module": "openai-gpt-3:CreateCompletion",
+      "version": 1,
+      "metadata": {"designer": {"x": 600, "y": 0}},
+      "parameters": {"model": "gpt-4o-mini"},
+      "mapper": {
+        "messages": [
+          {"role": "system", "content": "Eres el clasificador de leads de Blum Digital PR. Devuelve JSON con score (1-5), recomendacion (Express/Professional/Retencion), urgencia (caliente/tibio), red_flags (array de strings)."},
+          {"role": "user", "content": "Mensaje del lead: {{1.mensaje}}\nEmpresa: {{1.empresa}}\nOrigen: {{1.origen}}"}
+        ]
+      },
+      "notes": "Clasificador IA del lead. Salida JSON estricta. Si red_flags no esta vacio, marcar como sospechoso."
+    },
+    {
+      "id": 4,
+      "module": "util:JSONParse",
+      "version": 1,
+      "metadata": {"designer": {"x": 900, "y": 0}},
+      "parameters": {},
+      "mapper": {"json": "{{3.choices[].message.content}}"}
+    },
+    {
+      "id": 5,
+      "module": "google-drive:UploadFile",
+      "version": 1,
+      "metadata": {"designer": {"x": 300, "y": 200}},
+      "parameters": {},
+      "mapper": {
+        "folder": "AI-HQ/Pipeline/Handoffs/R1-Sonia-Blum/{{formatDate(now;'YYYY-MM')}}",
+        "filename": "{{2.handoff_id}}.json",
+        "data": "{{stringify(merge(1; 4))}}"
+      },
+      "notes": "Guarda el handoff completo en Drive como JSON inmutable (audit trail)."
+    },
+    {
+      "id": 6,
+      "module": "notion:CreatePage",
+      "version": 1,
+      "metadata": {"designer": {"x": 600, "y": 200}},
+      "parameters": {"database": "REPLACE_WITH_NOTION_DB_ID"},
+      "mapper": {
+        "properties": {
+          "Handoff ID": "{{2.handoff_id}}",
+          "Ruta": "R1",
+          "Origen": "Sonia Yanez",
+          "Destino": "Blum Digital PR",
+          "Tipo": "Comercial - lead consultoria",
+          "Lead nombre": "{{1.nombre}}",
+          "Lead email": "{{1.email}}",
+          "Empresa": "{{1.empresa}}",
+          "Score IA": "{{4.score}}",
+          "Recomendacion IA": "{{4.recomendacion}}",
+          "Urgencia": "{{4.urgencia}}",
+          "SLA horas": "{{2.sla_horas}}",
+          "Deadline N1": "{{2.deadline_n1}}",
+          "Owner N1": "{{2.owner_n1_email}}",
+          "Estado": "Pendiente",
+          "Origen channel": "{{1.origen}}",
+          "Fecha creacion": "{{now}}"
+        }
+      },
+      "notes": "Crea fila en CRM Notion. Estado inicial: Pendiente."
+    },
+    {
+      "id": 7,
+      "module": "mailerlite:CreateSubscriber",
+      "version": 1,
+      "metadata": {"designer": {"x": 900, "y": 200}},
+      "parameters": {},
+      "mapper": {
+        "email": "{{1.email}}",
+        "fields": {
+          "name": "{{1.nombre}}",
+          "company": "{{1.empresa}}",
+          "lead_source": "Sonia-R1",
+          "handoff_id": "{{2.handoff_id}}"
+        },
+        "groups": ["blum-leads-r1"]
+      },
+      "notes": "Suscribe el lead a MailerLite (grupo blum-leads-r1) para automation de acuse."
+    },
+    {
+      "id": 8,
+      "module": "email:Send",
+      "version": 1,
+      "metadata": {"designer": {"x": 300, "y": 400}},
+      "parameters": {},
+      "mapper": {
+        "to": "{{2.owner_n1_email}}",
+        "cc": "{{2.ceo_email}}",
+        "subject": "[R1 · {{4.urgencia | upper}}] Nuevo lead Blum: {{1.empresa}} — {{1.nombre}} (SLA {{2.sla_horas}}h)",
+        "html": "Ver plantilla en artefactos/handoffs/r1-sonia-blum/email-notif-interna.md"
+      },
+      "notes": "Notifica al owner Blum N1 (CC CEO). El email de acuse al lead lo manda MailerLite via automation."
+    },
+    {
+      "id": 9,
+      "module": "util:Sleep",
+      "version": 1,
+      "metadata": {"designer": {"x": 600, "y": 400}},
+      "parameters": {"delay": "{{2.sla_horas * 3600}}"},
+      "notes": "Escalador: espera SLA horas antes de chequear estado."
+    },
+    {
+      "id": 10,
+      "module": "notion:GetPage",
+      "version": 1,
+      "metadata": {"designer": {"x": 900, "y": 400}},
+      "parameters": {},
+      "mapper": {"pageId": "{{6.id}}"}
+    },
+    {
+      "id": 11,
+      "module": "router:Router",
+      "version": 1,
+      "metadata": {"designer": {"x": 1200, "y": 400}},
+      "routes": [
+        {
+          "filter": {"name": "SLA cumplido", "conditions": [["{{10.properties.Estado}}", "in", "En curso,Cerrado"]]},
+          "flow": []
+        },
+        {
+          "filter": {"name": "SLA vencido N1 - escalar a N2 Pdte Blum", "conditions": [["{{10.properties.Estado}}", "=", "Pendiente"]]},
+          "flow": [
+            {
+              "id": 12,
+              "module": "email:Send",
+              "version": 1,
+              "mapper": {
+                "to": "{{2.ceo_email}}",
+                "subject": "[ALERTA SLA R1] Lead {{1.empresa}} sin atender en {{2.sla_horas}}h",
+                "html": "Handoff {{2.handoff_id}} sigue Pendiente. Escalando a N2 (Pdte Blum). Si vence N2 → escala a CEO."
+              }
+            },
+            {
+              "id": 13,
+              "module": "notion:UpdatePage",
+              "version": 1,
+              "mapper": {
+                "pageId": "{{6.id}}",
+                "properties": {"Estado": "Vencido N1 - escalado N2"}
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "instant": false,
+    "version": 1,
+    "scenario": {
+      "roundtrips": 1,
+      "maxErrors": 3,
+      "autoCommit": true,
+      "autoCommitTriggerLast": true,
+      "sequential": false,
+      "confidential": false,
+      "dataloss": false,
+      "dlq": false
+    },
+    "designer": {"orphans": []},
+    "zone": "eu1.make.com"
+  },
+  "_notes_para_importar": [
+    "1. Importar este JSON en Make (Scenarios > New > Import blueprint)",
+    "2. Configurar las connections solicitadas (OpenAI, Google Drive, Notion, MailerLite, SMTP/Email)",
+    "3. Reemplazar REPLACE_WITH_HOOK_ID con el ID que Make genera al crear el webhook",
+    "4. Reemplazar REPLACE_WITH_NOTION_DB_ID con el ID de la base CRM Handoffs A2A en Notion",
+    "5. Cambiar owner-blum@dominio.com por el email real del owner Blum N1",
+    "6. Probar con el checklist de prueba: artefactos/handoffs/r1-sonia-blum/checklist-prueba.md",
+    "7. Activar el escenario solo despues de pasar el checklist completo"
+  ]
+}

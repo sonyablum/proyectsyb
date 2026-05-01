@@ -9,13 +9,19 @@
 | # | Marca | Tarea | Acción inmediata |
 |---|---|---|---|
 | H1 | Blum | **WAHA en Railway desplegado** | 09:30 — paso a paso en `infraestructura/waha-railway/README.md` |
-| H2 | Blum | **3 escenarios Make conectados** | 10:30 — WhatsApp→CRM · Email→ACA→Drive · Menciones→Reputación |
-| H3 | Sonia Yánez | **Pago AIEthics 2026 (Madrid)** | BBVA `ES5301826101850201610161` (cuenta vencida) |
+| H2 | Blum | **R1 Make en producción** (escenario + Drive + Notion + MailerLite + escalador) | Seguir `artefactos/handoffs/r1-sonia-blum/checklist-prueba.md` (45 pasos numerados) |
+| H3 | Blum | **R2 + R6 Make** (Sonia → ARP · ARP → Blum) | Tras pasar R1 con éxito (template heredable de R1) |
 | H4 | Sonia Yánez | **Verificar P3 Sondeo 1** completo (22-25 abr) | Si no, terminar antes 5-may para no romper ventana 10 días |
-| H5 | Sonia Yánez | **Verificar Delphi GEAC R2** cerró 29-abr (4 bloques: ACA + FACE + GEAC + ACA Seal · 21 ítems Likert) | Sin esto no se integra en paper Congreso H + MEDIAETHICS · análisis estadístico R1 (N=33) ↔ R2 (n=18) |
+| H5 | Sonia Yánez | **Verificar Delphi GEAC R2** cerró 29-abr (4 bloques: ACA + FACE + GEAC + ACA Seal · 21 ítems Likert) | Sin esto no se integra en paper Congreso H + MEDIAETHICS |
+| H6 | Transversal | **2FA con app autenticadora** (no SMS) en Gmail · Drive · Notion · Make · Railway · GitHub · ORCID · Zenodo · BBVA · PayPal | Hardening básico Sprint 1 — `skills/seguridad/amenazas-y-controles.md` |
+
+> ✅ **Pago AIEthics 2026 (Madrid)** — pagado por Sonia el 1-may.
 > ✅ **Hase 28-abr** → reunión ok · email enviado 30-abr · esperando respuesta de los 2 revisores asignados.
 > ✅ **Arquitectura del grupo** → 8 preguntas críticas cerradas (1-may).
 > ✅ **Sonja Kalos** → naturaleza pública aprobada: AI persona declarada bajo personaje aislado.
+> ✅ **Sprint 1 R1** → 7 deliverables listos en `artefactos/handoffs/r1-sonia-blum/` + `infraestructura/make/escenario-r1-sonia-blum.json`.
+> ✅ **Capa de seguridad** → 5 skills en `skills/seguridad/` (amenazas, GDPR, prompt injection, firewall técnico Sonja Kalos, runbook incidentes).
+> ✅ **Delegación progresiva** → marco de 4 fases en `gobernanza/delegacion-progresiva.md`.
 
 ---
 
