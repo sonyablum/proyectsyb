@@ -1,8 +1,9 @@
 # 🛑 SONJA KALOS — Proyecto en silo
 
-> **Status: 🛑 FIREWALL ABSOLUTO · 🟡 conceptualizada · sin operativa todavía · cliente interno de Blum.**
+> **Status: 🛑 FIREWALL ABSOLUTO · 🟡 diseño operativo en arranque · cliente interno de Blum.**
+> **Naturaleza pública aprobada (1-may-2026)**: ✅ **AI persona declarada bajo personaje aislado**.
 >
-> Este README contiene **lo mínimo necesario** para que el Jefe de Despacho sepa que el proyecto existe y nunca lo cruce con las otras marcas. Todo lo operativo de Sonja Kalos vivirá en su propio espacio aislado.
+> Este README contiene **lo mínimo necesario** para que el Jefe de Despacho sepa que el proyecto existe y nunca lo cruce con las otras marcas. Todo lo operativo de Sonja Kalos vive en `marcas/sonja-kalos/operativa/` (silo).
 
 ---
 
@@ -16,11 +17,11 @@
 
 ---
 
-## 🎯 Recomendación de naturaleza pública (para tu OK)
+## 🎯 Naturaleza pública — APROBADA 1-may-2026
 
-**Recomendación: AI persona declarada bajo personaje creativo aislado.**
+**Decisión cerrada: AI persona declarada bajo personaje creativo aislado.**
 
-Es decir: Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ninguna persona física. El sitio web, los servicios y los canales sociales declaran transparentemente: *"Sonja Kalos es una persona digital creada con inteligencia artificial. Ella no es humana"*. Ningún rastro digital la conecta con Sonia Yánez Blum.
+Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ninguna persona física. El sitio web, los servicios y los canales sociales declaran transparentemente: *"Sonja Kalos es una persona digital creada con inteligencia artificial. Ella no es humana"*. Ningún rastro digital la conecta con Sonia Yánez Blum.
 
 ### Por qué esta es la mejor opción
 
@@ -95,17 +96,20 @@ Es decir: Sonja Kalos se presenta públicamente como **personaje AI**, sin vincu
 
 ---
 
-## Pendientes Sonja Kalos (cuando decidas activarla)
+## Pendientes Sonja Kalos (diseño operativo activo)
 
 | # | Tarea | Prioridad |
 |---|---|---|
-| SK1 | OK de Sonia a la recomendación "AI persona declarada bajo personaje aislado" | 🔴 |
-| SK2 | Dominio web propio + identidad visual aislada | 🟡 |
-| SK3 | Catálogo inicial de servicios esotéricos AI-elaborados (3 productos MVP) | 🟡 |
-| SK4 | Plataforma de pago independiente (no compartir Stripe/PayPal con las otras marcas) | 🟡 |
-| SK5 | Disclaimer y política de transparencia AI estándar para todas las piezas | 🔴 ético-legal |
-| SK6 | Política de datos sensibles (esotérico = privacidad alta) | 🔴 |
-| SK7 | Mientras Sonia opera como persona física: contabilidad de Sonja Kalos etiquetada separada en el libro de la persona, sin disclosure cruzado en piezas externas | 🟡 |
+| ~~SK1~~ | ~~OK de Sonia a la recomendación~~ | ✅ Aprobado 1-may |
+| SK2 | Brand spec del personaje (bio, voz, paleta, símbolos, idioma) en `operativa/brand-spec.md` | 🔴 desbloquea todo lo demás |
+| SK3 | **Disclaimer de transparencia AI** estándar (texto reutilizable en web, RRSS, emails) | 🔴 ético-legal |
+| SK4 | **Política de datos sensibles** (esotérico = privacidad alta · GDPR-ready) | 🔴 ético-legal |
+| SK5 | Catálogo inicial: 3 servicios MVP esotéricos AI-elaborados | 🟡 |
+| SK6 | Dominio web propio + identidad visual aislada | 🟡 tras SK2 |
+| SK7 | Plataforma de pago independiente (Stripe propio, no compartir cuenta con otras marcas) | 🟡 |
+| SK8 | Stack de prompts curados por servicio (en silo, sin Marco ACA™) | 🟡 |
+| SK9 | Política contable: etiqueta interna "Sonja Kalos" en libro de Sonia persona física, sin disclosure cruzado en piezas externas | 🟡 |
+| SK10 | Plan de marketing en silo (RRSS dedicadas, sin overlap con Sonia/Blum/Academia) | 🟢 |
 
 ---
 

@@ -13,10 +13,9 @@
 | H3 | Sonia Yánez | **Pago AIEthics 2026 (Madrid)** | BBVA `ES5301826101850201610161` (cuenta vencida) |
 | H4 | Sonia Yánez | **Verificar P3 Sondeo 1** completo (22-25 abr) | Si no, terminar antes 5-may para no romper ventana 10 días |
 | H5 | Sonia Yánez | **Verificar Delphi R2** cerró 29-abr | Sin esto no se integra en paper Congreso H + MEDIAETHICS |
-| H6 | Sonja Kalos | **OK de Sonia a la recomendación**: "AI persona declarada bajo personaje aislado" | Desbloquea diseño operativo Sonja Kalos |
-
 > ✅ **Hase 28-abr** → reunión ok · email enviado 30-abr · esperando respuesta de los 2 revisores asignados.
-> ✅ **Arquitectura del grupo** → 8 preguntas críticas cerradas (1-may). Solo queda OK a recomendación Sonja Kalos.
+> ✅ **Arquitectura del grupo** → 8 preguntas críticas cerradas (1-may).
+> ✅ **Sonja Kalos** → naturaleza pública aprobada: AI persona declarada bajo personaje aislado.
 
 ---
 
@@ -69,13 +68,14 @@
 | AC4 | Identidad visual unificada | Roadmap |
 | AC5 | Política de licencia Marco ACA™ (Sonia → Academia ARP) | Antes próximo lanzamiento |
 
-### Sonja Kalos (silo)
+### Sonja Kalos (silo · diseño operativo activo)
 | # | Tarea | Deadline |
 |---|---|---|
-| SK1 | OK Sonia a recomendación "AI persona declarada bajo personaje aislado" | Esta semana |
-| SK2 | Dominio web propio + identidad visual aislada | Tras OK |
-| SK3 | Catálogo MVP de 3 productos esotéricos AI | Tras OK |
-| SK4 | Disclaimer transparencia AI + política datos sensibles | 🔴 antes de cualquier venta |
+| SK2 | Brand spec del personaje (`operativa/brand-spec.md`) | Próxima semana |
+| SK3 | Disclaimer transparencia AI + política datos sensibles (GDPR) | 🔴 antes de cualquier venta |
+| SK4 | Catálogo MVP de 3 servicios esotéricos AI | Próxima semana |
+| SK5 | Dominio web aislado + identidad visual | Tras brand spec |
+| SK6 | Stripe propio + libro contable etiquetado | Tras brand spec |
 
 ### Capa transversal — fiscal/legal
 | # | Tarea | Deadline |
