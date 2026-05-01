@@ -25,12 +25,29 @@
 
 | Activo | Tipo | Estado |
 |---|---|---|
-| **Marco ACA™** | Framework conceptual | Versión vigente: ACA-v? *(pendiente subir doc nuevo a `/marco-aca/`)* |
-| **ACA-Score™** | Instrumento metodológico | v2 público (DOI 19035939) · v3 borrador interno |
-| **RICFE®** | Framework prompting | v2.4 público (DOI 19388591) |
+| **Marco ACA™** | Framework conceptual de confiabilidad algorítmica | Versión vigente: ACA-v? *(pendiente subir doc nuevo)* |
+| **ACA-Score™** | Instrumento metodológico de medición | v2 público (DOI 19035939) · v3 borrador interno |
+| **FACE™** | Modelo de propagación reputacional algorítmica | Working Paper v0.6 CANONICO (15-mar-2026) · NO citar sin OK · `marco-aca/face/` |
+| **Protocolo GEAC** | Gobernanza ética algorítmica en comunicación (3 pasos + PDCA) | En validación Delphi R2 · MEDIAETHICS 2026 · `marco-aca/geac/` |
+| **ACA Seal™** | Certificación de gobernanza algorítmica | Working concept · validación Delphi · `marco-aca/aca-seal/` |
+| **RICFE®** | Framework de prompting estratégico | v2.4 público (DOI 19388591) |
 | **IAPRMIL** | Modelo (referenciado en CINCOMA 2025) | Ponencia pendiente Zenodo |
-| **IA-Ethics** | Protocolo ético | Pendiente subir doc actualizado a `/marco-aca/` |
+| **IA-Ethics** | Protocolo ético | Pendiente subir doc actualizado |
 | **3 DOIs Zenodo** | Publicaciones citables | TAA · ACA-Score v2 · RICFE® v2.4 |
+
+## Canales propios
+
+| Canal | Estado | Notas |
+|---|---|---|
+| **El Podcast de las Relaciones Públicas** | 🟡 En producción | Canal de pensamiento de Sonia, alineado al posicionamiento de speaker y autoridad académica |
+| LinkedIn | 🟡 Por consolidar | Voz pública profesional |
+| ORCID | ✅ Activo | `0000-0002-6695-8129` |
+
+## Equipo cercano
+
+| Persona | Rol | Detalle |
+|---|---|---|
+| **Sofía** | Hija + apoyo | Ayuda con ensayos en inglés (clase martes 16-19h Austria) y otras gestiones. Su nombre da identidad al chat IA en la web de Blum Digital PR |
 
 ---
 

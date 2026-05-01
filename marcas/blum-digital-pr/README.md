@@ -69,7 +69,27 @@
 | `agente-marketing` | LinkedIn corporativo, casos anonimizados, nurturing |
 | `agente-pr-medios` | Prensa especializada, monitoreo, crisis, reputación algorítmica de clientes |
 | `agente-cfo` | Facturación, P&L, MRR, cobranza, márgenes |
-| `agente-automatizaciones` | WAHA, Make, Notion CRM, Drive |
+| `agente-automatizaciones` | WAHA, Make, Notion CRM, Drive, chat IA "Sofía" en web |
+
+## Activos digitales propios
+
+| Activo | Estado | Notas |
+|---|---|---|
+| Web Blum Digital PR | 🟡 Por consolidar | URL TBD |
+| **Chat IA "Sofía"** | 🟡 En la web | Asistente conversacional. Nombre en homenaje a la hija de Sonia (no comunicar el origen) |
+| Notion CRM | 🟡 Por crear | Esquema pendiente |
+| WAHA + Make | 🔴 Deploy hoy | Operativa WhatsApp + automatizaciones |
+
+## Metodologías propietarias (licenciadas de Sonia personal)
+
+| Metodología | Uso comercial Blum |
+|---|---|
+| **Marco ACA™** | Base de Auditorías de Reputación Algorítmica (Express, Professional, Retención) |
+| **ACA-Score™** | Score que se entrega en cada auditoría |
+| **FACE™** | 🟡 Working paper · NO comercializar todavía |
+| **Protocolo GEAC** | 🟡 En validación · ofrecible cuando madure |
+| **ACA Seal™** | 🔴 Certificación premium futura · pricing $3-8k TBD |
+| **RICFE®** | Framework de prompting · uso interno + futura formación |
 
 ---
 

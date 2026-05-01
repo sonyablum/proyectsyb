@@ -30,9 +30,10 @@ Allí están: DOIs vigentes, RQ canónica (ES/EN), pipeline de congresos, P3 Pro
 ## Reglas de oro académicas (NO romper)
 1. **"Investigadora independiente en reputación algorítmica"** — NUNCA "doctoranda", "candidata doctoral", "mi doctorado".
 2. **Solo citar DOIs públicos**: TAA (10.5281/zenodo.18802347), ACA-Score™ v2 (10.5281/zenodo.19035939), RICFE® v2.4 (10.5281/zenodo.19388591).
-3. **ACA-Score™ v3 es borrador interno** sin DOI — no citar públicamente hasta depositar en Zenodo.
+3. **Borradores internos sin DOI — NO citar públicamente sin OK**: ACA-Score™ v3 · FACE™ Working Paper v0.6 · Protocolo GEAC · ACA Seal™.
 4. **Amcham y campañas políticas** NO son casos académicos.
 5. **CINCOMA 2025** se cita como Yánez Blum, 2025a (pendiente Zenodo).
+6. **Académico ≠ Comercial**: jamás mezclar Zenodo DOIs con CTAs de venta. Marco académico = "investigadora independiente"; marco comercial = "fundadora Blum Digital PR" + precios.
 
 ## Estado pipeline académico (resumen)
 

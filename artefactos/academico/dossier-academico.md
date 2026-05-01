@@ -106,14 +106,17 @@
 
 ---
 
-## 📊 Delphi modificado — Validación del constructo
+## 📊 Delphi GEAC — Validación del sistema completo
+
+> Es **un único Delphi** que valida 4 instrumentos en un solo cuestionario: Marco ACA™ + FACE™ + Protocolo GEAC + ACA Seal™ (4 bloques, 21 ítems Likert + 5 abiertas).
+> Detalle metodológico en `marco-aca/delphi-geac/README.md`.
 
 | Ronda | n | Estado | Hallazgo clave |
 |---|---|---|---|
-| Exploratoria (R0) | 130 | Ago–Sep 2025 ✓ | 7 países LATAM. Riesgos: errores/falsedades, falta verificación → **Pilar Trazabilidad** |
+| Exploratoria previa | 130 | Ago–Sep 2025 ✓ | 7 países LATAM. Riesgos: errores/falsedades, falta verificación → **Pilar Trazabilidad** |
 | Piloto estructurado | 5 | Ene–Feb 2026 ✓ | Todos usan IA, mayoría sin política formal |
-| **R1 modificado** | 18 | Abr 2026 ✓ | 61.1% +15 años exp · 77.8% maestría/doctorado · brecha auditabilidad: importancia 88.9% (M=4.50) vs factibilidad 55.6% (M=3.78) |
-| **R2** | panel R1 *(n por confirmar al cierre)* | 🔴 **Cierre 29-abr-2026 — verificar** | Integrar en paper Congreso H + MEDIAETHICS |
+| **GEAC R1 — Encuesta exploratoria del campo** | **N=33** | Feb 2026 ✓ | "Auditoría de algoritmos importante" 87.9% consenso · "Aplicable en mi organización" 54.5% (no consenso) · "Confiar en contenido IA" 42.4% (no consenso) |
+| **GEAC R2 — Panel experto Delphi** | n=18 *(reconciliar con n=17 que aparece en versión anterior del FACE WP)* | 🔴 **Cierre 29-abr-2026 — verificar** | Integrar en paper Congreso H + MEDIAETHICS. Cada ítem muestra resultado R1 como referencia |
 
 ---
 
@@ -171,10 +174,10 @@
 
 ## 🟡 TODOs internos pendientes de confirmar con Sonia
 
-- [ ] **Sofía** mencionada como apoyo en ensayo de guion EN para Hase — ¿quién es? ¿formalizar como colaboradora?
-- [ ] Confirmar **n final del Delphi R2** una vez cerrada la ronda (provisionalmente: panel R1 de 18).
-- [ ] Confirmar formato de tesis: monográfica o compendio (decisión a tomar antes de Q4 2027).
-- [ ] Verificar dirección oficial de email de Hase (`valerie.hase@aau.at`?) si vuelve a usarse.
+- [x] ~~Sofía mencionada como apoyo en ensayo de guion EN para Hase~~ → **Hija de Sonia**, ayuda en ensayos de inglés (martes 16-19h) y otras gestiones. Su nombre identifica el chat IA en la web de Blum Digital PR.
+- [ ] Confirmar **n final del Delphi GEAC R2** al cierre (17 / 18 / otro)
+- [ ] Confirmar formato de tesis: monográfica o compendio (decisión a tomar antes de Q4 2027)
+- [ ] Verificar dirección oficial de email de Hase (`valerie.hase@aau.at`?) si vuelve a usarse
 
 ---
 

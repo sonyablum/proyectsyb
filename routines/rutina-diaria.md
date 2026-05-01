@@ -25,3 +25,17 @@
 - Si un día es de baja energía: ejecutar **solo** WhatsApp Amcham + cierre. Resto se reagenda.
 - No abrir agenda de viernes lunes a primera hora — empezar por algo cerrado.
 - Sesiones cliente: nunca antes de 10:00 AM, nunca después de 16:00.
+
+## Bloque intocable
+
+🔴 **Martes 16:00–19:00 Austria · Inglés con Sofía (hija)**
+
+Ningún SLA exige acción en este bloque. Si algo vence dentro, espera al miércoles 09:00 Austria.
+
+## Picos de energía CEO (orientativo)
+
+- 07:30–09:30
+- 12:00–14:00
+- 18:00–20:00
+
+Reservar el bloque profundo del día en uno de estos rangos cuando sea posible.

@@ -12,7 +12,7 @@
 | H2 | Blum | **3 escenarios Make conectados** | 10:30 — WhatsApp→CRM · Email→ACA→Drive · Menciones→Reputación |
 | H3 | Sonia Yánez | **Pago AIEthics 2026 (Madrid)** | BBVA `ES5301826101850201610161` (cuenta vencida) |
 | H4 | Sonia Yánez | **Verificar P3 Sondeo 1** completo (22-25 abr) | Si no, terminar antes 5-may para no romper ventana 10 días |
-| H5 | Sonia Yánez | **Verificar Delphi R2** cerró 29-abr | Sin esto no se integra en paper Congreso H + MEDIAETHICS |
+| H5 | Sonia Yánez | **Verificar Delphi GEAC R2** cerró 29-abr (4 bloques: ACA + FACE + GEAC + ACA Seal · 21 ítems Likert) | Sin esto no se integra en paper Congreso H + MEDIAETHICS · análisis estadístico R1 (N=33) ↔ R2 (n=18) |
 > ✅ **Hase 28-abr** → reunión ok · email enviado 30-abr · esperando respuesta de los 2 revisores asignados.
 > ✅ **Arquitectura del grupo** → 8 preguntas críticas cerradas (1-may).
 > ✅ **Sonja Kalos** → naturaleza pública aprobada: AI persona declarada bajo personaje aislado.
@@ -83,6 +83,17 @@
 | FX1 | Sacar **número fiscal Austria** como emprendedora con discapacidad 50% | En trámite |
 | FX2 | Confirmar libros contables separados por marca (etiqueta interna, no entidades distintas) | Esta semana |
 | FX3 | Decisión pricing Amcham al renove ($1,100 actual vs $1,500 estándar) | Antes próximo renove |
+
+### Activos intelectuales (descubiertos al integrar FACE/GEAC)
+| # | Tarea | Deadline |
+|---|---|---|
+| AI1 | Reconciliar n del Delphi GEAC R2 al cierre (17 / 18 / otro) | Tras cierre 29-abr |
+| AI2 | Análisis estadístico Delphi R2: % consenso por ítem, Kappa Fleiss inter-ronda | Mayo |
+| AI3 | Depositar FACE WP v0.6 en Zenodo cuando Sonia libere autorización | TBD |
+| AI4 | Diseño gráfico del **ACA Seal™** (icono, paleta, lockup) | Tras maduración |
+| AI5 | Protocolo de auditor externo para entrega del ACA Seal™ | Tras maduración |
+| AI6 | Decisión: registro como TM del ACA Seal™ en Austria + LATAM + España | Cuando se acerque comercialización |
+| AI7 | Documento de criterios técnicos del ACA Seal™ (qué se audita por pilar) | Tras Delphi R2 |
 
 ---
 
