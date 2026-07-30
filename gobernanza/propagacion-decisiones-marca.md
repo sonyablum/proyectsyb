@@ -101,12 +101,11 @@ reescritura manual.
 | 12-07-2026 | **Símbolos de marca.** Solo `RICFE™` y `HACERP™` llevan ™. ACA, Marco ACA, ACA-Score, FACE, TAA, ACA Seal, GEAC, RRPP 6.0 y «Reputación Algorítmica» no están registradas: sin símbolo. Nunca ® en ninguna marca. | **Vigente** | 30-07-2026 |
 | 30-07-2026 | **Frontera de formación.** La formación in-house en gobernanza y reputación algorítmica es producto premium de Blum. El curso online general para comunicadores es Academia ARP. El criterio es el formato y el nivel, no el tema. | **Vigente** | 30-07-2026 |
 | 30-07-2026 | **Vía académica.** El diseño de syllabus y módulos para universidades es una tercera vía con criterio propio, fuera de la frontera in-house/online. | **Vigente** | Criterio de marca pendiente |
+| 30-07-2026 | **Cursos ARP.** De los seis del catálogo (C01–C06) solo existe el Curso Ejecutivo de Gestión de Reputación Algorítmica (99 USD). Los otros cinco son propuestas sin desarrollar: no son producto, no se anuncian, no llevan marca. | **Vigente** | 30-07-2026 |
 | jun-2026 | Símbolos: «las marcas no están registradas → usar solo ™». | **DEROGADA** por la del 12-07-2026 | 30-07-2026 |
 
 ## Qué sigue abierto
 
-- **ARP-C04 y ARP-C05** — figuran en el catálogo de ARP sin que conste que existan como producto.
-  Sin marca asignada hasta confirmarlo.
 - **Vía académica** — falta definir marca, precio y límites.
 - **`iapr/docs/MAPEO-FINAL-HQ-JUL2026.md`** — lista el curso de reputación algorítmica como
   «ARP-C02, 197–247 USD, asincrónico». El real cuesta 99 USD e incluye sesión en vivo mensual.
