@@ -11,7 +11,7 @@ Audiencia, voz, estética y CTAs viven en universo separado.
 - ❌ No comparte narrativa.
 - ❌ No comparte branding.
 - ❌ No aparece en CV, LinkedIn, ORCID, papers, propuestas, prensa.
-- ❌ No usa Marco ACA™ ni los activos intelectuales de Sonia personal.
+- ❌ No usa Marco ACA ni los activos intelectuales de Sonia personal.
 - ✅ Puede compartir herramientas técnicas genéricas sin compartir narrativa.
 
 **Violación** → bloqueo automático del handoff + alerta crítica a la CEO.
@@ -20,18 +20,32 @@ Audiencia, voz, estética y CTAs viven en universo separado.
 
 **Academia ARP NO cubre las metodologías exclusivas de Blum + Sonia personal.**
 
+El criterio que separa las marcas **no es el tema, sino el formato y el nivel**: la formación
+in-house —programa corporativo cerrado, a medida, con diagnóstico previo y acompañamiento— es
+producto premium de Blum. La formación online general y abierta es Academia ARP. Ambas pueden
+tratar reputación algorítmica sin canibalizarse.
+
 Las siguientes son **exclusivas** de Blum Digital PR y de la marca personal de Sonia:
 
-- Reputación Algorítmica (como producto comercial premium)
-- ACA-Score™ (como instrumento de auditoría)
-- FACE™ (working paper · sin uso comercial)
+- Reputación Algorítmica y gobernanza algorítmica *(en formato in-house: programa corporativo cerrado, a medida, con diagnóstico previo y acompañamiento. La formación online general y abierta corresponde a ARP.)*
+- ACA-Score *(como instrumento de auditoría aplicado a entidades reales de cliente, incluyendo sus fórmulas, ponderaciones y umbrales. Su explicación conceptual es materia formativa de ARP.)*
+- FACE (working paper · sin uso comercial)
 - Protocolo GEAC (en validación · sin uso comercial)
-- ACA Seal™ (certificación premium futura)
-- RRPP 6.0®
+- ACA Seal (certificación premium futura)
+- RRPP 6.0
 
-ARP **sí puede** enseñar fundamentos generales de IA aplicada a comunicación, prompting (RICFE® v2.4 público), ética digital, plantillas de PR — pero no las metodologías core arriba listadas.
+ARP **sí puede** enseñar fundamentos generales de IA aplicada a comunicación, prompting (RICFE™ v2.4 público), ética digital, plantillas de PR y reputación algorítmica en formato online abierto — pero no las metodologías core en los términos acotados arriba.
 
 **Violación** → pieza retirada antes de publicar + revisión por un validador-voz-multimarca.
+
+### Producto vigente bajo esta regla
+
+| Marca | Producto | Formato | Precio |
+|---|---|---|---|
+| Blum Digital PR | L3 · Formación in-house | Corporativo cerrado, 4–16 semanas | 1.500 € – 3.000 € |
+| Academia ARP | Curso Ejecutivo de Gestión de Reputación Algorítmica para Comunicadores | Online: 2 h en vivo mensuales + 3 h grabadas + ebook | 99 USD |
+
+Fuente ARP: *Documento Madre de Contenido*, v5.0, julio 2026.
 
 ## Regla 3 — Académico ≠ Comercial
 
@@ -40,7 +54,7 @@ ARP **sí puede** enseñar fundamentos generales de IA aplicada a comunicación,
 - **Marco académico** = DOIs públicos + firma "investigadora independiente en reputación algorítmica".
 - **Marco comercial** = firma "consultora · fundadora de Blum Digital PR" + precios + propuesta.
 
-Cada pieza pública debe pertenecer claramente a uno de los dos marcos. Si una columna divulgativa cita un DOI, NO incluye CTAs de venta. Si una propuesta comercial menciona el Marco ACA™, NO cita los DOIs Zenodo como autoridad académica de venta.
+Cada pieza pública debe pertenecer claramente a uno de los dos marcos. Si una columna divulgativa cita un DOI, NO incluye CTAs de venta. Si una propuesta comercial menciona el Marco ACA, NO cita los DOIs Zenodo como autoridad académica de venta.
 
 **Violación** → revisión por guardian-coherencia-aca.
 
@@ -58,10 +72,10 @@ Esta regla aplica en las 4 marcas y en las 6 rutas A2A.
 
 Los siguientes están en fase exploratoria o validación. **NO se citan públicamente** sin OK explícito de Sonia:
 
-- ACA-Score™ v3 (Marco Bidimensional)
-- FACE™ Working Paper v0.6
+- ACA-Score v3 (Marco Bidimensional)
+- FACE Working Paper v0.6
 - Protocolo GEAC
-- ACA Seal™
+- ACA Seal
 
 Solo se pueden mencionar en discusiones académicas privadas con Hase / 2 revisores asignados.
 
@@ -70,8 +84,24 @@ Solo se pueden mencionar en discusiones académicas privadas con Hase / 2 reviso
 | Activo | DOI | Cita |
 |---|---|---|
 | TAA — Teoría de la Autoridad Algorítmica | [10.5281/zenodo.18802347](https://doi.org/10.5281/zenodo.18802347) | Yánez Blum, 2026a |
-| ACA-Score™ v2 | [10.5281/zenodo.19035939](https://doi.org/10.5281/zenodo.19035939) | Yánez Blum, 2026b |
-| RICFE® v2.4 | [10.5281/zenodo.19388591](https://doi.org/10.5281/zenodo.19388591) | Yánez Blum, 2026c |
+| ACA-Score v2 | [10.5281/zenodo.19035939](https://doi.org/10.5281/zenodo.19035939) | Yánez Blum, 2026b |
+| RICFE™ v2.4 | [10.5281/zenodo.19388591](https://doi.org/10.5281/zenodo.19388591) | Yánez Blum, 2026c |
+| Marco ACA — Del poder algorítmico a la legitimidad digital | [10.5281/zenodo.20430991](https://doi.org/10.5281/zenodo.20430991) | Yánez Blum, 2026d |
+| Reputación algorítmica como constructo | [10.5281/zenodo.20410739](https://doi.org/10.5281/zenodo.20410739) | Yánez Blum, 2026e |
+
+## Atribución de marcas
+
+**Decisión de la CEO, 12 de julio de 2026.** Solo **RICFE™** y **HACERP™** llevan ™.
+
+«Reputación Algorítmica», «ACA-Score», «FACE», «ACA Seal», «Marco ACA» y «RRPP 6.0» **no están
+registradas** y no llevan ningún símbolo en ningún material, interno o público. Marcar con ™ un
+signo no registrado afirma un derecho que no existe.
+
+**Nunca ®** en ninguna marca del grupo.
+
+**Aplicación pendiente:** el skill `guardian-web-blum` ordena hoy lo contrario («RICFE™, ACA-Score™,
+FACE™, HACERP™, TAA™ — todos con ™») y lo aplica como gate de publicación, por lo que rechazará
+piezas que cumplan esta decisión. Debe actualizarse.
 
 ## Skills relacionados (Sprint 2)
 
