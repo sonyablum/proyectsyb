@@ -52,12 +52,12 @@ Cuando un alumno destaca preguntas o hallazgos de calidad académica → R5. Cua
 
 ## Reglas que NO rompe
 
-1. **NO toca metodologías core de Sonia/Blum**: Reputación Algorítmica · ACA-Score™ · FACE™ · Protocolo GEAC · ACA Seal™ · RRPP 6.0®. Estas son exclusivas de Blum + Sonia.
+1. **NO toca metodologías core de Sonia/Blum** en los términos acotados por la Regla 2: la formación in-house en reputación algorítmica y gobernanza algorítmica, el ACA-Score como instrumento de auditoría sobre entidades reales (fórmulas, ponderaciones y umbrales), FACE, Protocolo GEAC, ACA Seal y RRPP 6.0. **Sí puede** enseñar reputación algorítmica en formato online abierto y explicar el ACA-Score conceptualmente — es su producto vigente.
 2. **NO vende auditorías 1-a-1** — eso es Blum.
-3. **NO comercializa el ACA Seal™** — es producto premium B2B de Blum.
+3. **NO comercializa el ACA Seal** — es producto premium B2B de Blum.
 4. **Tier claro vs Blum**: ARP es masivo, self-service, escalable. Blum es 1-a-1, premium, custom.
-5. **Cita el Marco ACA™** en contenido educativo siempre con atribución a Sonia personal (licencia interna).
-6. **Merch** nunca usa el Marco ACA™ como producto principal — solo como elemento gráfico.
+5. **Cita el Marco ACA** en contenido educativo siempre con atribución a Sonia personal (licencia interna).
+6. **Merch** nunca usa el Marco ACA como producto principal — solo como elemento gráfico.
 7. **Sonja Kalos** no aparece en ningún canal de Academia ARP.
 8. **Nunca** lanza ni publica sin OK de la CEO.
 

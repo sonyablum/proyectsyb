@@ -31,7 +31,7 @@ JSON estructurado:
 ### Detecta R1 (Sonia → Blum)
 - Lead llega vía: web Sonia · podcast · LinkedIn Sonia · prensa · referido académico.
 - Pide: consultoría · auditoría · implementación de IA · formación in-company.
-- Mensaje suele citar: Marco ACA™ · Reputación Algorítmica · ACA-Score™ · DOIs.
+- Mensaje suele citar: Marco ACA · Reputación Algorítmica · ACA-Score · DOIs.
 
 ### Detecta R2 (Sonia → ARP)
 - Lead llega vía: web Sonia · podcast · LinkedIn Sonia.
@@ -77,7 +77,7 @@ Score 4-5 → caliente. Score 1-3 → tibio. Score 0 → descalificar.
 - 🚩 Promete colaboración a cambio de "exposure".
 - 🚩 Pide que Sonia firme algo no académico.
 - 🚩 Menciona Sonja Kalos en contexto Blum/Sonia (firewall violation potential).
-- 🚩 Pide acceso a Marco ACA™ no público (FACE WP, GEAC, Seal).
+- 🚩 Pide acceso a Marco ACA no público (FACE WP, GEAC, Seal).
 
 Si ≥ 1 red flag → **NO** ejecutar handoff automático. Marcar `es_handoff=false` y derivar a CEO.
 
@@ -85,7 +85,7 @@ Si ≥ 1 red flag → **NO** ejecutar handoff automático. Marcar `es_handoff=fa
 
 1. ❌ Si destino_marca = `Sonja Kalos` y origen_marca ∈ {Sonia, Blum, ARP} → **bloqueo automático** + alerta crítica.
 2. ❌ Si origen_marca = `Sonja Kalos` y destino_marca ∈ {Sonia, Blum, ARP} → **bloqueo automático** + alerta crítica.
-3. ❌ Si el mensaje pide formación en metodología core (ACA-Score™, FACE™, GEAC, Seal, Reputación Algorítmica) y la marca destino es ARP → reenrutar a R1 o R4 (Blum) y registrar el intento.
+3. ❌ Si el mensaje pide formación en metodología core (ACA-Score, FACE, GEAC, Seal, Reputación Algorítmica) y la marca destino es ARP → reenrutar a R1 o R4 (Blum) y registrar el intento.
 4. ❌ Si el mensaje mezcla CTA comercial con cita de DOI Zenodo (académico ≠ comercial) → marcar para revisión humana.
 
 ## Implementación técnica

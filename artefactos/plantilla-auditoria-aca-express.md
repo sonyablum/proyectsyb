@@ -1,4 +1,4 @@
-# Auditoría ACA™ Express — {NOMBRE_CLIENTE}
+# Auditoría ACA Express — {NOMBRE_CLIENTE}
 
 **Sector**: {SECTOR} · **País**: {PAÍS} · **Fecha**: {YYYY-MM-DD}
 **Auditora**: Sonia Yánez Blum — Sonia Yánez AI HQ
@@ -8,7 +8,7 @@
 
 ## 1. Resumen ejecutivo (1 página)
 
-**Score global ACA™**: __ / 5.0
+**Score global ACA**: __ / 5.0
 
 | Dimensión | Score | Tendencia |
 |---|---:|:---:|
@@ -51,7 +51,7 @@ Pruebas realizadas en {fecha} con prompts:
 
 ---
 
-## 3. Análisis Marco ACA™ por atributo
+## 3. Análisis Marco ACA por atributo
 
 > ⚠️ Lista provisional — actualizar con doc conceptual nuevo + IA-Ethics.
 
@@ -107,4 +107,4 @@ Pruebas realizadas en {fecha} con prompts:
 [insertar capturas pantallazos LLMs, web, RRSS]
 
 ## Anexo B — Metodología
-Aplica el Marco ACA™ (Auditoría de Comunicación Algorítmica) y el protocolo IA-Ethics, desarrollados por Sonia Yánez Blum. Detalle en `/marco-aca/`.
+Aplica el Marco ACA (Auditoría de Comunicación Algorítmica) y el protocolo IA-Ethics, desarrollados por Sonia Yánez Blum. Detalle en `/marco-aca/`.

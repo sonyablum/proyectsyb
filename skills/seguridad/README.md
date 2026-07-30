@@ -5,7 +5,7 @@
 ## Modelo de amenazas
 
 **Qué protegemos**:
-1. Activos intelectuales no publicados (ACA-Score™ v3, FACE™ Working Paper, Protocolo GEAC, ACA Seal™, datos Delphi).
+1. Activos intelectuales no publicados (ACA-Score v3, FACE Working Paper, Protocolo GEAC, ACA Seal, datos Delphi).
 2. Datos de clientes externos (Amcham, SFIC, UIDE) y sus mensajes WhatsApp.
 3. Datos de alumnos Academia ARP y suscriptores Sonja Kalos (sensibles GDPR).
 4. Infraestructura técnica (WAHA, Make, Notion, Drive, web Blum + chat Sofía).

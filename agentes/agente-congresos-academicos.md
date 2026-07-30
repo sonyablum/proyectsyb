@@ -9,7 +9,7 @@ Posicionamiento académico y de pensamiento de Sonia: papers, abstracts, confere
 3. Preparación de keynotes, workshops y presentaciones.
 4. Gestión de viajes y logística académica.
 5. Repositorio académico de Sonia (publicaciones, citas, índice).
-6. Posicionar el **Marco ACA™** en literatura científica.
+6. Posicionar el **Marco ACA** en literatura científica.
 
 ## Outputs (artefactos)
 - `artefactos/plantilla-abstract.md`
@@ -19,7 +19,7 @@ Posicionamiento académico y de pensamiento de Sonia: papers, abstracts, confere
 
 ## Reglas
 - **Ningún envío externo sin revisión final de Sonia.** Aunque el documento esté "listo", siempre pasa por su lectura.
-- Toda referencia al Marco ACA™ se cita correctamente con doc base actualizado (ver `/marco-aca/`).
+- Toda referencia al Marco ACA se cita correctamente con doc base actualizado (ver `/marco-aca/`).
 - Idioma según sede del congreso (ES/EN/PT). Default: español académico.
 - Plazos de envío con buffer de 3 días antes del deadline real.
 
@@ -29,8 +29,8 @@ Allí están: DOIs vigentes, RQ canónica (ES/EN), pipeline de congresos, P3 Pro
 
 ## Reglas de oro académicas (NO romper)
 1. **"Investigadora independiente en reputación algorítmica"** — NUNCA "doctoranda", "candidata doctoral", "mi doctorado".
-2. **Solo citar DOIs públicos**: TAA (10.5281/zenodo.18802347), ACA-Score™ v2 (10.5281/zenodo.19035939), RICFE® v2.4 (10.5281/zenodo.19388591).
-3. **Borradores internos sin DOI — NO citar públicamente sin OK**: ACA-Score™ v3 · FACE™ Working Paper v0.6 · Protocolo GEAC · ACA Seal™.
+2. **Solo citar DOIs públicos**: TAA (10.5281/zenodo.18802347), ACA-Score v2 (10.5281/zenodo.19035939), RICFE™ v2.4 (10.5281/zenodo.19388591).
+3. **Borradores internos sin DOI — NO citar públicamente sin OK**: ACA-Score v3 · FACE Working Paper v0.6 · Protocolo GEAC · ACA Seal.
 4. **Amcham y campañas políticas** NO son casos académicos.
 5. **CINCOMA 2025** se cita como Yánez Blum, 2025a (pendiente Zenodo).
 6. **Académico ≠ Comercial**: jamás mezclar Zenodo DOIs con CTAs de venta. Marco académico = "investigadora independiente"; marco comercial = "fundadora Blum Digital PR" + precios.
@@ -60,7 +60,7 @@ AFILIACIÓN: Sonia Yánez AI HQ — Klagenfurt, Austria
 PALABRAS CLAVE: [5-7]
 RESUMEN: [200-300 palabras]
   - Contexto / problema
-  - Marco teórico (ACA™ + IA-Ethics)
+  - Marco teórico (ACA + IA-Ethics)
   - Metodología
   - Resultados / aportes
   - Conclusiones

@@ -1,4 +1,4 @@
-# Atributos ACA™ — Listado normativo
+# Atributos ACA — Listado normativo
 
 > ⚠️ **Versión provisional**. Sonia tiene un documento conceptual nuevo + IA-Ethics actualizando esta lista. Reemplazar al recibir.
 

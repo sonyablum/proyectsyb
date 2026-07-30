@@ -6,10 +6,10 @@
 
 **Tagline interno**: "La consultora de las consultoras y agencias de PR".
 
-**Posicionamiento**: consultoría premium B2B que ayuda a otras consultoras, agencias de PR y direcciones de comunicación a **integrar IA y reputación algorítmica** en sus procesos. Aplica el Marco ACA™ (licenciado de Sonia Yánez personal).
+**Posicionamiento**: consultoría premium B2B que ayuda a otras consultoras, agencias de PR y direcciones de comunicación a **integrar IA y reputación algorítmica** en sus procesos. Aplica el Marco ACA (licenciado de Sonia Yánez personal).
 
 **Diferenciadores**:
-- Marco ACA™ propietario (vía Sonia Yánez).
+- Marco ACA propietario (vía Sonia Yánez).
 - Foco en **reputación algorítmica** (cómo las marcas aparecen en LLMs).
 - Operación 100% remota desde Klagenfurt para LATAM y España.
 - Ética IA como columna (Protocolo IA-Ethics).
@@ -18,13 +18,13 @@
 
 ## Líneas de servicio
 
-> **Nota de naming**: el framework conceptual **Marco ACA™** = Auditoría de **Comunicación** Algorítmica (propiedad de Sonia personal, licenciado a Blum). El producto comercial de Blum se vende públicamente como **"Auditoría de Reputación Algorítmica"** por claridad de mercado.
+> **Nota de naming**: el framework conceptual **Marco ACA** = Auditoría de **Comunicación** Algorítmica (propiedad de Sonia personal, licenciado a Blum). El producto comercial de Blum se vende públicamente como **"Auditoría de Reputación Algorítmica"** por claridad de mercado.
 
 ### Auditorías y diagnóstico
 | Producto | Apellido comercial | Precio | Duración | Entregable |
 |---|---|---|---|---|
-| ACA™ Express | "Auditoría de Reputación Algorítmica · Express" | **$497** | 5 días | Reporte + 1 sesión 60 min |
-| ACA™ Professional | "Auditoría de Reputación Algorítmica · Professional" | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan 90 días |
+| ACA Express | "Auditoría de Reputación Algorítmica · Express" | **$497** | 5 días | Reporte + 1 sesión 60 min |
+| ACA Professional | "Auditoría de Reputación Algorítmica · Professional" | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan 90 días |
 
 ### Acompañamiento continuo
 | Producto | Precio | Mecanismo |
@@ -84,12 +84,12 @@
 
 | Metodología | Uso comercial Blum |
 |---|---|
-| **Marco ACA™** | Base de Auditorías de Reputación Algorítmica (Express, Professional, Retención) |
-| **ACA-Score™** | Score que se entrega en cada auditoría |
-| **FACE™** | 🟡 Working paper · NO comercializar todavía |
+| **Marco ACA** | Base de Auditorías de Reputación Algorítmica (Express, Professional, Retención) |
+| **ACA-Score** | Score que se entrega en cada auditoría |
+| **FACE** | 🟡 Working paper · NO comercializar todavía |
 | **Protocolo GEAC** | 🟡 En validación · ofrecible cuando madure |
-| **ACA Seal™** | 🔴 Certificación premium futura · pricing $3-8k TBD |
-| **RICFE®** | Framework de prompting · uso interno + futura formación |
+| **ACA Seal** | 🔴 Certificación premium futura · pricing $3-8k TBD |
+| **RICFE™** | Framework de prompting · uso interno + futura formación |
 
 ---
 
@@ -98,7 +98,7 @@
 - Pipeline comercial vivo: lead → diagnóstico (20 min gratis) → propuesta → cierre → onboarding.
 - Borradores de propuestas (Express, Professional, Retención, Formaciones, Implementación).
 - Plantillas de auditoría listas (`artefactos/plantilla-auditoria-aca-express.md`; resto pendiente).
-- Reporting mensual a clientes con métricas ACA™ y monitoreo algorítmico.
+- Reporting mensual a clientes con métricas ACA y monitoreo algorítmico.
 - Coordinación de crisis (protocolo 4h con Sonia).
 - **Nunca** envío al cliente sin tu OK explícito.
 
@@ -152,7 +152,7 @@
 ## Reglas Blum
 
 1. Precios fijos: $497 / $1,200 / $1,500 — no se negocian sin permiso de Sonia.
-2. Toda propuesta lleva 1 caso anonimizado y 1 atributo ACA™ destacado.
+2. Toda propuesta lleva 1 caso anonimizado y 1 atributo ACA destacado.
 3. Express se cierra con plantilla + link de pago. Professional y Retención requieren OK de Sonia.
 4. Reporting mensual a cliente sin recordatorios.
 5. Confidencialidad: ningún cliente se nombra como caso académico (eso pertenece a Sonia Yánez personal y respeta sus reglas).

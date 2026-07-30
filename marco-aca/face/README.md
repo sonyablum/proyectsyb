@@ -1,4 +1,4 @@
-# 📐 Modelo FACE™ — Propagación Reputacional Algorítmica
+# 📐 Modelo FACE — Propagación Reputacional Algorítmica
 
 > ⚠️ **Working paper en fase exploratoria — sin validación empírica completa todavía.**
 > ⚠️ **No citar sin autorización explícita de Sonia.**
@@ -32,12 +32,12 @@ Tercera capa de medición en RR.PP., complementaria a:
 
 20 indicadores empíricos (5 por componente). Detalle en el WP §3.7.
 
-## Relación con ACA-Score™ (CRÍTICO)
+## Relación con ACA-Score (CRÍTICO)
 
 > **FACE y ACA-Score son instrumentos paralelos e independientes. NO se integran en una sola fórmula.**
 
-- **ACA-Score™**: autoridad algorítmica (estructural, condición medible). 4 pilares × 3 KPIs = 12 indicadores.
-- **FACE™**: propagación reputacional algorítmica (proceso dinámico de cómo viajan las señales).
+- **ACA-Score**: autoridad algorítmica (estructural, condición medible). 4 pilares × 3 KPIs = 12 indicadores.
+- **FACE**: propagación reputacional algorítmica (proceso dinámico de cómo viajan las señales).
 
 Ambos son parte del **Sistema ACA** pero se usan por separado.
 
@@ -57,7 +57,7 @@ Ambos son parte del **Sistema ACA** pero se usan por separado.
 2. ⛔ **No citar públicamente sin OK explícito de Sonia.**
 3. ✅ Solo se usa internamente como instrumento de trabajo o en discusiones académicas privadas con Hase / 2 revisores.
 4. ✅ Cuando madure y se deposite Zenodo, se podrá ofrecer como producto comercial Blum Digital PR (NO Academia ARP — regla anti-canibalización).
-5. 🛑 ARP NO toca FACE™ (junto con ACA-Score™, Reputación Algorítmica, RRPP 6.0®).
+5. 🛑 ARP NO toca FACE (junto con ACA-Score, Reputación Algorítmica, RRPP 6.0).
 
 ## Archivos relacionados en Drive
 

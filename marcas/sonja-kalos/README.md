@@ -27,7 +27,7 @@ Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ni
 
 | Criterio | AI persona declarada | Persona humana (alias) | Marca sin atribución |
 |---|:-:|:-:|:-:|
-| Coherencia con tu trabajo académico (Marco ACA™ + IA-Ethics, transparencia algorítmica) | ✅ Total | ❌ Contradice tu propia ética | 🟡 Ambiguo |
+| Coherencia con tu trabajo académico (Marco ACA + IA-Ethics, transparencia algorítmica) | ✅ Total | ❌ Contradice tu propia ética | 🟡 Ambiguo |
 | Riesgo legal (engaño al consumidor, especialmente en países con leyes de protección al consumidor en servicios espirituales) | ✅ Bajo | 🔴 Alto | 🟡 Medio |
 | Riesgo reputacional si se descubre el vínculo con Sonia | ✅ Bajo (firewall narrativo limpio) | 🔴 Crítico | 🟡 Medio |
 | Diferenciador en mercado esotérico (saturado de promesas dudosas) | ✅ "Honestidad AI" como USP | ❌ Indistinguible | 🟡 Frío |
@@ -45,7 +45,7 @@ Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ni
 
 ### Por qué NO recomiendo persona humana (alias)
 
-- Choca frontalmente con tu trabajo público sobre ética AI y transparencia algorítmica. Si se descubre, daña Marco ACA™, Blum y la marca personal.
+- Choca frontalmente con tu trabajo público sobre ética AI y transparencia algorítmica. Si se descubre, daña Marco ACA, Blum y la marca personal.
 - El mercado esotérico digital ya tiene casos legales recientes por engaño al consumidor.
 - Limita el escalado: una "persona" no puede atender miles sin levantar sospechas.
 
@@ -61,9 +61,9 @@ Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ni
 ## 🛑 Reglas de firewall (no se rompen)
 
 1. **NO se menciona** en ninguna comunicación de Blum Digital PR, Academia ARP ni Sonia Yánez personal.
-2. **NO aparece** en CV académico, LinkedIn de Sonia, ORCID, papers, propuestas comerciales, prensa académica, ni en ninguna pieza del Marco ACA™.
+2. **NO aparece** en CV académico, LinkedIn de Sonia, ORCID, papers, propuestas comerciales, prensa académica, ni en ninguna pieza del Marco ACA.
 3. **NO comparte** narrativa con las otras marcas — son universos separados.
-4. **NO usa** Marco ACA™, ACA-Score™, RICFE®, IAPRMIL, IA-Ethics, ni los DOIs Zenodo.
+4. **NO usa** Marco ACA, ACA-Score, RICFE™, IAPRMIL, IA-Ethics, ni los DOIs Zenodo.
 5. **NO se menciona** la conexión personal Sonia Yánez ↔ Sonja Kalos en ningún canal público.
 6. **PUEDE compartir** infraestructura técnica genérica (proveedores de IA, hosting, herramientas de pago) **sin** compartir narrativa, copy ni branding.
 7. **Ningún subagente académico ni de PR profesional** opera en Sonja Kalos: solo `agente-marketing` y `agente-automatizaciones` en silo.
@@ -107,7 +107,7 @@ Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ni
 | SK5 | Catálogo inicial: 3 servicios MVP esotéricos AI-elaborados | 🟡 |
 | SK6 | Dominio web propio + identidad visual aislada | 🟡 tras SK2 |
 | SK7 | Plataforma de pago independiente (Stripe propio, no compartir cuenta con otras marcas) | 🟡 |
-| SK8 | Stack de prompts curados por servicio (en silo, sin Marco ACA™) | 🟡 |
+| SK8 | Stack de prompts curados por servicio (en silo, sin Marco ACA) | 🟡 |
 | SK9 | Política contable: etiqueta interna "Sonja Kalos" en libro de Sonia persona física, sin disclosure cruzado en piezas externas | 🟡 |
 | SK10 | Plan de marketing en silo (RRSS dedicadas, sin overlap con Sonia/Blum/Academia) | 🟢 |
 
@@ -115,6 +115,6 @@ Sonja Kalos se presenta públicamente como **personaje AI**, sin vincularse a ni
 
 ## Comentario de gobernanza
 
-El **Marco ACA™** y el **protocolo IA-Ethics** que Sonia Yánez lidera **profesionalmente** plantean estándares de transparencia algorítmica. Si Sonja Kalos opera con AI sin declararlo, hay riesgo reputacional cruzado **si** se descubre el vínculo con la persona Sonia Yánez. Por eso el firewall debe ser estricto a nivel narrativo y a nivel digital (huellas SEO, metadatos, autores en posts).
+El **Marco ACA** y el **protocolo IA-Ethics** que Sonia Yánez lidera **profesionalmente** plantean estándares de transparencia algorítmica. Si Sonja Kalos opera con AI sin declararlo, hay riesgo reputacional cruzado **si** se descubre el vínculo con la persona Sonia Yánez. Por eso el firewall debe ser estricto a nivel narrativo y a nivel digital (huellas SEO, metadatos, autores en posts).
 
 > Este punto **no es juicio sobre el proyecto** — es protección de los activos académicos y comerciales del resto del grupo. Cuando arranquemos Sonja Kalos, hay que diseñar la separación con rigor.

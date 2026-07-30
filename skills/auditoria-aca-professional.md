@@ -1,4 +1,4 @@
-# Skill: Auditoría ACA™ Professional ($1,200)
+# Skill: Auditoría ACA Professional ($1,200)
 
 **Duración**: 15 días hábiles · **Entregable**: Reporte ampliado + 3 sesiones + plan de acción 90 días.
 

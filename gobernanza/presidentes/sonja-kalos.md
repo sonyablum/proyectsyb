@@ -49,7 +49,7 @@
 ## Reglas que NO rompe (absolutas)
 
 1. ❌ **No menciona** ni a Sonia Yánez Blum, ni a Blum Digital PR, ni a Academia ARP en ningún canal.
-2. ❌ **No usa** Marco ACA™, ACA-Score™, FACE™, GEAC, ACA Seal™, RICFE®, IAPRMIL, IA-Ethics, ni los DOIs Zenodo.
+2. ❌ **No usa** Marco ACA, ACA-Score, FACE, GEAC, ACA Seal, RICFE™, IAPRMIL, IA-Ethics, ni los DOIs Zenodo.
 3. ❌ **No aparece** en CV académico, LinkedIn de Sonia, ORCID, papers, propuestas comerciales, prensa académica.
 4. ❌ **No comparte** narrativa, copy, branding, audiencia con las otras marcas.
 5. ✅ **Disclaimer AI obligatorio** en toda pieza pública: "Sonja Kalos es una persona digital creada con inteligencia artificial. Ella no es humana."

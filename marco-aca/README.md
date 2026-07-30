@@ -1,10 +1,10 @@
-# Marco ACA™ + IA-Ethics — Base conceptual
+# Marco ACA + IA-Ethics — Base conceptual
 
 > **Estado**: ⚠️ Pendiente subir versión consolidada actualizada.
 > Ver `PENDIENTES.md` #5 y #6.
 
 ## Qué va en esta carpeta
-- `marco-aca-conceptualizacion-vX.md` — documento maestro del Marco ACA™.
+- `marco-aca-conceptualizacion-vX.md` — documento maestro del Marco ACA.
 - `iaethics-vX.md` — protocolo IA-Ethics complementario.
 - `atributos-aca.md` — listado normativo de atributos para auditoría.
 - `glosario.md` — términos clave y definiciones.

@@ -14,7 +14,7 @@ Para arquitectura general ver `/ORQUESTA.md`.
 ## Reglas transversales
 
 1. **Sonja Kalos no se cruza** con ninguna otra marca (ni en copy, ni en CV, ni en piezas).
-2. **Marco ACA™** es propiedad de Sonia Yánez personal — Blum y Academia ARP lo licencian.
+2. **Marco ACA** es propiedad de Sonia Yánez personal — Blum y Academia ARP lo licencian.
 3. **Sonia decide y envía**. Las marcas no publican sin su OK.
 4. **Una marca no canibaliza a otra**: si un cliente de Blum quiere un curso, va a Academia ARP; si un alumno de Academia quiere consultoría, va a Blum.
 

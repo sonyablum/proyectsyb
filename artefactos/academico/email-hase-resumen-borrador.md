@@ -27,8 +27,8 @@ A brief recap of the current state of the work:
 
 - Three Zenodo preprints already deposited (DOIs in the document):
   · Theory of Algorithmic Authority (TAA) — 10.5281/zenodo.18802347
-  · ACA-Score™ v2 — 10.5281/zenodo.19035939
-  · RICFE® v2.4 — 10.5281/zenodo.19388591
+  · ACA-Score v2 — 10.5281/zenodo.19035939
+  · RICFE™ v2.4 — 10.5281/zenodo.19388591
 - P3 Protocol — Baseline measurement (Sondeo 1): 50 queries × 4 LLMs
   (ChatGPT, Gemini, Perplexity, Claude) × 3 iterations, bilingual (ES + EN).
 - Sondeo 2 (longitudinal follow-up, +10 days) scheduled for early May 2026.
@@ -86,8 +86,8 @@ Breve recap del estado actual:
 
 - Tres preprints ya depositados en Zenodo (DOIs en el documento):
   · Teoría de la Autoridad Algorítmica (TAA) — 10.5281/zenodo.18802347
-  · ACA-Score™ v2 — 10.5281/zenodo.19035939
-  · RICFE® v2.4 — 10.5281/zenodo.19388591
+  · ACA-Score v2 — 10.5281/zenodo.19035939
+  · RICFE™ v2.4 — 10.5281/zenodo.19388591
 - P3 Protocol — medición base (Sondeo 1): 50 consultas × 4 LLMs × 3 iteraciones,
   bilingüe (ES + EN).
 - Sondeo 2 (seguimiento longitudinal, +10 días) previsto para inicios de mayo.

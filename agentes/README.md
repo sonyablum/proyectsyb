@@ -11,5 +11,5 @@
 
 Reglas comunes:
 - Nada se envía al exterior sin OK de Sonia.
-- Todo entregable se ancla al Marco ACA™ + IA-Ethics.
+- Todo entregable se ancla al Marco ACA + IA-Ethics.
 - Formato corto, tabla resumen + artefacto + "qué falta de ti".
