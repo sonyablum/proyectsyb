@@ -74,7 +74,7 @@ ORCID: 0000-0002-6695-8129
 1. ✅ Firma comercial completa: "consultora · fundadora de Blum Digital PR".
 2. ✅ Cita 1 DOI público (TAA) para autoridad — el lead es comercial, así que se cita al DOI desde el marco comercial sin caer en CTA de venta. Si se cita más, ya pasa a marketing académico (académico ≠ comercial).
 3. ❌ NUNCA dice "doctoranda" ni "candidata doctoral".
-4. ❌ NUNCA menciona FACE™, Protocolo GEAC, ACA Seal™, ACA-Score™ v3 (no públicos).
+4. ❌ NUNCA menciona FACE, Protocolo GEAC, ACA Seal, ACA-Score v3 (no públicos).
 5. ❌ NUNCA menciona Sonja Kalos.
 6. ✅ Idioma: español neutro.
 7. ✅ Compromiso de SLA explícito (refuerza profesionalidad).

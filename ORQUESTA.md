@@ -5,7 +5,7 @@
 
 ## Cabeza del grupo
 
-**Sonia Yánez Blum** — investigadora independiente en RRPP 6.0, IA y Reputación Algorítmica · autora del **Marco ACA™** · Klagenfurt (Austria) → LATAM y España · ORCID [0000-0002-6695-8129](https://orcid.org/0000-0002-6695-8129).
+**Sonia Yánez Blum** — investigadora independiente en RRPP 6.0, IA y Reputación Algorítmica · autora del **Marco ACA** · Klagenfurt (Austria) → LATAM y España · ORCID [0000-0002-6695-8129](https://orcid.org/0000-0002-6695-8129).
 
 Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos largos.
 
@@ -34,7 +34,7 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
                                                                 salud)
 
                          Activos intelectuales del grupo:
-                         Marco ACA™ · ACA-Score™ · RICFE®
+                         Marco ACA · ACA-Score · RICFE™
                          IAPRMIL · IA-Ethics · ORCID
                          (propiedad de Sonia Yánez personal,
                           licenciados a Blum y a Academia ARP)
@@ -54,13 +54,13 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 - Formaciones de alto nivel
 - Implementación de procesos IA
 - Desarrollo de productos IA enfocados en RRPP
-- Auditorías ACA™ y retenciones premium
+- Auditorías ACA y retenciones premium
 
 **Productos/servicios actuales** (heredados del primer encuadre — *confirmar si son de Blum o de otra marca*):
 | Producto | Precio | Promesa |
 |---|---|---|
-| Auditoría ACA™ Express | $497 | 5 días · 1 reporte + 1 sesión |
-| Auditoría ACA™ Professional | $1,200 | 15 días · plan 90 días + 3 sesiones |
+| Auditoría ACA Express | $497 | 5 días · 1 reporte + 1 sesión |
+| Auditoría ACA Professional | $1,200 | 15 días · plan 90 días + 3 sesiones |
 | Retención mensual | $1,500 / mes | 4 entregables + monitoreo |
 
 **Cartera de cuentas** (4 ámbitos):
@@ -72,7 +72,7 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 **Mi papel** (Jefe de Despacho):
 - Pipeline comercial vivo (lead → diagnóstico → propuesta → cierre).
 - Plantillas y propuestas listas para tu aprobación. Nada se envía sin tu OK.
-- Reporting mensual a clientes con métricas ACA™.
+- Reporting mensual a clientes con métricas ACA.
 - Coordinación de crisis y monitoreo de menciones.
 
 **Indicadores que vigilo**: MRR · conversión Express→Professional · margen por cliente · cobranza · NPS.
@@ -108,14 +108,14 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 
 ## Marca 3 — Sonia Yánez Blum (marca personal académica/intelectual)
 
-**Qué es**: la persona. Autora del Marco ACA™. Investigadora independiente en programa HDA / AAU Klagenfurt bajo supervisión Dra. Valerie Hase.
+**Qué es**: la persona. Autora del Marco ACA. Investigadora independiente en programa HDA / AAU Klagenfurt bajo supervisión Dra. Valerie Hase.
 
-**Activos intelectuales (propiedad personal)**: Marco ACA™ · ACA-Score™ · RICFE® · IAPRMIL · IA-Ethics · ORCID · 3 DOIs Zenodo · cuerpo de papers, abstracts y libros futuros.
+**Activos intelectuales (propiedad personal)**: Marco ACA · ACA-Score · RICFE™ · IAPRMIL · IA-Ethics · ORCID · 3 DOIs Zenodo · cuerpo de papers, abstracts y libros futuros.
 
 **Goals declarados**:
 1. **Doctorado** — defensa Q3 2028 (borrador Q1-Q2 2028).
 2. **Producción científica** — papers indexados, monografías, capítulos.
-3. **Libros** — divulgación y manuales del Marco ACA™.
+3. **Libros** — divulgación y manuales del Marco ACA.
 4. **Speaker de alto nivel** en IA ética + habilidades digitales/algorítmicas en profesionales.
 5. **Diseñadora y asesora** de programas académicos universitarios.
 6. **Posible directora de maestría** / consultora académica / docente de módulos en maestrías.
@@ -123,7 +123,7 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 8. **Contratación** como speaker o formadora alto nivel.
 
 **Pipeline activo 2026**:
-- 3 DOIs Zenodo publicados · ACA-Score™ v3 en preparación.
+- 3 DOIs Zenodo publicados · ACA-Score v3 en preparación.
 - 3 congresos aprobados: AIEthics Madrid (presentado, falta pago) · Congreso H mayo · MEDIAETHICS Valladolid jun-jul.
 - P3 Protocol (Sondeo 1 → Sondeo 2 + 10 días) · Delphi R2 cierre 29-abr.
 - 6 estudios E1-E6 hasta Q4 2027.
@@ -150,7 +150,7 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 **Reglas de firewall** (críticas):
 - ❌ **No se menciona** en ninguna comunicación de las otras 3 marcas.
 - ❌ **No se cruza** con activos de Blum, Academia ARP o Sonia Yánez personal.
-- ❌ **No comparte** el Marco ACA™, ni los DOIs, ni el ORCID.
+- ❌ **No comparte** el Marco ACA, ni los DOIs, ni el ORCID.
 - ❌ **No aparece** en CV académico ni en propuestas comerciales.
 - ✅ Tiene su propio dominio web, su propia identidad, sus propios canales.
 - ✅ Puede compartir herramientas técnicas (proveedores de IA, hosting) sin compartir narrativa.
@@ -201,7 +201,7 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 1. **Sonia decide y envía.** Yo dejo borradores listos. No envío al exterior nunca sin tu OK.
 2. **Comunicación pública**: jamás "doctoranda" · solo DOIs públicos · sin casos comerciales en lo académico.
 3. **SONJA KALOS firewall absoluto**: no se menciona, no se cruza, no aparece en CV.
-4. **Marco ACA™ + IA-Ethics** son propiedad de Sonia Yánez personal, no de las marcas operativas. Blum y Academia ARP los **licencian**, no los poseen.
+4. **Marco ACA + IA-Ethics** son propiedad de Sonia Yánez personal, no de las marcas operativas. Blum y Academia ARP los **licencian**, no los poseen.
 5. **Precios fijos** Blum: $497 / $1,200 / $1,500. No se negocian sin permiso.
 6. **Día bajo** = operación mínima viable (WhatsApp Amcham + cierre del día), no se cancela.
 
@@ -217,7 +217,7 @@ Trabaja con fibromialgia → entregables listos, bloques cortos, sin párrafos l
 | Skills (procedimientos) | `skills/` |
 | Plantillas de entregables | `artefactos/` |
 | Dossier académico canónico | `artefactos/academico/dossier-academico.md` |
-| Marco conceptual ACA™ + IA-Ethics | `marco-aca/` |
+| Marco conceptual ACA + IA-Ethics | `marco-aca/` |
 | Rutinas calendarizadas | `routines/` |
 | Infra técnica | `infraestructura/` |
 
@@ -251,7 +251,7 @@ Detalle en `gobernanza/README.md`. Mandatos en `gobernanza/presidentes/`.
 |---|---|
 | **"Agencia AI PR" / "Sonia Yánez AI HQ"** | Era el nombre interno de **Blum Digital PR**. Queda como un alias histórico. |
 | **Cuentas de Blum Digital PR** | Externa: **Amcham Guayaquil** ($1,100/mes vía RUC Ecuador). Internas del grupo: **Academia ARP**, **Sonja Kalos**. *(SFIC-Rina y UIDE-Cynthia: estado por confirmar)*. |
-| **Auditorías ACA™** | Producto comercial de **Blum Digital PR**. Apellido público para mercado: "Auditoría de Reputación Algorítmica". El framework conceptual (Marco ACA™ = Auditoría de Comunicación Algorítmica) sigue siendo propiedad de Sonia personal y se licencia. |
+| **Auditorías ACA** | Producto comercial de **Blum Digital PR**. Apellido público para mercado: "Auditoría de Reputación Algorítmica". El framework conceptual (Marco ACA = Auditoría de Comunicación Algorítmica) sigue siendo propiedad de Sonia personal y se licencia. |
 | **ARP** | **Academia de Relaciones Públicas**. |
 | **Tienda Academia ARP** | 🟢 Activa con **3 productos**, sin promoción. Próximo paso: activar plan de difusión. |
 | **Sonja Kalos** | Grafía oficial: **Kalos** (una L). Recomendación de naturaleza pública: ver `marcas/sonja-kalos/README.md` (propuesta: **AI persona declarada bajo personaje aislado**). |

@@ -80,7 +80,7 @@
 | 2 | Lanzar promos < $X de presupuesto · refunds dentro de política · publicar contenido educativo rutinario en canales propios |
 | 3 | Calendario completo de lanzamientos dentro de presupuesto trimestral · pricing dentro de rangos pre-aprobados · onboarding alumnos premium |
 
-**Nunca se delega**: lanzar productos nuevos, cambios de identidad de marca, política de licencia ACA™.
+**Nunca se delega**: lanzar productos nuevos, cambios de identidad de marca, política de licencia ACA.
 
 ### Pdte. Sonja Kalos (silo)
 
@@ -102,7 +102,7 @@ Cualquiera de estos eventos baja al Presidente una fase, sin discusión:
 1. ❌ Violación de cualquier regla dura anti-canibalización.
 2. ❌ Mención de Sonja Kalos en una marca conectada (o viceversa).
 3. ❌ Uso de "doctoranda" / "candidata doctoral" / "mi doctorado" en pieza pública.
-4. ❌ Cita pública de un borrador no autorizado (ACA-Score™ v3, FACE™, GEAC, ACA Seal™).
+4. ❌ Cita pública de un borrador no autorizado (ACA-Score v3, FACE, GEAC, ACA Seal).
 5. ❌ Envío al exterior sin OK de la CEO en alcance no delegado.
 6. ❌ 2 SLA N1 vencidos consecutivos sin causa justificada.
 7. ❌ Solicitud explícita de la CEO.

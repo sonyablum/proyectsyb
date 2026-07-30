@@ -1,4 +1,4 @@
-# Skill: Auditoría ACA™ Express ($497)
+# Skill: Auditoría ACA Express ($497)
 
 **Duración**: 5 días hábiles · **Entregable**: Reporte (PDF/Doc) + 1 sesión 60 min.
 
@@ -21,8 +21,8 @@
   - "¿[cliente] vs [competidor]?"
 - Documentar respuestas IA + evidencia (capturas).
 
-### Día 2 — Análisis Marco ACA™
-Aplicar atributos del Marco ACA™ (ver `/marco-aca/`).
+### Día 2 — Análisis Marco ACA
+Aplicar atributos del Marco ACA (ver `/marco-aca/`).
 > ⚠️ Lista actual basada en versión previa — pendiente actualizar con doc nuevo + IA-Ethics.
 
 Atributos base (placeholder, actualizar):
@@ -60,5 +60,5 @@ Atributos base (placeholder, actualizar):
 - [ ] Score por atributo justificado con evidencia.
 - [ ] 3 capturas de IA generativa por cliente.
 - [ ] Recomendaciones accionables, no genéricas.
-- [ ] Mención al Marco ACA™ correctamente citado.
+- [ ] Mención al Marco ACA correctamente citado.
 - [ ] Revisión final por Sonia.

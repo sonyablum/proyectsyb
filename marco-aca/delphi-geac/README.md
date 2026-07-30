@@ -12,10 +12,10 @@
 
 | Bloque | Tema | Ítems |
 |---|---|---|
-| **A** | Marco ACA™ — los 4 pilares de confiabilidad + ACA-Score™ | 5 Likert + 1 abierta |
+| **A** | Marco ACA — los 4 pilares de confiabilidad + ACA-Score | 5 Likert + 1 abierta |
 | **B** | Framework FACE — Fuentes, Amplificadores, Catalizadores, Ecos | 5 Likert + 1 abierta |
 | **C** | Protocolo GEAC — proceso de 3 pasos + ciclo PDCA + complementariedad ISO/IEC 42001 | 6 Likert + 1 abierta |
-| **D** | ACA Seal™ — certificación de gobernanza | 5 Likert + 1 abierta |
+| **D** | ACA Seal — certificación de gobernanza | 5 Likert + 1 abierta |
 | **Cierre** | Pregunta integradora — coherencia del sistema completo | 1 abierta |
 
 **Total**: 21 ítems Likert obligatorios + 4 abiertas opcionales por bloque + 1 integradora.
@@ -43,9 +43,9 @@ R2 NO es independiente de R1: cada ítem de R2 muestra el resultado de R1 como *
 
 ## Ponderaciones evaluadas
 
-- **Marco ACA™**: 4 pilares con peso igual (25% c/u).
+- **Marco ACA**: 4 pilares con peso igual (25% c/u).
 - **Framework FACE**: pesos diferenciados (F=25%, A=35%, C=30%, E=10%) — ítem FACE-5 valida explícitamente esta asimetría.
-- **Umbral ACA Seal™**: ACA-Score ≥ 75 → nivel avanzado.
+- **Umbral ACA Seal**: ACA-Score ≥ 75 → nivel avanzado.
 
 ## Archivos en Drive
 

@@ -18,7 +18,7 @@
 | Regla | Razón |
 |---|---|
 | Decir **"investigadora independiente en reputación algorítmica"** | NUNCA "doctoranda", "candidata doctoral", "mi doctorado" |
-| Citar SOLO **ACA-Score™ v2 (DOI Zenodo 19035939)** públicamente | v3 es borrador interno sin DOI; v3.2 es trabajo |
+| Citar SOLO **ACA-Score v2 (DOI Zenodo 19035939)** públicamente | v3 es borrador interno sin DOI; v3.2 es trabajo |
 | NO mencionar Amcham como caso de estudio académico | Conflicto comercial / reputacional |
 | NO mencionar campañas políticas como casos | Mismo motivo |
 | Idioma según sede | Hase → inglés. CINCOMA/MEDIAETHICS → español |
@@ -40,16 +40,16 @@
 | ID | Título | Fecha | DOI | Cita |
 |---|---|---|---|---|
 | **TAA** | Gestión de la reputación en la era de los buscadores con IA: aplicación exploratoria de la Teoría de la Autoridad Algorítmica | Ene–Feb 2026 | [10.5281/zenodo.18802347](https://doi.org/10.5281/zenodo.18802347) | Yánez Blum, 2026a |
-| **ACA-Score™ v2** ★ | Instrumento metodológico — 4 pilares · 12 KPIs · fórmula canónica | 15 mar 2026 | [10.5281/zenodo.19035939](https://doi.org/10.5281/zenodo.19035939) | Yánez Blum, 2026b |
-| **RICFE® v2.4** | Framework de prompting estratégico — 5 componentes · n=123 | Abr 2026 | [10.5281/zenodo.19388591](https://doi.org/10.5281/zenodo.19388591) | Yánez Blum, 2026c |
+| **ACA-Score v2** ★ | Instrumento metodológico — 4 pilares · 12 KPIs · fórmula canónica | 15 mar 2026 | [10.5281/zenodo.19035939](https://doi.org/10.5281/zenodo.19035939) | Yánez Blum, 2026b |
+| **RICFE™ v2.4** | Framework de prompting estratégico — 5 componentes · n=123 | Abr 2026 | [10.5281/zenodo.19388591](https://doi.org/10.5281/zenodo.19388591) | Yánez Blum, 2026c |
 
 ### Documentos en preparación (sin DOI todavía)
-- **ACA-Score™ v3** — Marco Matemático Bidimensional (borrador 26-abr-2026). ⚠️ NO citar públicamente. Pendiente depositar en Zenodo. (Detalle estructural en §"ACA-Score™ v3" abajo).
-- **CINCOMA 2025 ponencia** — *"Del poder algorítmico a la legitimidad digital: el Marco ACA, el Modelo IAPRMIL y la métrica ACA-Score™ en la Era de las RR.PP. 6.0"*. Presentada **24–26 sep 2025, VI CINCOMA, Alicante (España)**. Pendiente depositar en Zenodo para DOI (citar como Yánez Blum, 2025a hasta entonces).
+- **ACA-Score v3** — Marco Matemático Bidimensional (borrador 26-abr-2026). ⚠️ NO citar públicamente. Pendiente depositar en Zenodo. (Detalle estructural en §"ACA-Score v3" abajo).
+- **CINCOMA 2025 ponencia** — *"Del poder algorítmico a la legitimidad digital: el Marco ACA, el Modelo IAPRMIL y la métrica ACA-Score en la Era de las RR.PP. 6.0"*. Presentada **24–26 sep 2025, VI CINCOMA, Alicante (España)**. Pendiente depositar en Zenodo para DOI (citar como Yánez Blum, 2025a hasta entonces).
 
 ---
 
-## 🧮 ACA-Score™ v3 — Arquitectura bidimensional (resumen interno)
+## 🧮 ACA-Score v3 — Arquitectura bidimensional (resumen interno)
 
 > ⚠️ Borrador de trabajo (26-abr-2026). Para uso interno y supervisión Hase. NO citar públicamente hasta depositar DOI.
 
@@ -95,7 +95,7 @@
 
 **Diseño**: 50 queries (bilingüe ES + EN) × 4 LLMs × 3 iteraciones = **600 datos por sondeo**.
 **LLMs**: ChatGPT · Gemini · Perplexity · Claude.
-**Distribución de queries**: por los 4 pilares ACA™.
+**Distribución de queries**: por los 4 pilares ACA.
 **Herramienta**: planilla Excel ya generada.
 
 | Sondeo | Fechas | Estado |
@@ -108,7 +108,7 @@
 
 ## 📊 Delphi GEAC — Validación del sistema completo
 
-> Es **un único Delphi** que valida 4 instrumentos en un solo cuestionario: Marco ACA™ + FACE™ + Protocolo GEAC + ACA Seal™ (4 bloques, 21 ítems Likert + 5 abiertas).
+> Es **un único Delphi** que valida 4 instrumentos en un solo cuestionario: Marco ACA + FACE + Protocolo GEAC + ACA Seal (4 bloques, 21 ítems Likert + 5 abiertas).
 > Detalle metodológico en `marco-aca/delphi-geac/README.md`.
 
 | Ronda | n | Estado | Hallazgo clave |
@@ -120,7 +120,7 @@
 
 ---
 
-## 🗓 Plan de validación 2026–2028 (6 estudios — ACA-Score™ v3)
+## 🗓 Plan de validación 2026–2028 (6 estudios — ACA-Score v3)
 
 > El plan v3 reemplaza al plan v2 anterior (AFC N≥200, ICC(2,1)≥0.65, α-Krippendorff ≥0.90/≥0.75, AVE + fiabilidad compuesta), con metas más exigentes y arquitectura bidimensional ACA-C / ACA-A.
 
@@ -129,7 +129,7 @@
 | E1 | AFC del ACA-C (WLSMV, N≥300, CFI≥0.95, RMSEA≤0.06) | Q4 2026 | Estructura 4 pilares confirmada |
 | E2 | P3 observacional (100 entidades × 600 obs = 60.000 datos) | Q4 2026 | GLMM, ICC inter-plataforma, α-Krippendorff |
 | E3 | Inter-jueces CA y RE (3 jueces, 600 menciones) | Q1–Q2 2027 | α-Krippendorff ≥0.75 |
-| E4 | Experimento RICFE® vs prompting libre (N=160, ANCOVA) | Q1–Q2 2027 | Cohen's d IC95% |
+| E4 | Experimento RICFE™ vs prompting libre (N=160, ANCOVA) | Q1–Q2 2027 | Cohen's d IC95% |
 | E5 | SEM unificado RICFE_quality → ACA-C → ACA-A (N≥400, bootstrap 5k) | Q3–Q4 2027 | Validez predictiva |
 | E6 | Replicación intercultural (LATAM + España + Austria/Alemania, N=200×3) | Q3–Q4 2027 | Invariancia de medición ΔCFI≤0.01 |
 

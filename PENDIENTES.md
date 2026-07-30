@@ -40,7 +40,7 @@
 |---|---|---|
 | SY1 | P3 Sondeo 2 (50q × 4 LLMs × 3 iter) | ~5-may (+10 días post-S1) |
 | SY2 | Subir docs Marco ACA + IA-Ethics actualizados a `/marco-aca/` | Esta semana |
-| SY3 | Depositar ACA-Score™ v3 en Zenodo (obtener DOI) | 1-2 semanas |
+| SY3 | Depositar ACA-Score v3 en Zenodo (obtener DOI) | 1-2 semanas |
 | SY4 | Depositar CINCOMA 2025 ponencia en Zenodo | 1-2 semanas |
 
 ---
@@ -72,7 +72,7 @@
 | AC2 | **Plan de promoción** mínimo viable: 4 piezas LinkedIn + 1 secuencia email + 1 colaboración | Próximas 2 semanas |
 | AC3 | Plataforma cursos seleccionada | Roadmap |
 | AC4 | Identidad visual unificada | Roadmap |
-| AC5 | Política de licencia Marco ACA™ (Sonia → Academia ARP) | Antes próximo lanzamiento |
+| AC5 | Política de licencia Marco ACA (Sonia → Academia ARP) | Antes próximo lanzamiento |
 
 ### Sonja Kalos (silo · diseño operativo activo)
 | # | Tarea | Deadline |
@@ -96,10 +96,10 @@
 | AI1 | Reconciliar n del Delphi GEAC R2 al cierre (17 / 18 / otro) | Tras cierre 29-abr |
 | AI2 | Análisis estadístico Delphi R2: % consenso por ítem, Kappa Fleiss inter-ronda | Mayo |
 | AI3 | Depositar FACE WP v0.6 en Zenodo cuando Sonia libere autorización | TBD |
-| AI4 | Diseño gráfico del **ACA Seal™** (icono, paleta, lockup) | Tras maduración |
-| AI5 | Protocolo de auditor externo para entrega del ACA Seal™ | Tras maduración |
-| AI6 | Decisión: registro como TM del ACA Seal™ en Austria + LATAM + España | Cuando se acerque comercialización |
-| AI7 | Documento de criterios técnicos del ACA Seal™ (qué se audita por pilar) | Tras Delphi R2 |
+| AI4 | Diseño gráfico del **ACA Seal** (icono, paleta, lockup) | Tras maduración |
+| AI5 | Protocolo de auditor externo para entrega del ACA Seal | Tras maduración |
+| AI6 | Decisión: registro como TM del ACA Seal en Austria + LATAM + España | Cuando se acerque comercialización |
+| AI7 | Documento de criterios técnicos del ACA Seal (qué se audita por pilar) | Tras Delphi R2 |
 
 ---
 
@@ -109,7 +109,7 @@
 - Brief de speaker profesional (bio, foto, keynotes, fees, riders).
 - Lista priorizada de directorios de speakers premium + universidades objetivo.
 - Plan editorial trimestral LinkedIn.
-- Outline libro divulgativo del Marco ACA™.
+- Outline libro divulgativo del Marco ACA.
 - Pre-registro OSF de E1 y E2 (antes Q4 2026).
 
 ### Blum Digital PR
@@ -152,5 +152,5 @@
 - Reglas de comunicación pública estrictas en marca personal.
 - 🛑 Firewall Sonja Kalos absoluto (no se cruza con nada).
 - Precios fijos Blum: $497 / $1,200 / $1,500.
-- Marco ACA™ + IA-Ethics columna vertebral.
+- Marco ACA + IA-Ethics columna vertebral.
 - Día bajo = operación mínima viable.

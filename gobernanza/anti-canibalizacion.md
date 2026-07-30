@@ -16,9 +16,9 @@ Audiencia, voz, estética y CTAs viven en universo separado.
 
 **Violación** → bloqueo automático del handoff + alerta crítica a la CEO.
 
-## Regla 2 — ARP no toca metodologías core
+## Regla 2 — ARP no toca metodologías core (acotada por formato)
 
-**Academia ARP NO cubre las metodologías exclusivas de Blum + Sonia personal.**
+**Academia ARP NO cubre las metodologías exclusivas de Blum + Sonia personal, en el formato en que son exclusivas.**
 
 El criterio que separa las marcas **no es el tema, sino el formato y el nivel**: la formación
 in-house —programa corporativo cerrado, a medida, con diagnóstico previo y acompañamiento— es
@@ -99,9 +99,10 @@ signo no registrado afirma un derecho que no existe.
 
 **Nunca ®** en ninguna marca del grupo.
 
-**Aplicación pendiente:** el skill `guardian-web-blum` ordena hoy lo contrario («RICFE™, ACA-Score™,
-FACE™, HACERP™, TAA™ — todos con ™») y lo aplica como gate de publicación, por lo que rechazará
-piezas que cumplan esta decisión. Debe actualizarse.
+**Aplicado el 30-07-2026** en los cinco guardianes, en los 85 skills del AI HQ y en los activos
+públicos de Blum. Antes de esa fecha, `guardian-web-blum` ordenaba lo contrario («RICFE, ACA-Score,
+FACE, HACERP, TAA — todos con el símbolo») y lo aplicaba como gate de publicación, de modo que
+rechazaba las piezas que cumplían esta decisión. Ver `propagacion-decisiones-marca.md`.
 
 ## Skills relacionados (Sprint 2)
 

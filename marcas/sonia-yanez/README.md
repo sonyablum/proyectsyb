@@ -4,7 +4,7 @@
 
 ## Identidad
 
-**Quién**: Sonia Yánez Blum, persona física. **Investigadora independiente** en RRPP 6.0, IA y Reputación Algorítmica. Autora del Marco ACA™. Operación desde Klagenfurt (Austria) hacia LATAM y España.
+**Quién**: Sonia Yánez Blum, persona física. **Investigadora independiente** en RRPP 6.0, IA y Reputación Algorítmica. Autora del Marco ACA. Operación desde Klagenfurt (Austria) hacia LATAM y España.
 
 **ORCID**: [0000-0002-6695-8129](https://orcid.org/0000-0002-6695-8129)
 **Programa académico de referencia**: HDA — Humans in the Digital Age (AAU Klagenfurt) — supervisión Dra. Valerie Hase.
@@ -25,15 +25,15 @@
 
 | Activo | Tipo | Estado |
 |---|---|---|
-| **Marco ACA™** | Framework conceptual de confiabilidad algorítmica | Versión vigente: ACA-v? *(pendiente subir doc nuevo)* |
-| **ACA-Score™** | Instrumento metodológico de medición | v2 público (DOI 19035939) · v3 borrador interno |
-| **FACE™** | Modelo de propagación reputacional algorítmica | Working Paper v0.6 CANONICO (15-mar-2026) · NO citar sin OK · `marco-aca/face/` |
+| **Marco ACA** | Framework conceptual de confiabilidad algorítmica | Versión vigente: ACA-v? *(pendiente subir doc nuevo)* |
+| **ACA-Score** | Instrumento metodológico de medición | v2 público (DOI 19035939) · v3 borrador interno |
+| **FACE** | Modelo de propagación reputacional algorítmica | Working Paper v0.6 CANONICO (15-mar-2026) · NO citar sin OK · `marco-aca/face/` |
 | **Protocolo GEAC** | Gobernanza ética algorítmica en comunicación (3 pasos + PDCA) | En validación Delphi R2 · MEDIAETHICS 2026 · `marco-aca/geac/` |
-| **ACA Seal™** | Certificación de gobernanza algorítmica | Working concept · validación Delphi · `marco-aca/aca-seal/` |
-| **RICFE®** | Framework de prompting estratégico | v2.4 público (DOI 19388591) |
+| **ACA Seal** | Certificación de gobernanza algorítmica | Working concept · validación Delphi · `marco-aca/aca-seal/` |
+| **RICFE™** | Framework de prompting estratégico | v2.4 público (DOI 19388591) |
 | **IAPRMIL** | Modelo (referenciado en CINCOMA 2025) | Ponencia pendiente Zenodo |
 | **IA-Ethics** | Protocolo ético | Pendiente subir doc actualizado |
-| **3 DOIs Zenodo** | Publicaciones citables | TAA · ACA-Score v2 · RICFE® v2.4 |
+| **3 DOIs Zenodo** | Publicaciones citables | TAA · ACA-Score v2 · RICFE™ v2.4 |
 
 ## Canales propios
 
@@ -55,7 +55,7 @@
 
 1. **Doctorado** — defensa Q3 2028 (borrador Q1-Q2 2028, supervisión Hase + 2 revisores).
 2. **Producción científica** — papers indexados, monografías, capítulos.
-3. **Libros** — divulgación y manuales del Marco ACA™ (planificación pendiente).
+3. **Libros** — divulgación y manuales del Marco ACA (planificación pendiente).
 4. **Speaker de alto nivel** en IA ética + habilidades digitales/algorítmicas en profesionales.
 5. **Diseñadora y asesora** de programas académicos universitarios.
 6. **Posible directora de maestría** / consultora académica / docente de módulos.
@@ -68,7 +68,7 @@
 
 ### Académico
 - 3 DOIs Zenodo publicados.
-- ACA-Score™ v3 — Marco Bidimensional (borrador) — pendiente Zenodo.
+- ACA-Score v3 — Marco Bidimensional (borrador) — pendiente Zenodo.
 - CINCOMA 2025 ponencia — pendiente Zenodo.
 - P3 Protocol: Sondeo 1 (22-25 abr) → Sondeo 2 (~5-may, +10 días).
 - Delphi modificado R2 — cierre 29-abr.
@@ -103,7 +103,7 @@
 |---|---|
 | `agente-congresos-academicos` | Papers, abstracts, ponencias, agenda académica, dossier vivo |
 | `agente-pr-medios` | Prensa especializada, columnas, posicionamiento como fuente oficial, monitoreo reputación algorítmica de Sonia misma |
-| `agente-marketing` | LinkedIn (voz pública), divulgación del Marco ACA™, autoridad de pensamiento |
+| `agente-marketing` | LinkedIn (voz pública), divulgación del Marco ACA, autoridad de pensamiento |
 
 `agente-ventas` y `agente-cfo` **no operan directamente** sobre la marca personal — los ingresos por speaker / docencia / consultoría académica los gestiona Blum Digital PR como fee de la persona, *[CONFIRMAR estructura]*.
 
@@ -149,7 +149,7 @@
 
 | # | Tarea | Prioridad |
 |---|---|---|
-| SY1 | Subir ACA-Score™ v3 a Zenodo (obtener DOI) | 🟡 1-2 semanas |
+| SY1 | Subir ACA-Score v3 a Zenodo (obtener DOI) | 🟡 1-2 semanas |
 | SY2 | Subir CINCOMA 2025 ponencia a Zenodo | 🟡 1-2 semanas |
 | SY3 | Subir docs ACA + IA-Ethics actualizados a `/marco-aca/` | 🟡 esta semana |
 | SY4 | Ponencia Congreso H (base ACA-Score v2 + datos P3) | 🔴 antes 27-may |
@@ -159,14 +159,14 @@
 | SY8 | Brief de speaker profesional (bio, foto, keynotes, fees, riders) | 🟢 |
 | SY9 | Lista priorizada de directorios de speakers + universidades objetivo | 🟢 |
 | SY10 | Plan editorial trimestral LinkedIn voz pública | 🟢 |
-| SY11 | Plan de libro divulgativo del Marco ACA™ — outline | 🟢 |
+| SY11 | Plan de libro divulgativo del Marco ACA — outline | 🟢 |
 
 ---
 
 ## Reglas Sonia Yánez personal
 
 1. **"Investigadora independiente en reputación algorítmica"** — jamás "doctoranda", "candidata doctoral", "mi doctorado".
-2. **Solo citar DOIs públicos**: TAA, ACA-Score v2, RICFE® v2.4. ACA-Score v3 NO público.
+2. **Solo citar DOIs públicos**: TAA, ACA-Score v2, RICFE™ v2.4. ACA-Score v3 NO público.
 3. **Sin casos comerciales** en lo académico (Amcham, SFIC, UIDE, campañas políticas no son casos).
 4. **Idioma según sede**: Hase y publicaciones internacionales → inglés. CINCOMA, MEDIAETHICS, columnas LATAM → español.
 5. **Nunca cruzar con Sonja Kalos** — no aparece en CV, ni en LinkedIn, ni en ningún canal académico/profesional.

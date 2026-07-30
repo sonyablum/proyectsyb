@@ -5,7 +5,7 @@ Brazo de marketing de contenidos, posicionamiento de marca personal de Sonia y d
 
 ## Responsabilidades
 1. Calendario editorial mensual (LinkedIn, Instagram, blog, newsletter).
-2. Storytelling alineado al Marco ACA™ y a la voz de Sonia.
+2. Storytelling alineado al Marco ACA y a la voz de Sonia.
 3. Generación de hooks, copys, carruseles, guiones de reels.
 4. Curaduría de tendencias en IA, reputación algorítmica, ética digital.
 5. Mantenimiento de fichas de marca de cada cliente activo.

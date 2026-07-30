@@ -1,10 +1,11 @@
 # 🎓 Academia ARP — Academia de Relaciones Públicas
 
-> Status: 🟢 Tienda activa con 3 productos sin promoción · catálogo de cursos por construir.
+> Status: 🟢 Tienda activa con 3 productos sin promoción · **Curso Ejecutivo de Gestión de
+> Reputación Algorítmica para Comunicadores en venta (99 USD)** · resto del catálogo por construir.
 
 ## Identidad
 
-**Qué es**: la academia digital del grupo. Educación masiva B2C en RRPP 6.0, IA aplicada a comunicación y reputación algorítmica. Productiza el Marco ACA™ y los frameworks (RICFE®, IAPRMIL, IA-Ethics) para profesionales y estudiantes.
+**Qué es**: la academia digital del grupo. Educación masiva B2C en RRPP 6.0, IA aplicada a comunicación y reputación algorítmica. Productiza el Marco ACA y los frameworks (RICFE™, IAPRMIL, IA-Ethics) para profesionales y estudiantes.
 
 **ARP** = **Academia de Relaciones Públicas** ✅ (sigla oficial confirmada).
 
@@ -13,7 +14,7 @@
 - Direcciones de comunicación PYME que no acceden a Blum Digital PR (precio).
 - Estudiantes universitarios de comunicación, periodismo, marketing.
 
-**Diferenciador**: contenido derivado del trabajo académico de Sonia Yánez (Marco ACA™, DOIs Zenodo, RICFE®). Es la **versión escalable** del conocimiento que Blum entrega 1-a-1.
+**Diferenciador**: contenido derivado del trabajo académico de Sonia Yánez (Marco ACA, DOIs Zenodo, RICFE™). Es la **versión escalable** del conocimiento que Blum entrega 1-a-1.
 
 ---
 
@@ -22,14 +23,14 @@
 ### 1. Cursos pregrabados (digital evergreen)
 | Categoría | Idea inicial | Estado |
 |---|---|---|
-| Fundamentos | "Reputación algorítmica para profesionales de PR" | 🟡 borrador idea |
-| Herramienta | "RICFE® — prompting estratégico aplicado a comunicación" | 🟡 borrador idea |
-| Auditoría | "Aplica el Marco ACA™ a tu marca en 5 días" | 🟡 borrador idea |
+| Fundamentos | **Curso Ejecutivo de Gestión de Reputación Algorítmica para Comunicadores** — 99 USD · 2 h en vivo mensuales + 3 h grabadas + ebook | 🟢 **en venta** |
+| Herramienta | "RICFE™ — prompting estratégico aplicado a comunicación" | 🟡 borrador idea |
+| Auditoría | "Aplica el Marco ACA a tu marca en 5 días" | 🟡 borrador idea |
 | Ética | "IA-Ethics para comunicadores" | 🟡 borrador idea |
 
 ### 2. Plantillas y herramientas pregrabadas
 - Plantillas de PR digital (notas de prensa IA-friendly, kits de medios, prompts de monitoreo).
-- Templates de auditoría ACA™ self-service (versión simplificada).
+- Templates de auditoría ACA self-service (versión simplificada).
 - Bibliotecas de prompts.
 
 ### 3. Tienda / shop — 🟢 ACTIVA (3 productos, cero promoción)
@@ -92,7 +93,7 @@
 ## Estado actual (1-may-2026)
 
 🟢 **Tienda activa con 3 productos** — sin promoción todavía (palanca de crecimiento inmediata).
-🟡 **Catálogo de cursos**: sin productos lanzados; pipeline editorial por construir.
+🟢 **Catálogo de cursos**: un curso lanzado y facturando (Reputación Algorítmica, 99 USD). Resto del pipeline editorial por construir.
 
 Falta:
 - Catalogar los 3 productos activos en la tienda (nombres, precios, fotos, URLs).
@@ -114,14 +115,14 @@ Falta:
 | AC5 | Identidad visual (logo, paleta, tipografías) | 🟡 |
 | AC6 | Catálogo MVP de cursos: 1 curso + 1 bundle plantillas para beta | 🟡 |
 | AC7 | Web propia consolidada (dominio, landing) | 🟡 |
-| AC8 | Política de licencia: cómo ARP usa el Marco ACA™ de Sonia personal | 🟡 |
+| AC8 | Política de licencia: cómo ARP usa el Marco ACA de Sonia personal | 🟡 |
 
 ---
 
 ## Reglas Academia ARP
 
-1. Todo contenido educativo cita el Marco ACA™ y los DOIs Zenodo cuando aplique.
+1. Todo contenido educativo cita el Marco ACA y los DOIs Zenodo cuando aplique.
 2. No vende auditorías 1-a-1 — eso es Blum.
 3. Tier claro: ARP es self-service, escalable, masivo. Blum es premium, custom, elite.
-4. Merch nunca usa el Marco ACA™ como producto principal — solo como elemento gráfico.
+4. Merch nunca usa el Marco ACA como producto principal — solo como elemento gráfico.
 5. Sonja Kalos no aparece en ningún canal de Academia ARP.

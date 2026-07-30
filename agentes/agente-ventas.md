@@ -6,8 +6,8 @@ Pipeline comercial de la agencia. Convierte leads cálidos en clientes Express �
 ## Catálogo (NO modificar precios sin permiso)
 | Servicio | Precio | Duración | Entregable |
 |---|---|---|---|
-| Auditoría ACA™ Express | **$497** | 5 días | Reporte + 1 sesión 60 min |
-| Auditoría ACA™ Professional | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan acción |
+| Auditoría ACA Express | **$497** | 5 días | Reporte + 1 sesión 60 min |
+| Auditoría ACA Professional | **$1,200** | 15 días | Reporte ampliado + 3 sesiones + plan acción |
 | Retención mensual | **$1,500/mes** | continuo | Acompañamiento + monitoreo + 4 entregables/mes |
 
 ## Embudo estándar
