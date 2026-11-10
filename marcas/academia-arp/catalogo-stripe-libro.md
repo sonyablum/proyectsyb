@@ -1,4 +1,4 @@
-# Catálogo Stripe — Libro "Reputación Algorítmica" (preventa)
+# Catálogo Stripe — Libro "Reputación algorítmica y GEO para Relaciones Públicas" (preventa)
 
 > Cuenta `acct_1Sh47w9D6PmzLXgN` · live mode · 10-nov-2026.
 
@@ -6,6 +6,9 @@
 
 | Campo | Valor |
 |---|---|
+| Título | **Reputación algorítmica y GEO para Relaciones Públicas** |
+| Subtítulo | Cómo lograr que la IA reconozca, describa y cite a tu marca, tu organización y tus líderes |
+| Autora | Sonia Yánez Blum |
 | Product ID | `prod_VTKRkYLzSXl0Gn` |
 | Price ID (preventa) | `price_1UaHFF9D6PmzLXgNjO2ekb4W` |
 | **Precio preventa** | **$19 USD** (hasta 15-nov-2026) |
@@ -13,6 +16,7 @@
 | Formato | PDF digital · ebook |
 | Entrega | 15-nov-2026 por email |
 | **Payment Link** | https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j |
+| Portada | `marcas/academia-arp/assets/portada-libro.webp` (896×1344 WebP) |
 
 ## Promesa en checkout
 

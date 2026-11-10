@@ -3,6 +3,11 @@
   Pegar en: WordPress → página nueva → bloque HTML personalizado
   Lanzamiento: 15-nov-2026 · precio $19 preventa / $29 regular
   Payment Link live: https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j
+
+  IMAGEN PORTADA: la ruta usa URL raw de GitHub. Para producción óptima,
+  sube marcas/academia-arp/assets/portada-libro.webp a tu Media Library de
+  WordPress y reemplaza el src del <img class="book-cover-img"> por la URL
+  que WordPress te dé. Mientras tanto la URL raw sirve.
   ============================================================ -->
 <style>
 .arp-libro * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -13,12 +18,7 @@
 .arp-libro .ribbon strong { color: #E8A33D; }
 .arp-libro .hero { padding: 72px 0 80px; background: linear-gradient(180deg, #FAF8F3 0%, #F3EDE2 100%); }
 .arp-libro .hero-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
-.arp-libro .book-cover { background: linear-gradient(135deg, #6B4C8F 0%, #4A3464 100%); aspect-ratio: 2 / 3; border-radius: 6px; box-shadow: 0 20px 50px rgba(107,76,143,.4), inset -4px 0 12px rgba(0,0,0,.2); padding: 48px 32px; color: #FAF8F3; display: flex; flex-direction: column; justify-content: space-between; position: relative; overflow: hidden; }
-.arp-libro .book-cover:before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 8px; background: rgba(0,0,0,.25); }
-.arp-libro .book-cover .mark { font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: #E8A33D; margin-bottom: 20px; }
-.arp-libro .book-cover h2 { font-size: 36px; font-weight: 700; line-height: 1.1; margin-bottom: 16px; letter-spacing: -0.01em; }
-.arp-libro .book-cover .sub { font-size: 16px; opacity: .85; }
-.arp-libro .book-cover .author { font-size: 14px; color: #E8A33D; letter-spacing: 1px; text-transform: uppercase; }
+.arp-libro .book-cover-img { width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 25px 60px rgba(107,76,143,.35), 0 0 0 1px rgba(107,76,143,.1); }
 .arp-libro .eyebrow { color: #6B4C8F; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 20px; font-weight: 700; }
 .arp-libro h1 { font-size: clamp(32px, 4.5vw, 52px); line-height: 1.1; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 20px; color: #2B2438; }
 .arp-libro h1 em { color: #E8A33D; font-style: normal; }
@@ -67,7 +67,7 @@
 .arp-libro .footer a { color: #E8A33D; }
 @media (max-width: 760px) {
   .arp-libro .hero-grid { grid-template-columns: 1fr; gap: 40px; }
-  .arp-libro .book-cover { max-width: 280px; margin: 0 auto; }
+  .arp-libro .book-cover-img { max-width: 320px; margin: 0 auto; }
   .arp-libro .author-block { grid-template-columns: 1fr; text-align: center; }
   .arp-libro .author-photo { max-width: 140px; margin: 0 auto; }
   .arp-libro section { padding: 56px 0; }
@@ -84,9 +84,9 @@
   <div class="wrap">
     <div class="hero-grid">
       <div>
-        <p class="eyebrow">Academia ARP · Edición digital</p>
-        <h1>Reputación Algorítmica: la nueva frontera <em>en relaciones públicas.</em></h1>
-        <p class="lead">Un libro para profesionales de comunicación sobre cómo se forma hoy la reputación en los sistemas de IA generativa y en los buscadores. Por Sonia Yánez Blum.</p>
+        <p class="eyebrow">Academia ARP · Edición digital · 15-nov-2026</p>
+        <h1>Reputación algorítmica <em>y GEO</em> para Relaciones Públicas.</h1>
+        <p class="lead">Cómo lograr que la IA reconozca, describa y cite a tu marca, tu organización y tus líderes. Por Sonia Yánez Blum, creadora del Marco ACA™.</p>
         <div class="price-block">
           <div class="price-main">
             <span class="price-old">$29</span>
@@ -97,13 +97,8 @@
         </div>
         <a href="https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j" class="btn btn-primary btn-block">Reservar mi copia en preventa — $19</a>
       </div>
-      <div class="book-cover">
-        <div>
-          <div class="mark">Academia ARP</div>
-          <h2>Reputación Algorítmica</h2>
-          <p class="sub">La nueva frontera en relaciones públicas</p>
-        </div>
-        <div class="author">Sonia Yánez Blum</div>
+      <div>
+        <img class="book-cover-img" src="https://raw.githubusercontent.com/sonyablum/proyectsyb/claude/fix-failing-projects-zu2U4/marcas/academia-arp/assets/portada-libro.webp" alt="Portada del libro Reputación algorítmica y GEO para Relaciones Públicas, de Sonia Yánez Blum" width="896" height="1344">
       </div>
     </div>
   </div>
@@ -113,11 +108,11 @@
 <section class="alt">
   <div class="wrap">
     <h2>¿De qué <span>trata este libro?</span></h2>
-    <p class="sub">La IA generativa ya decide qué se dice de ti antes de que puedas responder. Este libro es tu manual para auditarlo, medirlo y corregirlo.</p>
+    <p class="sub">La IA generativa ya decide qué se dice de ti antes de que puedas responder. Este libro es tu manual para que la IA te reconozca, te describa bien y te cite correctamente.</p>
     <div class="what-grid">
       <div class="what-item"><h3>Marco ACA™</h3><p>La metodología propia para auditar reputación en modelos de IA. Autoridad · Coherencia · Amplificación.</p></div>
-      <div class="what-item"><h3>ACA-Score™</h3><p>El índice que mide tu reputación algorítmica de 0 a 100 en los principales LLMs.</p></div>
-      <div class="what-item"><h3>GEO aplicado</h3><p>5 estrategias de intervención para mejorar cómo la IA cita y describe a tu entidad.</p></div>
+      <div class="what-item"><h3>GEO aplicado</h3><p>Generative Engine Optimization: cómo intervenir para que los LLMs te citen a ti y no a otros.</p></div>
+      <div class="what-item"><h3>AI Governance</h3><p>Criterios éticos y de gobernanza para comunicación corporativa en un entorno dominado por IA generativa.</p></div>
       <div class="what-item"><h3>20 prompts RICFE®</h3><p>Herramientas prácticas para aplicar desde el primer día.</p></div>
     </div>
   </div>
@@ -130,16 +125,17 @@
     <p class="sub">8 capítulos + 3 casos de estudio anonimizados + apéndice de prompts.</p>
     <div class="index-list">
       <ol>
-        <li>Introducción · la crisis de autoridad en la era de la IA generativa</li>
-        <li>Capítulo 1 · qué es la reputación algorítmica</li>
-        <li>Capítulo 2 · cómo nos leen los LLMs</li>
-        <li>Capítulo 3 · el Marco ACA™ (Autoridad · Coherencia · Amplificación)</li>
+        <li>Introducción · la nueva frontera de la reputación en la era de la IA generativa</li>
+        <li>Capítulo 1 · qué es la reputación algorítmica y por qué importa</li>
+        <li>Capítulo 2 · cómo leen los LLMs a tu marca, organización y líderes</li>
+        <li>Capítulo 3 · el Marco ACA™ · Autoridad, Coherencia y Amplificación</li>
         <li>Capítulo 4 · medir con el ACA-Score™</li>
-        <li>Capítulo 5 · 5 estrategias GEO de intervención</li>
-        <li>Capítulo 6 · ética algorítmica en comunicación corporativa</li>
+        <li>Capítulo 5 · GEO · cómo lograr que la IA te cite a ti</li>
+        <li>Capítulo 6 · AI Governance en comunicación corporativa</li>
         <li>Casos de estudio · 3 auditorías reales anonimizadas</li>
         <li>Apéndice · 20 prompts RICFE® aplicados</li>
       </ol>
+      <p style="margin-top:20px;font-size:13px;color:#8A7E9B;font-style:italic;">* El índice definitivo aparece en la edición entregada el 15-nov-2026.</p>
     </div>
   </div>
 </section>
@@ -166,8 +162,8 @@
       <div class="author-photo">SY</div>
       <div>
         <h3>Sonia Yánez Blum</h3>
-        <p>Especialista en RRPP 6.0 e IA. Autora del Marco ACA™, ACA-Score™ y RICFE®.</p>
-        <p>+28 años en comunicación estratégica. Investigadora independiente en reputación algorítmica (ORCID 0000-0002-6695-8129). Ponente UOC Barcelona 2026. Columnista El Universo (Ecuador). Fundadora Academia de Relaciones Públicas ARP (2020) y Blum Digital PR. Docente invitada de maestría UIDE Ecuador.</p>
+        <p>Investigadora independiente en reputación algorítmica y opinión pública. Creadora del Marco ACA™, el ACA-Score™ y el método RICFE®.</p>
+        <p>+28 años en comunicación estratégica. ORCID 0000-0002-6695-8129. Ponente UOC Barcelona 2026. Columnista de El Universo (Ecuador). Fundadora de Academia de Relaciones Públicas ARP (2020) y de Blum Digital PR. Docente invitada de maestría en UIDE Ecuador.</p>
       </div>
     </div>
   </div>
@@ -211,7 +207,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Book",
-  "name": "Reputación Algorítmica: la nueva frontera en relaciones públicas",
+  "name": "Reputación algorítmica y GEO para Relaciones Públicas",
+  "alternateName": "Cómo lograr que la IA reconozca, describa y cite a tu marca, tu organización y tus líderes",
   "bookFormat": "EBook",
   "inLanguage": "es",
   "author": {
