@@ -1,0 +1,299 @@
+<!-- ============================================================
+  LANDING AUDITORÍA ACA™ — blumdigitalpr.com/auditoria
+  Pegar en: WordPress → página nueva → bloque HTML personalizado
+  Estado: listo para publicar. Testimonios → logros públicos.
+  ============================================================ -->
+<style>
+.blum-landing * { box-sizing: border-box; margin: 0; padding: 0; }
+.blum-landing { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; color: #F5F5F5; background: #0A1628; line-height: 1.55; }
+.blum-landing a { color: inherit; text-decoration: none; }
+.blum-landing .wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+.blum-landing .hero { padding: 96px 0 72px; background: linear-gradient(180deg, #0A1628 0%, #0F1F35 100%); border-bottom: 1px solid rgba(200,169,106,.25); }
+.blum-landing .eyebrow { color: #C8A96A; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 20px; font-weight: 600; }
+.blum-landing h1 { font-size: clamp(32px, 5vw, 56px); line-height: 1.1; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 24px; }
+.blum-landing h1 em { color: #C8A96A; font-style: normal; }
+.blum-landing .lead { font-size: clamp(17px, 2vw, 21px); color: #C8CDD6; max-width: 720px; margin-bottom: 40px; }
+.blum-landing .btn { display: inline-block; padding: 16px 28px; font-size: 16px; font-weight: 600; border-radius: 4px; transition: transform .15s, box-shadow .15s; }
+.blum-landing .btn-primary { background: #D64545; color: #fff; }
+.blum-landing .btn-primary:hover { background: #BD3838; transform: translateY(-1px); box-shadow: 0 8px 20px rgba(214,69,69,.35); }
+.blum-landing .btn-outline { border: 1px solid #C8A96A; color: #C8A96A; margin-left: 12px; }
+.blum-landing .btn-outline:hover { background: #C8A96A; color: #0A1628; }
+.blum-landing section { padding: 80px 0; border-bottom: 1px solid rgba(200,169,106,.15); }
+.blum-landing h2 { font-size: clamp(26px, 3.2vw, 38px); margin-bottom: 20px; letter-spacing: -0.01em; }
+.blum-landing h2 span { color: #C8A96A; }
+.blum-landing .sub { color: #9BA3AE; font-size: 17px; max-width: 680px; margin-bottom: 48px; }
+.blum-landing .authority { background: #0F1F35; }
+.blum-landing .authority .quote { font-size: 20px; font-style: italic; color: #E8D8A8; border-left: 3px solid #C8A96A; padding: 8px 0 8px 20px; margin-bottom: 36px; max-width: 780px; }
+.blum-landing .trust-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px 36px; margin-top: 12px; }
+.blum-landing .trust-grid li { list-style: none; font-size: 15px; color: #C8CDD6; padding-left: 22px; position: relative; }
+.blum-landing .trust-grid li:before { content: "▸"; color: #C8A96A; position: absolute; left: 0; }
+.blum-landing .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin-top: 16px; }
+.blum-landing .card { background: #0F1F35; border: 1px solid rgba(200,169,106,.2); border-radius: 8px; padding: 36px 28px; display: flex; flex-direction: column; }
+.blum-landing .card.featured { border-color: #C8A96A; box-shadow: 0 0 0 1px #C8A96A; position: relative; }
+.blum-landing .card.featured:after { content: "Más elegido"; position: absolute; top: -12px; right: 24px; background: #C8A96A; color: #0A1628; font-size: 12px; font-weight: 700; padding: 4px 12px; border-radius: 3px; letter-spacing: 1px; }
+.blum-landing .card-name { font-size: 15px; letter-spacing: 1.5px; text-transform: uppercase; color: #C8A96A; margin-bottom: 8px; font-weight: 600; }
+.blum-landing .card-price { font-size: 42px; font-weight: 700; margin-bottom: 4px; letter-spacing: -0.02em; }
+.blum-landing .card-cycle { color: #9BA3AE; font-size: 14px; margin-bottom: 28px; }
+.blum-landing .card-features { list-style: none; margin-bottom: 32px; flex: 1; }
+.blum-landing .card-features li { padding: 10px 0 10px 24px; font-size: 15px; color: #E5E7EB; border-bottom: 1px solid rgba(255,255,255,.06); position: relative; }
+.blum-landing .card-features li:before { content: "✓"; position: absolute; left: 0; color: #C8A96A; font-weight: 700; }
+.blum-landing .card-features li:last-child { border-bottom: 0; }
+.blum-landing .card .btn { width: 100%; text-align: center; }
+.blum-landing .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 32px; margin-top: 16px; }
+.blum-landing .step { padding: 24px; }
+.blum-landing .step-num { font-size: 48px; font-weight: 700; color: #C8A96A; line-height: 1; margin-bottom: 12px; }
+.blum-landing .step-title { font-size: 18px; font-weight: 600; margin-bottom: 8px; }
+.blum-landing .step-desc { color: #9BA3AE; font-size: 15px; }
+.blum-landing .deliverables { background: #0F1F35; }
+.blum-landing .deliv-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 32px; }
+.blum-landing .deliv { padding: 28px; border-left: 3px solid #C8A96A; background: rgba(255,255,255,.02); }
+.blum-landing .deliv h3 { color: #C8A96A; font-size: 20px; margin-bottom: 16px; }
+.blum-landing .deliv ul { list-style: none; }
+.blum-landing .deliv li { padding: 6px 0 6px 20px; position: relative; font-size: 15px; }
+.blum-landing .deliv li:before { content: "·"; position: absolute; left: 6px; color: #C8A96A; }
+.blum-landing .faq-item { padding: 24px 0; border-bottom: 1px solid rgba(200,169,106,.15); }
+.blum-landing .faq-q { font-weight: 600; font-size: 17px; color: #C8A96A; margin-bottom: 10px; }
+.blum-landing .faq-a { color: #C8CDD6; font-size: 15px; }
+.blum-landing .finale { background: linear-gradient(180deg, #0F1F35 0%, #0A1628 100%); padding: 96px 0; text-align: center; }
+.blum-landing .finale h2 { margin-bottom: 20px; }
+.blum-landing .finale p { font-size: 18px; color: #C8CDD6; margin-bottom: 36px; }
+.blum-landing .finale .cta-row { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+.blum-landing .footer { background: #060F1C; padding: 48px 0; font-size: 13px; color: #6B7280; text-align: center; }
+.blum-landing .footer a { color: #9BA3AE; }
+@media (max-width: 640px) {
+  .blum-landing .btn-outline { margin-left: 0; margin-top: 8px; }
+  .blum-landing .hero { padding: 64px 0 48px; }
+  .blum-landing section { padding: 56px 0; }
+}
+</style>
+
+<div class="blum-landing">
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Blum Digital PR · Marco ACA™</p>
+    <h1>La IA ya está decidiendo <em>qué dice de tu organización.</em></h1>
+    <p class="lead">Auditamos qué están diciendo <strong>ChatGPT, Claude, Gemini y Perplexity</strong> sobre tu marca, y te damos el plan para corregirlo. Marco ACA™, por Sonia Yánez Blum.</p>
+    <div>
+      <a href="#servicios" class="btn btn-primary">Elegir mi auditoría</a>
+      <a href="#como" class="btn btn-outline">Ver cómo funciona</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ AUTORIDAD ============ -->
+<section class="authority">
+  <div class="wrap">
+    <p class="eyebrow">Autoridad metodológica</p>
+    <p class="quote">"El Marco ACA™ es el primer sistema de auditoría de reputación en modelos de IA generativa publicado en el ámbito académico hispano."</p>
+    <ul class="trust-grid">
+      <li>Autora del Marco ACA™, ACA-Score™ y RICFE®</li>
+      <li>+28 años en comunicación estratégica</li>
+      <li>Investigadora independiente · ORCID 0000-0002-6695-8129</li>
+      <li>Ponente UOC Barcelona 2026</li>
+      <li>Preprints Zenodo con DOI público</li>
+      <li>Columnista · El Universo (Ecuador)</li>
+      <li>Fundadora · Academia de Relaciones Públicas ARP (2020)</li>
+      <li>Trabajos en curso con Amcham Guayaquil, SFIC y UIDE</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ PRICING ============ -->
+<section id="servicios">
+  <div class="wrap">
+    <h2>Tres formas de <span>auditar tu reputación algorítmica.</span></h2>
+    <p class="sub">Precios en USD. Pago inmediato por Stripe. Factura automática.</p>
+    <div class="cards">
+
+      <!-- EXPRESS -->
+      <div class="card">
+        <div class="card-name">Express</div>
+        <div class="card-price">$497</div>
+        <div class="card-cycle">Entrega en 5 días hábiles</div>
+        <ul class="card-features">
+          <li>Reporte ACA-Score inicial</li>
+          <li>5 acciones priorizadas</li>
+          <li>1 sesión de 60 min con Sonia</li>
+          <li>Para freelancers, pymes, personas</li>
+        </ul>
+        <a href="https://buy.stripe.com/aFa7sF1yfa7scSjgvRc3m0g" class="btn btn-primary">Comprar Express</a>
+      </div>
+
+      <!-- PROFESSIONAL -->
+      <div class="card featured">
+        <div class="card-name">Professional</div>
+        <div class="card-price">$1.200</div>
+        <div class="card-cycle">Entrega en 15 días hábiles</div>
+        <ul class="card-features">
+          <li>Reporte ACA-Score completo</li>
+          <li>Plan de intervención a 90 días</li>
+          <li>Análisis cruzado con medios</li>
+          <li>3 sesiones de 60 min con Sonia</li>
+          <li>Para agencias, ejecutivos, marcas medianas</li>
+        </ul>
+        <a href="https://buy.stripe.com/aFa00d90HgvQ7xZ93pc3m0h" class="btn btn-primary">Comprar Professional</a>
+      </div>
+
+      <!-- RETENCIÓN -->
+      <div class="card">
+        <div class="card-name">Retención</div>
+        <div class="card-price">$1.500</div>
+        <div class="card-cycle">Mensual · compromiso mínimo 3 meses</div>
+        <ul class="card-features">
+          <li>Monitoreo continuo ACA-Score</li>
+          <li>4 entregables al mes</li>
+          <li>Sesión mensual de 60 min</li>
+          <li>Reporte ACA™ trimestral</li>
+          <li>Cancelación libre desde el mes 4</li>
+        </ul>
+        <a href="https://buy.stripe.com/9B69ANa4LcfA4lNgvRc3m0i" class="btn btn-primary">Suscribirme</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ============ CÓMO FUNCIONA ============ -->
+<section id="como">
+  <div class="wrap">
+    <h2>Cómo funciona <span>paso a paso.</span></h2>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-title">Pagas por Stripe</div>
+        <div class="step-desc">En menos de 60 segundos. Factura automática.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-title">Recibes el intake</div>
+        <div class="step-desc">En menos de 24 h hábiles. 10 preguntas sobre tu entidad.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-title">Auditamos tu presencia</div>
+        <div class="step-desc">En ChatGPT, Claude, Gemini y Perplexity con el Marco ACA™.</div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-title">Recibes el reporte</div>
+        <div class="step-desc">Reporte ACA-Score, acciones priorizadas y sesión en vivo.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ENTREGABLES ============ -->
+<section class="deliverables">
+  <div class="wrap">
+    <h2>Qué entregamos <span>exactamente.</span></h2>
+    <div class="deliv-grid">
+      <div class="deliv">
+        <h3>Express · $497</h3>
+        <ul>
+          <li>PDF ejecutivo 10–15 páginas</li>
+          <li>ACA-Score inicial (A·C·A)</li>
+          <li>5 acciones priorizadas</li>
+          <li>Sesión 60 min por Zoom con Sonia</li>
+        </ul>
+      </div>
+      <div class="deliv">
+        <h3>Professional · $1.200</h3>
+        <ul>
+          <li>Todo lo del Express</li>
+          <li>Plan 90 días detallado por mes</li>
+          <li>3 sesiones de 60 min (día 1, 45 y 90)</li>
+          <li>Análisis cruzado con fuentes y cobertura</li>
+        </ul>
+      </div>
+      <div class="deliv">
+        <h3>Retención · $1.500/mes</h3>
+        <ul>
+          <li>Monitoreo mensual comparativo</li>
+          <li>4 entregables al mes</li>
+          <li>Sesión mensual 60 min</li>
+          <li>Reporte ACA™ trimestral completo</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section>
+  <div class="wrap">
+    <h2>Preguntas <span>frecuentes.</span></h2>
+    <div class="faq-item">
+      <div class="faq-q">¿Cómo sé que funciona?</div>
+      <div class="faq-a">El Marco ACA™ se apoya en preprints académicos con DOI público en Zenodo. ACA-Score™ v2 (DOI 10.5281/zenodo.19035939), TAA-IA (DOI 10.5281/zenodo.18802347), RICFE® v1.0 (DOI 10.5281/zenodo.19388591).</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">¿Qué pasa si mi ACA-Score es bajo?</div>
+      <div class="faq-a">Ese es exactamente el punto de la auditoría. Te entregamos las acciones priorizadas para subirlo.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">¿Necesito dar accesos internos a mi organización?</div>
+      <div class="faq-a">No. Trabajamos con fuentes públicas y con los modelos de IA generativa en abierto.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">¿En qué idiomas trabajan?</div>
+      <div class="faq-a">Español. Auditamos modelos en español de forma nativa.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">¿Cómo me facturan?</div>
+      <div class="faq-a">Stripe genera recibo automático. Facturación desde la operación de Sonia Yánez Blum (Austria / RUC Ecuador según corresponda).</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">¿Hay garantía?</div>
+      <div class="faq-a">Siete días para cambio por otro servicio de igual valor. No hay reembolso tras entrega del reporte.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FINALE ============ -->
+<section class="finale">
+  <div class="wrap">
+    <h2>Cada semana sin medición <span>es una semana en que la IA está construyendo tu reputación sin tu criterio.</span></h2>
+    <p>Empieza hoy.</p>
+    <div class="cta-row">
+      <a href="https://buy.stripe.com/aFa7sF1yfa7scSjgvRc3m0g" class="btn btn-primary">Express · $497</a>
+      <a href="https://buy.stripe.com/aFa00d90HgvQ7xZ93pc3m0h" class="btn btn-primary">Professional · $1.200</a>
+      <a href="https://buy.stripe.com/9B69ANa4LcfA4lNgvRc3m0i" class="btn btn-primary">Retención · $1.500/mes</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer class="footer">
+  <div class="wrap">
+    <p>Blum Digital PR · <a href="mailto:info@blumdigitalpr.com">info@blumdigitalpr.com</a></p>
+    <p style="margin-top: 12px;">Marco ACA™, ACA-Score™ y RICFE® son propiedad intelectual de Sonia Yánez Blum, licenciados a Blum Digital PR y a Academia de Relaciones Públicas ARP.</p>
+  </div>
+</footer>
+
+</div>
+
+<!-- ============ SCHEMA.ORG (GEO / AEO) ============ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Auditoría de Reputación Algorítmica",
+  "provider": {
+    "@type": "Organization",
+    "name": "Blum Digital PR",
+    "founder": {
+      "@type": "Person",
+      "name": "Sonia Yánez Blum",
+      "sameAs": "https://orcid.org/0000-0002-6695-8129"
+    }
+  },
+  "areaServed": ["Latin America", "Spain", "United States"],
+  "offers": [
+    {"@type": "Offer", "name": "Auditoría ACA™ Express", "price": "497", "priceCurrency": "USD", "url": "https://buy.stripe.com/aFa7sF1yfa7scSjgvRc3m0g"},
+    {"@type": "Offer", "name": "Auditoría ACA™ Professional", "price": "1200", "priceCurrency": "USD", "url": "https://buy.stripe.com/aFa00d90HgvQ7xZ93pc3m0h"},
+    {"@type": "Offer", "name": "Retención Mensual Blum Digital PR", "price": "1500", "priceCurrency": "USD", "priceSpecification": {"@type": "UnitPriceSpecification", "billingDuration": "P1M"}, "url": "https://buy.stripe.com/9B69ANa4LcfA4lNgvRc3m0i"}
+  ]
+}
+</script>

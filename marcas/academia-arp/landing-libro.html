@@ -1,0 +1,236 @@
+<!-- ============================================================
+  LANDING PREVENTA LIBRO — academiaderelacionespublicas.com/libro
+  Pegar en: WordPress → página nueva → bloque HTML personalizado
+  Lanzamiento: 15-nov-2026 · precio $19 preventa / $29 regular
+  Payment Link live: https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j
+  ============================================================ -->
+<style>
+.arp-libro * { box-sizing: border-box; margin: 0; padding: 0; }
+.arp-libro { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; color: #2B2438; background: #FAF8F3; line-height: 1.55; }
+.arp-libro a { color: inherit; text-decoration: none; }
+.arp-libro .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+.arp-libro .ribbon { background: #6B4C8F; color: #FAF8F3; text-align: center; padding: 10px 16px; font-size: 14px; font-weight: 600; letter-spacing: 0.5px; }
+.arp-libro .ribbon strong { color: #E8A33D; }
+.arp-libro .hero { padding: 72px 0 80px; background: linear-gradient(180deg, #FAF8F3 0%, #F3EDE2 100%); }
+.arp-libro .hero-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
+.arp-libro .book-cover { background: linear-gradient(135deg, #6B4C8F 0%, #4A3464 100%); aspect-ratio: 2 / 3; border-radius: 6px; box-shadow: 0 20px 50px rgba(107,76,143,.4), inset -4px 0 12px rgba(0,0,0,.2); padding: 48px 32px; color: #FAF8F3; display: flex; flex-direction: column; justify-content: space-between; position: relative; overflow: hidden; }
+.arp-libro .book-cover:before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 8px; background: rgba(0,0,0,.25); }
+.arp-libro .book-cover .mark { font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: #E8A33D; margin-bottom: 20px; }
+.arp-libro .book-cover h2 { font-size: 36px; font-weight: 700; line-height: 1.1; margin-bottom: 16px; letter-spacing: -0.01em; }
+.arp-libro .book-cover .sub { font-size: 16px; opacity: .85; }
+.arp-libro .book-cover .author { font-size: 14px; color: #E8A33D; letter-spacing: 1px; text-transform: uppercase; }
+.arp-libro .eyebrow { color: #6B4C8F; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 20px; font-weight: 700; }
+.arp-libro h1 { font-size: clamp(32px, 4.5vw, 52px); line-height: 1.1; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 20px; color: #2B2438; }
+.arp-libro h1 em { color: #E8A33D; font-style: normal; }
+.arp-libro .lead { font-size: 18px; color: #4A4255; margin-bottom: 32px; }
+.arp-libro .price-block { background: #fff; border: 2px solid #6B4C8F; border-radius: 10px; padding: 24px; margin-bottom: 28px; display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+.arp-libro .price-main { display: flex; align-items: baseline; gap: 12px; }
+.arp-libro .price-old { font-size: 20px; color: #9B8FA8; text-decoration: line-through; }
+.arp-libro .price-new { font-size: 44px; font-weight: 700; color: #6B4C8F; line-height: 1; }
+.arp-libro .price-save { background: #E8A33D; color: #2B2438; padding: 4px 10px; border-radius: 4px; font-size: 13px; font-weight: 700; letter-spacing: 0.5px; }
+.arp-libro .countdown { font-size: 13px; color: #4A4255; text-transform: uppercase; letter-spacing: 1px; }
+.arp-libro .countdown strong { color: #E85D3C; font-size: 15px; }
+.arp-libro .btn { display: inline-block; padding: 18px 32px; font-size: 17px; font-weight: 700; border-radius: 6px; transition: transform .15s, box-shadow .15s; text-align: center; }
+.arp-libro .btn-primary { background: #E85D3C; color: #fff; box-shadow: 0 6px 16px rgba(232,93,60,.3); }
+.arp-libro .btn-primary:hover { background: #D64A2A; transform: translateY(-2px); box-shadow: 0 10px 24px rgba(232,93,60,.45); }
+.arp-libro .btn-block { width: 100%; }
+.arp-libro section { padding: 72px 0; }
+.arp-libro section.alt { background: #F3EDE2; }
+.arp-libro h2 { font-size: clamp(26px, 3vw, 36px); margin-bottom: 20px; color: #2B2438; letter-spacing: -0.01em; }
+.arp-libro h2 span { color: #6B4C8F; }
+.arp-libro .sub { color: #5C5168; font-size: 17px; margin-bottom: 36px; max-width: 680px; }
+.arp-libro .what-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 24px; }
+.arp-libro .what-item { background: #fff; padding: 28px 24px; border-radius: 8px; border-left: 4px solid #6B4C8F; }
+.arp-libro .what-item h3 { color: #6B4C8F; font-size: 18px; margin-bottom: 10px; }
+.arp-libro .what-item p { color: #4A4255; font-size: 15px; }
+.arp-libro .index-list { background: #fff; border-radius: 10px; padding: 36px; border: 1px solid #E5DECE; }
+.arp-libro .index-list ol { list-style: none; counter-reset: cap; }
+.arp-libro .index-list li { counter-increment: cap; padding: 14px 0 14px 50px; border-bottom: 1px solid #F3EDE2; position: relative; font-size: 16px; color: #2B2438; }
+.arp-libro .index-list li:before { content: counter(cap, decimal-leading-zero); position: absolute; left: 0; color: #E8A33D; font-weight: 700; font-size: 16px; letter-spacing: 1px; }
+.arp-libro .index-list li:last-child { border-bottom: 0; }
+.arp-libro .for-who ul { list-style: none; max-width: 560px; }
+.arp-libro .for-who li { padding: 12px 0 12px 32px; position: relative; font-size: 17px; }
+.arp-libro .for-who li:before { content: "✓"; position: absolute; left: 0; color: #E8A33D; font-weight: 700; font-size: 22px; }
+.arp-libro .author-block { display: grid; grid-template-columns: 180px 1fr; gap: 36px; align-items: start; background: #fff; padding: 36px; border-radius: 10px; border: 1px solid #E5DECE; }
+.arp-libro .author-photo { background: linear-gradient(135deg, #6B4C8F 0%, #E8A33D 100%); aspect-ratio: 1; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 48px; font-weight: 700; }
+.arp-libro .author-block h3 { color: #2B2438; font-size: 22px; margin-bottom: 12px; }
+.arp-libro .author-block p { color: #4A4255; font-size: 15px; margin-bottom: 8px; }
+.arp-libro .faq-item { padding: 20px 0; border-bottom: 1px solid #E5DECE; }
+.arp-libro .faq-q { font-weight: 700; color: #6B4C8F; font-size: 17px; margin-bottom: 8px; }
+.arp-libro .faq-a { color: #4A4255; font-size: 15px; }
+.arp-libro .final-cta { background: linear-gradient(135deg, #6B4C8F 0%, #4A3464 100%); color: #FAF8F3; padding: 80px 0; text-align: center; }
+.arp-libro .final-cta h2 { color: #FAF8F3; margin-bottom: 20px; }
+.arp-libro .final-cta h2 span { color: #E8A33D; }
+.arp-libro .final-cta p { font-size: 18px; margin-bottom: 36px; opacity: .9; }
+.arp-libro .final-cta .btn-primary { font-size: 20px; padding: 20px 48px; }
+.arp-libro .footer { background: #2B2438; color: #B6A9C8; padding: 48px 0; font-size: 14px; text-align: center; }
+.arp-libro .footer a { color: #E8A33D; }
+@media (max-width: 760px) {
+  .arp-libro .hero-grid { grid-template-columns: 1fr; gap: 40px; }
+  .arp-libro .book-cover { max-width: 280px; margin: 0 auto; }
+  .arp-libro .author-block { grid-template-columns: 1fr; text-align: center; }
+  .arp-libro .author-photo { max-width: 140px; margin: 0 auto; }
+  .arp-libro section { padding: 56px 0; }
+}
+</style>
+
+<div class="arp-libro">
+
+<!-- ============ RIBBON URGENCIA ============ -->
+<div class="ribbon">⏳ PREVENTA · <strong>HASTA EL 15 DE NOVIEMBRE</strong> · Después sube a $29</div>
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-grid">
+      <div>
+        <p class="eyebrow">Academia ARP · Edición digital</p>
+        <h1>Reputación Algorítmica: la nueva frontera <em>en relaciones públicas.</em></h1>
+        <p class="lead">Un libro para profesionales de comunicación sobre cómo se forma hoy la reputación en los sistemas de IA generativa y en los buscadores. Por Sonia Yánez Blum.</p>
+        <div class="price-block">
+          <div class="price-main">
+            <span class="price-old">$29</span>
+            <span class="price-new">$19</span>
+            <span class="price-save">AHORRA 34%</span>
+          </div>
+          <div class="countdown">Entrega <strong>15-NOV-2026</strong></div>
+        </div>
+        <a href="https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j" class="btn btn-primary btn-block">Reservar mi copia en preventa — $19</a>
+      </div>
+      <div class="book-cover">
+        <div>
+          <div class="mark">Academia ARP</div>
+          <h2>Reputación Algorítmica</h2>
+          <p class="sub">La nueva frontera en relaciones públicas</p>
+        </div>
+        <div class="author">Sonia Yánez Blum</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ DE QUÉ TRATA ============ -->
+<section class="alt">
+  <div class="wrap">
+    <h2>¿De qué <span>trata este libro?</span></h2>
+    <p class="sub">La IA generativa ya decide qué se dice de ti antes de que puedas responder. Este libro es tu manual para auditarlo, medirlo y corregirlo.</p>
+    <div class="what-grid">
+      <div class="what-item"><h3>Marco ACA™</h3><p>La metodología propia para auditar reputación en modelos de IA. Autoridad · Coherencia · Amplificación.</p></div>
+      <div class="what-item"><h3>ACA-Score™</h3><p>El índice que mide tu reputación algorítmica de 0 a 100 en los principales LLMs.</p></div>
+      <div class="what-item"><h3>GEO aplicado</h3><p>5 estrategias de intervención para mejorar cómo la IA cita y describe a tu entidad.</p></div>
+      <div class="what-item"><h3>20 prompts RICFE®</h3><p>Herramientas prácticas para aplicar desde el primer día.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ÍNDICE ============ -->
+<section>
+  <div class="wrap">
+    <h2>Lo que vas <span>a leer.</span></h2>
+    <p class="sub">8 capítulos + 3 casos de estudio anonimizados + apéndice de prompts.</p>
+    <div class="index-list">
+      <ol>
+        <li>Introducción · la crisis de autoridad en la era de la IA generativa</li>
+        <li>Capítulo 1 · qué es la reputación algorítmica</li>
+        <li>Capítulo 2 · cómo nos leen los LLMs</li>
+        <li>Capítulo 3 · el Marco ACA™ (Autoridad · Coherencia · Amplificación)</li>
+        <li>Capítulo 4 · medir con el ACA-Score™</li>
+        <li>Capítulo 5 · 5 estrategias GEO de intervención</li>
+        <li>Capítulo 6 · ética algorítmica en comunicación corporativa</li>
+        <li>Casos de estudio · 3 auditorías reales anonimizadas</li>
+        <li>Apéndice · 20 prompts RICFE® aplicados</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PARA QUIÉN ============ -->
+<section class="alt for-who">
+  <div class="wrap">
+    <h2>Para <span>quién es este libro.</span></h2>
+    <ul>
+      <li>DirCom y Head of Communications que necesitan entender el nuevo escenario</li>
+      <li>Agencias de PR y consultoras que quieren ofrecer este servicio</li>
+      <li>Profesores y docentes de comunicación</li>
+      <li>Comunicadores independientes y freelancers</li>
+      <li>Estudiantes de últimos semestres de RRPP y comunicación</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ AUTORA ============ -->
+<section>
+  <div class="wrap">
+    <h2>Sobre <span>la autora.</span></h2>
+    <div class="author-block">
+      <div class="author-photo">SY</div>
+      <div>
+        <h3>Sonia Yánez Blum</h3>
+        <p>Especialista en RRPP 6.0 e IA. Autora del Marco ACA™, ACA-Score™ y RICFE®.</p>
+        <p>+28 años en comunicación estratégica. Investigadora independiente en reputación algorítmica (ORCID 0000-0002-6695-8129). Ponente UOC Barcelona 2026. Columnista El Universo (Ecuador). Fundadora Academia de Relaciones Públicas ARP (2020) y Blum Digital PR. Docente invitada de maestría UIDE Ecuador.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="alt">
+  <div class="wrap">
+    <h2>Preguntas <span>frecuentes.</span></h2>
+    <div class="faq-item"><div class="faq-q">¿Cuándo recibo el libro?</div><div class="faq-a">El 15 de noviembre de 2026 en el correo con el que te registres en el pago.</div></div>
+    <div class="faq-item"><div class="faq-q">¿En qué formato?</div><div class="faq-a">PDF digital. No hay versión impresa.</div></div>
+    <div class="faq-item"><div class="faq-q">¿Puedo imprimirlo?</div><div class="faq-a">Sí, para uso personal. No puede redistribuirse ni revenderse.</div></div>
+    <div class="faq-item"><div class="faq-q">¿El pago es seguro?</div><div class="faq-a">Sí. Procesado directamente por Stripe.</div></div>
+    <div class="faq-item"><div class="faq-q">¿Me emiten factura?</div><div class="faq-a">Sí. Stripe genera recibo automáticamente al terminar el pago.</div></div>
+    <div class="faq-item"><div class="faq-q">¿Garantía o cambios?</div><div class="faq-a">Siete días para cambio por otro producto de Academia ARP de igual valor. No hay reembolso tras entrega del PDF.</div></div>
+    <div class="faq-item"><div class="faq-q">¿Qué pasa si compro después del 15-nov?</div><div class="faq-a">Recibes el libro en el mismo instante, al precio regular de $29.</div></div>
+  </div>
+</section>
+
+<!-- ============ FINAL CTA ============ -->
+<section class="final-cta">
+  <div class="wrap">
+    <h2>Resérvalo <span>en preventa.</span></h2>
+    <p>Ahorras $10. Lo recibes el día del lanzamiento.</p>
+    <a href="https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j" class="btn btn-primary">Reservar mi copia — $19</a>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer class="footer">
+  <div class="wrap">
+    <p>Academia de Relaciones Públicas ARP · <a href="mailto:info@academiaderelacionespublicas.com">info@academiaderelacionespublicas.com</a></p>
+    <p style="margin-top: 10px;">Marco ACA™, ACA-Score™ y RICFE® son propiedad intelectual de Sonia Yánez Blum.</p>
+  </div>
+</footer>
+
+</div>
+
+<!-- ============ SCHEMA.ORG (GEO / AEO) ============ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Reputación Algorítmica: la nueva frontera en relaciones públicas",
+  "bookFormat": "EBook",
+  "inLanguage": "es",
+  "author": {
+    "@type": "Person",
+    "name": "Sonia Yánez Blum",
+    "sameAs": "https://orcid.org/0000-0002-6695-8129"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Academia de Relaciones Públicas ARP"
+  },
+  "datePublished": "2026-11-15",
+  "offers": {
+    "@type": "Offer",
+    "price": "19",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2026-11-15",
+    "availability": "https://schema.org/PreOrder",
+    "url": "https://buy.stripe.com/14AdR34Kr4N83hJ6Vhc3m0j"
+  }
+}
+</script>
